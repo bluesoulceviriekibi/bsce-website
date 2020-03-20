@@ -1,2 +1,2 @@
-# bsce-discord-bot
-BlueSoul Çeviri Ekibi - Discord Botu
+# bsce-website
+https://bluesoulceviriekibi.net
