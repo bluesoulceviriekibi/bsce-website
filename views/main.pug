@@ -1,0 +1,54 @@
+//- coded by omerakgoz34 :)
+
+// coded by omerakgoz34 :)
+
+doctype html
+
+html(lang='tr')
+
+	head
+		script(async src='https://www.googletagmanager.com/gtag/js?id=UA-142633768-3')
+		script.
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-142633768-3');
+		meta(charset='utf-8')
+		meta(name='viewport' content='width=device-width, initial-scale=1.0')
+		title=`${title}BlueSoul Çeviri Ekibi`
+		meta(name='description' content=`${desc}`)
+		meta(name='author' content='bluesoulceviriekibi')
+		meta(name='theme-color', content=`${themeColor}`)
+		link(rel='icon' type=`image/${iconType}` href=`/img/${icon}`)
+		link(type='text/css' rel='stylesheet' href='/css/main.css')
+		meta(property="og:image" content=`https://bluesoulceviriekibi.net/img/${img}`)
+		meta(property="og:url" content=`https://bluesoulceviriekibi.net${pageURL}`)
+		meta(property="og:site_name" content="BlueSoul Çeviri Ekibi")
+		meta(property="og:title" content=`${title}BlueSoul Çeviri Ekibi`)
+		meta(property="og:description" content=`${desc}`)
+		meta(property="og:locale" content="tr_TR")
+		meta(property="og:image:type" content=`image/${imgType}`)
+		meta(property="og:image:width" content=`${imgWidth}`)
+		meta(property="og:image:height" content=`${imgHeight}`)
+		meta(property="twitter:site" content="@bluesoulceviriekibi")
+		meta(property="twitter:creator" content="@bluesoulceviriekibi")
+		meta(property="twitter:card" content='summary_large_image')
+		meta(property="twitter:title" content=`${title}BlueSoul Çeviri Ekibi`)
+		meta(property="twitter:description" content=`${desc}`)
+		meta(property="twitter:image:src" content=`https://bluesoulceviriekibi.net/img/${img}`)
+		meta(property="twitter:image:width" content=`${imgWidth}`)
+		meta(property="twitter:image:height" content=`${imgHeight}`)
+		script(src='https://animejs.com/lib/anime.min.js')
+		block headExtra
+		
+	body(=bodyAttr)
+		nav(id='navbar' class='navbar')
+			div(class='navbar-list center-2 center-flex')
+				div(onclick="setPage('/', 250)") Ana Sayfa
+				div(onclick="setPage('translations', 250)") Çeviriler
+				div(onclick="setPage('about_us', 250)") Hakkımızda
+		script(src='/js/navbar.js')
+		div(id='stars')
+		script(src='/js/stars.js')
+		
+		block content

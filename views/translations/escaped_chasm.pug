@@ -1,0 +1,99 @@
+//- coded by omerakgoz34 :)
+
+extends ../main
+
+block headExtra
+	link(type='text/css' rel='stylesheet' href='/css/escaped_chasm.css')
+
+block content
+	h1(class='escaped-chasm-title' style='color: white;') Escaped Chasm Türkçe
+	img(class='escaped-chasm-bg' src='/img/escaped_chasm.png')
+	h1(class='escaped-chasm-title about-title') Escaped Chasm Hakkında
+	p(class='escaped-chasm-about') Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
+		br/
+		br/
+		br/ Yapımcı: 
+		font(color='yellow') Temmie Chang
+		br/
+		br/ Oyun içi müzikler: 
+		font(color='yellow') Toby Fox
+		br/
+		br/ Orijinal Oyunun Sitesi: 
+		a(style='color: yellow;' href='https://tuyoki.itch.io/escaped-chasm' target='_blank') itch.io/Escaped Chasm
+	h1(class='escaped-chasm-title about-team-title') Yamayı Hazırlayanlar
+	p(class='escaped-chasm-about about-team-title-p')
+		span(class='about-team-title-span') Yama Yöneticisi:
+		br/ Gökhan Perçem
+		br/
+		br/
+		span(class='about-team-title-span') Çeviri:
+		br/ Anıl Arda Genç
+		br/ Çagrı Apaydın
+		br/ Gökhan Perçem
+		br/ Mehmet Kutlualp Makas
+		br/
+		br/
+		span(class='about-team-title-span') Kalite Kontrol:
+		br/ Anıl Arda Genç
+		br/ Mehmet Kutlualp Makas
+		br/
+		br/
+		span(class='about-team-title-span') Ekstra Medya:
+		br/ Gökhan Perçem
+		br/ Mehmet Kutlualp Makas
+		br/
+		br/
+		span(class='about-team-title-span') Paketleme ve Yayınlama:
+		br/ omerakgoz34
+		br/
+		br/
+	h1(class='escaped-chasm-title game-tricks') ! Önemli Bilgilendirme !
+	p(class='escaped-chasm-about game-tricks-p')
+		span(class='game-tricks-span') 1-) 
+		.
+			Ayarlardan sürekli koşmayı kapatın(OFF), aksi taktirde ilerlerken oyun çökebilir. (yamadan kaynaklı değildir)
+		br/
+		br/
+		span(class='game-tricks-span') 2-) 
+		.
+			Oyun dosyalarında Extra / GUIDE klasöründe oyunun nasıl oynanacağı ve farklı sonların nasıl yapılacağı hakkında resimli rehber bulunmaktadır.
+		br/
+		br/
+		span(class='game-tricks-span') 3-) !!! 
+		.
+			Oyunu, "Program Files" gibi yönetici izini isteyen klasörlere yüklemeyiniz. Aksi taktirde oyun ilerlemeyi ve ayarları kaydederken hata verebilir.
+		br/
+		br/
+		span(class='game-tricks-span') 4-) 
+		.
+			Oyunun bazı yerlerinde eksik harfler görülebilir, görürseniz lütfen bize bildiriniz.
+		br/
+		br/
+		span(class='game-tricks-span') 5-) 
+		.
+			Oyundaki animasyonlar, ara sahneler oyunun donmasına/çökmesine sebep olabilir. (yamadan kaynaklı degildir)
+		br/
+		br/ BlueSoul Çeviri Ekibi iyi oyunlar diler :)
+
+	h1(class='escaped-chasm-title download-title') İndirme Merkezi
+	ul(class='escaped-chasm-download')
+		li(class='escaped-chasm-download-windows' onclick='openDownloadPanel();' title='Windows için indir')
+			img(src='/img/platform_windows.png')
+	div(class='download-panel' id='download-panel')
+		div(class='download-panel-window')
+			h3(onclick='closeDownloadPanel();') x
+			p(id='download-panel-window-p')
+				span(class='warning') !!! UYARI !!!
+				br/
+				br/ Uzun süreli yüksek/alçak seviyeli sesler ve rahatsız edici atmosfer/unsur içerebilir.
+				br/
+				br/
+				br/Yama sürümü: 
+				font(color='yellow') v1 (160MB/180MB)
+				br/ 03.06.2019
+			ul(class='download-options')
+				li(id='download-options-escaped-chasm' onclick="startDownload('escaped-chasm-windows', 100);") Yükleyici indir
+				li(id='download-options-escaped-chasm-alt' onclick="startDownload('escaped-chasm-windows-alt', 100);") 7ZIP olarak indir
+
+	// Scripts
+	script(src='/js/download_panel.js')

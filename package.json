@@ -1,0 +1,23 @@
+{
+  "name": "bsce-website",
+  "version": "1.0.0",
+  "description": "BlueSoul Çeviri Ekibi - Website",
+  "author": "omerakgoz34",
+  "license": "GPL-3.0-only",
+  "private": true,
+  "engines": {
+    "node": ">=12.x.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cookie-parser": ">=0.0.1",
+    "deasync": ">=0.0.1",
+    "express": ">=0.0.1",
+    "express-subdomain": ">=0.0.1",
+    "http-errors": ">=0.0.1",
+    "morgan": ">=0.0.1",
+    "pug": ">=0.0.1"
+  }
+}
