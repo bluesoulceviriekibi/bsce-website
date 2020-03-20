@@ -94,3 +94,10 @@ function onError (error) {
 
 console.log('WebSite started.')
 console.log(`${port} numaralı port üzerinde aktif :3`)
+
+let rebootTimer = 360
+setInterval(async () => {
+  if (rebootTimer <= 0) {
+    process.exit(0)
+  } else rebootTimer = rebootTimer - 1
+}, 60000)
