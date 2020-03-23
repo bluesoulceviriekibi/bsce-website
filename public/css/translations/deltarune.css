@@ -104,8 +104,8 @@
 	color: white;
 	width: fit-content;
 	height: fit-content;
-	border-radius: 0.5vw;
-	margin: 4rem 0;
+	border-radius: 0.5rem;
+	margin: 1rem 0;
 	pointer-events: none;
 	left: 50%;
 	transform: translateX(-50%);
@@ -114,8 +114,8 @@
 .deltarune-download li {
 	list-style: none;
 	float: left;
-	height: 4vw;
-	width: 12vw;
+	height: 3.3rem;
+	width: 10rem;
 	overflow: hidden;
 	transition: 0.5s;
 	cursor: pointer;

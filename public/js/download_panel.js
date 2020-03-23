@@ -22,30 +22,34 @@ function ControlKey (event) {
   }
 }
 
+function openInNewTab(url) {
+  window.open(url, '_blank').focus()
+}
+
 // eslint-disable-next-line no-unused-vars
 function startDownload (section, delay) {
   switch (section) {
     case 'deltarune-windows':
       setTimeout(() => {
-        window.location.assign('https://drive.google.com/file/d/1oFmptmGKv6svYlSgZO2kWkvlPNvVaRYq/view?usp=sharing')
+        openInNewTab('https://drive.google.com/file/d/1oFmptmGKv6svYlSgZO2kWkvlPNvVaRYq/view?usp=sharing')
       }, delay)
       break
 
     case 'deltarune-windows-alt':
       setTimeout(() => {
-        window.location.assign('https://drive.google.com/file/d/1clbNFw3bSUlMjyTIzTEaoKbUdX2VgZLa/view?usp=sharing')
+        openInNewTab('https://drive.google.com/file/d/1clbNFw3bSUlMjyTIzTEaoKbUdX2VgZLa/view?usp=sharing')
       }, delay)
       break
 
     case 'escaped-chasm-windows':
       setTimeout(() => {
-        window.location.assign('https://drive.google.com/file/d/12VG7uJ5_2i2P636oB1VdlU8TBj9oeFUL/view?usp=sharing')
+        openInNewTab('https://drive.google.com/file/d/12VG7uJ5_2i2P636oB1VdlU8TBj9oeFUL/view?usp=sharing')
       }, delay)
       break
 
     case 'escaped-chasm-windows-alt':
       setTimeout(() => {
-        window.location.assign('https://drive.google.com/file/d/1RTdcN5vVtLdDPdl8Ad56hQoEBavfNYry/view?usp=sharing')
+        openInNewTab('https://drive.google.com/file/d/1RTdcN5vVtLdDPdl8Ad56hQoEBavfNYry/view?usp=sharing')
       }, delay)
       break
   }
