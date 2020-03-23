@@ -22,7 +22,7 @@ function ControlKey (event) {
   }
 }
 
-function openInNewTab(url) {
+function openInNewTab (url) {
   window.open(url, '_blank').focus()
 }
 
