@@ -1,12 +1,22 @@
 /* coded by omerakgoz34 :) */
 
-.deltarune-bg {
+.deltarune-container {
 	position: relative;
+	top: 0;
 	left: 50%;
 	transform: translateX(-50%);
-	top: 1.65rem;
-	height: 15rem;
-	width: 21.5rem;
+	overflow: hidden;
+	height: 50rem;
+	width: 60rem;
+}
+
+.deltarune-container .deltarune-bg {
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 1.3rem;
+	height: 40rem;
+	width: 60rem;
 	pointer-events: none;
 	background-image: url('/img/deltarune_bg.gif');
 	background-repeat: no-repeat;
@@ -14,27 +24,13 @@
 	background-position: center;
 }
 
-.ribbon {
-	position: relative;
-	top: -2rem;
+.deltarune-container .deltarune-logo {
+	position: absolute;
 	left: 50%;
 	transform: translateX(-50%);
-	height: 6rem;
-	width: 21rem;
-	pointer-events: none;
-	background-image: url('/img/ribbon.png');
-	background-repeat: no-repeat;
-	background-size: contain;
-	background-position: center;
-}
-
-.deltarune-logo {
-	position: relative;
-	left: 50%;
-	transform: translateX(-50%);
-	top: -10rem;
-	height: 2rem;
-	width: 15rem;
+	top: 20rem;
+	height: 15rem;
+	width: 40rem;
 	pointer-events: none;
 	background-image: url('/img/deltarune_logo.png');
 	background-repeat: no-repeat;
@@ -42,63 +38,64 @@
 	background-position: center;
 }
 
-.deltarune-main-title {
-	position: relative;
-	top: -9em;
+.deltarune-container .deltarune-main-title {
+	position: absolute;
+	top: 30rem;
 	left: 50%;
 	transform: translateX(-50%);
 	width: fit-content;
 	height: fit-content;
 	text-align: center;
 	color: white;
-	font-size: 0.5rem;
+	font-size: 2.5rem;
 	pointer-events: none;
+}
+
+.deltarune-container .ribbon {
+	position: absolute;
+	top: 33rem;
+	left: 50%;
+	transform: translateX(-50%);
+	height: 18rem;
+	width: 60rem;
+	pointer-events: none;
+	background-image: url('/img/ribbon.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
 }
 
 .main-container {
 	position: relative;
 	width: fit-content;
 	height: fit-content;
-	top: -15vw;
 	left: 50%;
 	transform: translateX(-50%);
 }
 
 .container-title {
-	margin-top: 10vw;
 	position: relative;
 	text-align: center;
 	color: yellow;
-	font-size: 4vw;
+	font-size: 3rem;
+	margin-top: 8rem;
 }
 
-.deltarune-about {
+.container-text {
 	position: relative;
 	text-align: left;
 	color: white;
-	font-size: 1.5vw;
+	font-size: 1.2rem;
 	width: fit-content;
 	height: fit-content;
-	margin: 3vw 0;
+	margin: 3rem 0;
 	left: 50%;
 	transform: translateX(-50%);
 }
 
-.about-team {
-	position: relative;
-	margin: 3vw 0;
-	text-align: left;
-	width: fit-content;
-	height: fit-content;
-	font-size: 1.5vw;
-	color: white;
-	left: 50%;
-	transform: translateX(-50%);
-}
-
-.about-team-title {
+.container-text-span {
 	color: rgb(30, 100, 255);
-	font-size: 2.5vw;
+	font-size: 2rem;
 	text-align: center;
 }
 
@@ -108,7 +105,7 @@
 	width: fit-content;
 	height: fit-content;
 	border-radius: 0.5vw;
-	margin: 4vw 0;
+	margin: 4rem 0;
 	pointer-events: none;
 	left: 50%;
 	transform: translateX(-50%);

@@ -3,16 +3,17 @@
 extends ../main
 
 block headExtra
-	link(type='text/css' rel='stylesheet' href='/css/deltarune.css')
+	link(type='text/css' rel='stylesheet' href='/css/translations/deltarune.css')
 
 block content
-	div(class='deltarune-bg')
-	div(class='ribbon')
-	div(id='deltarune-logo' class='deltarune-logo')
-	h1(class='deltarune-main-title') Deltarune Türkçe: Bölüm 1
+	div(class='deltarune-container')
+		div(class='deltarune-bg')
+		div(id='deltarune-logo' class='deltarune-logo')
+		h1(class='deltarune-main-title') Deltarune Türkçe: Bölüm 1
+		div(class='ribbon')
 	div(class='main-container')
-		h1(id='about-game' class='container-title') Deltarune Hakkında
-		p(class='deltarune-about') Karanlık Daha Karanlık Daha Da Karanlık...
+		h1(class='container-title') Deltarune Hakkında
+		p(class='container-text') Karanlık Daha Karanlık Daha Da Karanlık...
 			br/ Karanlık Büyümeye Devam Ediyor...
 			br/ Gölgeler Derinleşiyor...
 			br/ Foton Sonuçları Olumsuz...
@@ -47,14 +48,14 @@ block content
 			br/ Yayınlanma Tarihi: 
 			font(color='yellow') 31 EKİM 2018
 
-		h1(id='about-team' class='container-title') Yamayı Hazırlayanlar
-		p(class='about-team')
-			span(class='about-team-title') Yama Yöneticisi:
+		h1(class='container-title') Yamayı Hazırlayanlar
+		p(class='container-text')
+			span(class='container-text-span') Yama Yöneticisi:
 			br/
 			br/ * Hasan Hüseyin Şahin
 			br/
 			br/
-			span(class='about-team-title') Çeviri:
+			span(class='container-text-span') Çeviri:
 			br/
 			br/ * Ahmet Emir
 			br/ * Asriel Dreemurr
@@ -71,7 +72,7 @@ block content
 			br/ * Ulaş Göksingöl
 			br/
 			br/
-			span(class='about-team-title') Kalite Kontrol:
+			span(class='container-text-span') Kalite Kontrol:
 			br/ 
 			br/ * Ali Meriç Uslu
 			br/ * Gökhan Perçem
@@ -81,7 +82,7 @@ block content
 			br/ * Yamocuk
 			br/
 			br/
-			span(class='about-team-title') Özel Tesekkürler:
+			span(class='container-text-span') Özel Tesekkürler:
 			br/
 			br/ * D'ekuburnn ⍚#5647
 			br/ * 🎄 Natale 🎄#2568
@@ -99,7 +100,7 @@ block content
 			br/ * Yusuf.
 			br/
 			br/
-			span(class='about-team-title') Paketleme ve Yayınlama:
+			span(class='container-text-span') Paketleme ve Yayınlama:
 			br/
 			br/ * omerakgoz34
 			br/

@@ -1,7 +1,5 @@
 // coded by omerakgoz34 :)
 
-console.clear()
-
 // WebSite modules
 const createError = require('http-errors')
 const express = require('express')
@@ -47,7 +45,7 @@ exp.use(function (err, req, res, next) {
   res.render('error', { title: `HATA: ${err.status} (${err.message}) | `, iconType: 'png', icon: 'heart.png', themeColor: 'rgb(255, 0, 0)', bodyAttr: '', errorCode: err.status, errorMsg: err.message })
 })
 
-const port = normalizePort(process.env.PORT || process.env.port)
+const port = normalizePort(process.env.PORT || process.env.port || 8080 || 3000)
 exp.set('port', port)
 const server = http.createServer(exp)
 
