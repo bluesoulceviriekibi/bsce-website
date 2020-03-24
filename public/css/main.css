@@ -13,7 +13,7 @@
 	margin: 0;
 	padding: 0;
 	text-decoration: none;
-	scrollbar-color: rgba(30, 100, 255, 0.5) black ;
+	scrollbar-color: rgba(30, 100, 255, 0.5) rgba(0, 0, 0, 0);
 	scrollbar-width: thin;
 }
 
@@ -33,9 +33,9 @@ body {
 	width: 5px;
 	height: 5px;
 }
-*::-webkit-scrollbar-track { background: black; }
+*::-webkit-scrollbar-track { background: rgba(0, 0, 0, 0); }
 *::-webkit-scrollbar-corner {
-	background-color: black;
+	background-color: rgba(0, 0, 0, 0);
 	width: 5px;
 	height: 5px;
 }
@@ -125,11 +125,12 @@ body {
 	pointer-events: none;
 	user-select: none;
 	animation-delay: 0.5s;
+	filter: blur(2px);
 }
 
 #stars img {
-	width: 10px;
-	height: 10px;
+	width: 1rem;
+	height: 1rem;
 	position: absolute;
 }
 

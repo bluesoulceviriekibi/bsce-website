@@ -148,9 +148,9 @@
 	border-right: 0.15vw solid white;
 	border-left: 0.15vw solid white;
 }
-.deltarune-download-android:hover {
+/* .deltarune-download-android:hover {
 	background: rgb(0, 225, 50);
-}
+} */
 
 .deltarune-download-storage {
 	border-left: 0.15vw solid white;
@@ -172,7 +172,6 @@
 	left: 0;
 	width: 100vw;
 	height: 100vh;
-	background: rgba(0, 0, 0, 0.5);
 }
 .download-panel-window {
 	z-index: 11;
@@ -196,9 +195,11 @@
 	text-align: center;
 	width: fit-content;
 	height: fit-content;
+	transition: color 0.25s;
 }
 .download-panel-window h3:hover {
 	color: yellow;
+	transition: color 0s;
 }
 .download-panel-window p {
 	z-index: 12;

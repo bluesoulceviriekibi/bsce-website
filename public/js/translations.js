@@ -92,7 +92,6 @@ typeGame.onclick = function () {
 // eslint-disable-next-line no-unused-vars
 function openInNewTab (url, delay) {
   setTimeout(() => {
-    var win = window.open(url, '_blank')
-    win.focus()
+    window.open(url, '_blank').focus()
   }, delay)
 }

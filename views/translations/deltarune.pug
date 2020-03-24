@@ -110,18 +110,18 @@ block content
 		ul(id='downloads' class='deltarune-download')
 			li(class='deltarune-download-windows' onclick='openDownloadPanel();' title='Windows için indir')
 				img(src='/img/platform_windows.png')
-			li(class='deltarune-download-android' title='Bir sonraki sürümde...')
+			li(class='deltarune-download-android' title='Henüz gelmedi bea .d')
 				img(src='/img/platform_android.png')
-			li(class='deltarune-download-storage' title='Bir sonraki sürümde...')
+			li(class='deltarune-download-storage' title='Henüz gelmedi bea .d')
 				img(src='/img/secret_storage.png')
 	div(class='download-panel' id='download-panel')
-		div(class='download-panel-window')
+		div(class='download-panel-window' id='download-panel-window')
 			h3(onclick='closeDownloadPanel();') x
 			p(id='download-panel-window-p')
 				span(class='warning') !!! UYARI !!!
 				br/
-				br/ Hareketli ve parlak görseller içerebilir ve sadece
-				a(style='color: white' href='https://undertale.com' target='_blank') UNDERTALE
+				br/ Hareketli ve parlak görseller içerebilir ve sadece 
+				a(style='color: white; text-decoration: underline;' href='https://undertale.com' target='_blank') UNDERTALE
 				.
 					'ı tamamlamış olanlar içindir.
 				br/
