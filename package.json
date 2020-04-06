@@ -9,7 +9,9 @@
     "node": ">=12.x.x"
   },
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "devWin": "env port=80 node app.js",
+    "dev": "port=80 node app.js"
   },
   "dependencies": {
     "cookie-parser": ">=0.0.1",

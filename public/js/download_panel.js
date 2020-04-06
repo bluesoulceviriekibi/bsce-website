@@ -14,7 +14,7 @@ function openDownloadPanel () {
     targets: downloadPanel,
     duration: 400,
     easing: 'easeInOutCubic',
-    backdropFilter: ['blur(0rem)', 'blur(1rem)']
+    background: ['rgba(0, 0, 0, 0)', 'rgba(0, 0, 0, 1)']
   })
 
   // eslint-disable-next-line no-undef
@@ -36,7 +36,7 @@ function closeDownloadPanel () {
     targets: downloadPanel,
     duration: 400,
     easing: 'easeInOutCubic',
-    backdropFilter: ['blur(1rem)', 'blur(0rem)'],
+    background: ['rgba(0, 0, 0, 1)', 'rgba(0, 0, 0, 0)'],
     complete: function () {
       downloadPanel.style.display = 'none'
       document.body.style.overflow = 'initial'
