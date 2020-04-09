@@ -1,0 +1,91 @@
+//- coded by omerakgoz34 :)
+
+extends ../main
+
+block headExtra
+	link(type='text/css' rel='stylesheet' href='/css/translation_page.css')
+
+block content
+	h1(class='container-title') The Aftermath Türkçe
+	div(class='container-image')
+		img(src="/img/the_aftermath_logo.png" alt="The Aftermath Logo")
+	div(class='container')
+		h1(class='title') The Aftermath Hakkında
+		p(class='text') Karanlık Daha Karanlık Daha Da Karanlık...
+			br/
+			br/ Yapımcı: 
+			font(color='yellow') Toby Fox
+			br/
+			br/ Yayınlanma Tarihi: 
+			font(color='yellow') 31 EKİM 2018
+
+		h1(class='title') Yamayı Hazırlayanlar
+		p(class='text')
+			span Yama Yöneticisi:
+			br/
+			br/ * Hasan Hüseyin Şahin
+			br/
+			br/
+			span Çeviri:
+			br/
+			br/ * Ahmet Emir
+			br/ * Asriel Dreemurr
+			br/ * Bulut Göksu
+			br/ * Emre Ege
+			br/ * Fahri Keskin
+			br/ * Fatalem
+			br/ * Gökhan Perçem
+			br/ * Habibegu
+			br/ * İbrahim Özobuz
+			br/ * omerakgoz34
+			br/ * Reigo
+			br/ * Salih Güdücü
+			br/ * Ulaş Göksingöl
+			br/
+			br/
+			span Kalite Kontrol:
+			br/ 
+			br/ * Ali Meriç Uslu
+			br/ * Gökhan Perçem
+			br/ * Léars
+			br/ * omerakgoz34
+			br/ * Ulaş Tanıl
+			br/ * Yamocuk
+			br/
+			br/
+			span Özel Tesekkürler:
+			br/
+			br/ * D'ekuburnn ⍚#5647
+			br/ * 🎄 Natale 🎄#2568
+			br/ * Mehmet59#6614
+			br/ * (ダイアン) Diane#5550
+			br/ * Ralaks#4359
+			br/ * >[Bonibon Şekeri]< 😂😂#3327
+			br/ * Natsuo#2442
+			br/ * DETERMINATION#9261
+			br/ * DaWaeEfe#7364
+			br/ --------------------
+			br/ * Mert Günhan
+			br/ * Can Sungur
+			br/ * Emre Ege
+			br/ * Yusuf.
+			br/
+			br/
+			span Paketleme ve Yayınlama:
+			br/
+			br/ * omerakgoz34
+			br/
+			br/
+
+		h1(class='title') İndirme Merkezi
+		div(class='download-panel' id='download-panel')
+			div(class='window' id='download-panel-window')
+				h3(class='close' onclick='closeDownloadPanel()') x
+				p(class='text') Yama sürümü:
+					font(color='yellow') v1.0
+					br/ Son güncelleme: 09.04.2020
+				ul(class='download-options')
+					li(onclick="startDownload('the-aftermath-windows', 100)") Oto-Yükleyici indir (10MB)
+
+	// Scripts
+	script(src='/js/download_panel.js')
