@@ -23,7 +23,7 @@
 }
 .about-title {
 	top: 50rem;
-	color: white;
+	color: yellow;
 }
 
 .escaped-chasm-about {
@@ -33,7 +33,7 @@
 	transform: translateX(-50%);
 	width: fit-content;
 	height: fit-content;
-	text-align: justify;
+	text-align: center;
 	color: white;
 	font-size: 1.2rem;
 	max-width: 75vw;
@@ -62,6 +62,7 @@
 
 .game-tricks-p {
 	top: 130rem;
+	text-align: justify;
 	max-width: 75vw;
 }
 
@@ -121,14 +122,13 @@
 	position: fixed;
 	width: 100vw;
 	height: 100vh;
-	background: rgba(0, 0, 0, 0.5);
 }
 .download-panel-window {
 	z-index: 11;
 	position: fixed;
 	width: 100vh;
 	height: 97vh;
-	background: rgba(0, 0, 0, 0.75);
+	background: rgba(0, 0, 0, 1);
 	border: 0.5vw solid white;
 	top: 50%;
 	left: 50%;
