@@ -1,0 +1,205 @@
+/* coded by omerakgoz34 :) */
+
+.escaped-chasm-title {
+	position: absolute;
+	top: 10rem;
+	left: 50%;
+	transform: translateX(-50%);
+	width: fit-content;
+	height: fit-content;
+	text-align: center;
+	color: yellow;
+	font-size: 2.5rem;
+}
+
+.escaped-chasm-bg {
+	position: absolute;
+	top: 17rem;
+	left: 50%;
+	transform: translate(-50%);
+	height: 25rem;
+	width: 35rem;
+	pointer-events: none;
+}
+
+.escaped-chasm-ss {
+	position: absolute;
+	top: 45rem;
+	left: 50%;
+	transform: translate(-50%);
+	height: 25rem;
+	width: 35rem;
+	pointer-events: none;
+}
+.about-title {
+	top: 80rem;
+	color: white;
+}
+
+.escaped-chasm-about {
+	position: absolute;
+	top: 85rem;
+	left: 50%;
+	transform: translateX(-50%);
+	width: fit-content;
+	height: fit-content;
+	text-align: justify;
+	color: white;
+	font-size: 1.2rem;
+	max-width: 75vw;
+}
+.escaped-chasm-about a {
+	text-decoration: underline;
+}
+
+.about-team-title {
+	top: 110rem;
+}
+
+.about-team-title-p {
+	top: 115rem;
+	max-width: 75vw;
+}
+
+.about-team-title-span {
+	font-size: 1.5rem;
+	color: rgb(30, 100, 255);
+}
+
+.download-title {
+	top: 145rem;
+	color: yellow;
+}
+
+.escaped-chasm-download {
+	position: absolute;
+	top: 150rem;
+	left: 50%;
+	transform: translateX(-50%);
+	color: white;
+	width: fit-content;
+	height: fit-content;
+	border: 0.30vw solid white;
+	cursor: pointer;
+	margin-bottom: 5vw;
+	pointer-events: none;
+}
+
+.escaped-chasm-download li {
+	list-style: none;
+	float: left;
+	height: 4vw;
+	width: 13vw;
+	overflow: hidden;
+	transition: 0.5s;
+	pointer-events: all;
+}
+.escaped-chasm-download li:hover {
+	animation: escaped-chasm-hover 0.75s infinite;
+}
+
+.escaped-chasm-download img {
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	width: 105%;
+	height: 70%;
+	pointer-events: none;
+}
+
+.download-panel {
+	z-index: 10;
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none;
+	position: fixed;
+	width: 100vw;
+	height: 100vh;
+	background: rgba(0, 0, 0, 0.5);
+}
+.download-panel-window {
+	z-index: 11;
+	position: fixed;
+	width: 100vh;
+	height: 97vh;
+	background: rgba(0, 0, 0, 0.75);
+	border: 0.5vw solid white;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.download-panel-window h3 {
+	z-index: 12;
+	font-size: 7vh;
+	position: absolute;
+	color: white;
+	top: 3%;
+	left: 5%;
+	cursor: pointer;
+	text-align: center;
+	width: 9vh;
+	height: 10vh;
+	overflow: hidden;
+}
+.download-panel-window h3:hover {
+	animation: escaped-chasm-hover 0.75s infinite;
+}
+.download-panel-window p {
+	z-index: 12;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translateX(-50%);
+	color: white;
+	font-size: 4vh;
+	text-align: center;
+	width: fit-content;
+	max-width: 90%;
+}
+
+.warning {
+	color: red;
+	font-size: 6vh;
+}
+
+.download-options {
+	z-index: 12;
+	position: absolute;
+	bottom: 5%;
+	left: 50%;
+	transform: translateX(-50%);
+	width: fit-content;
+	height: fit-content;
+	border: 0.30vw solid white;
+	pointer-events: none;
+}
+.download-options li {
+	z-index: 12;
+	width: auto;
+	height: auto;
+	color: white;
+	font-size: 4vh;
+	margin: 0.5vw;
+	padding: 0.25vw;
+	list-style: none;
+	text-align: center;
+	cursor: pointer;
+	pointer-events: all;
+}
+.download-options li:hover {
+	animation: escaped-chasm-hover 0.75s infinite;
+}
+
+@keyframes escaped-chasm-hover {
+	0% {
+		background: rgba(30, 100, 255, 0.1);
+	}
+	50% {
+		background: rgba(30, 100, 255, 1);
+	}
+	100% {
+		background: rgba(30, 100, 255, 0.1);
+	}
+}

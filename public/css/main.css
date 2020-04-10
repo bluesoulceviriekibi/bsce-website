@@ -39,7 +39,7 @@ body {
 	width: 5px;
 	height: 5px;
 }
-*::-webkit-scrollbar-thumb { background: rgba(30, 100, 255, 0.5); }
+*::-webkit-scrollbar-thumb { background: rgba(30, 100, 255, 0.75); }
 *::-webkit-scrollbar-thumb:hover { background: rgb(30, 100, 255); }
 
 .title-bsce {

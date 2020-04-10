@@ -97,5 +97,10 @@ function startDownload (section, delay) {
         openInNewTab('https://drive.google.com/file/d/1RTdcN5vVtLdDPdl8Ad56hQoEBavfNYry/view?usp=sharing', '250')
       }, delay)
       break
+    case 'the-aftermath-windows':
+      setTimeout(() => {
+        openInNewTab('https://drive.google.com/file/d/1HEaWCrQBeayVfNybCFpqL2CY8Hr3XZZW/view?usp=sharing', '250')
+      }, delay)
+      break
   }
 }
