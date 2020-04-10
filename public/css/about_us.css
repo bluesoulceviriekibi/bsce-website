@@ -19,7 +19,6 @@
 	font-size: 2rem;
 	width: fit-content;
 	height: fit-content;
-	user-select: none;
 }
 
 p {
@@ -41,7 +40,7 @@ p {
 	font-size: 2rem;
 	width: fit-content;
 	height: fit-content;
-	user-select: none;
+	cursor: pointer;
 }
 
 .discord {
