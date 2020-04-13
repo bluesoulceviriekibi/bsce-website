@@ -65,10 +65,8 @@ function ControlKey (event) {
   }
 }
 
-function openInNewTab (url, delay) {
-  setTimeout(() => {
-    window.open(url, '_blank').focus()
-  }, delay)
+function openInNewTab (url) {
+  window.open(url, '_blank').focus()
 }
 
 // eslint-disable-next-line no-unused-vars
@@ -88,15 +86,10 @@ function startDownload (section, delay) {
 
     case 'escaped-chasm-windows':
       setTimeout(() => {
-        openInNewTab('https://drive.google.com/file/d/12VG7uJ5_2i2P636oB1VdlU8TBj9oeFUL/view?usp=sharing', '250')
+        openInNewTab('https://drive.google.com/file/d/1XfCWLTcmA8lTD-KXpgTU1tcL7blICWVH/view?usp=sharing', '250')
       }, delay)
       break
 
-    case 'escaped-chasm-windows-alt':
-      setTimeout(() => {
-        openInNewTab('https://drive.google.com/file/d/1RTdcN5vVtLdDPdl8Ad56hQoEBavfNYry/view?usp=sharing', '250')
-      }, delay)
-      break
     case 'the-aftermath-windows':
       setTimeout(() => {
         openInNewTab('https://drive.google.com/file/d/1HEaWCrQBeayVfNybCFpqL2CY8Hr3XZZW/view?usp=sharing', '250')
