@@ -28,11 +28,11 @@ router.get('/ceviri/escaped-chasm', function (req, res, next) {
 })
 
 router.get('/ceviri/noragami_aragoto_op', function (req, res, next) {
-  res.render('video', { title: 'Noragami Aragoto OP Türkçe | ', iconType: 'jpeg', icon: 'bsce.jpg', themeColor: '#0F3280', bodyAttr: " onload='startStars(1000)'", video: 'https://drive.google.com/file/d/1pUYyCRroSbXFe05ISCikazA0fFj3NW4c/preview', videoTitle: 'Noragami Aragoto OP Türkçe', img: 'noragami_aragoto_op.jpg', imgType: 'jpg', imgWidth: '739', imgHeight: '415', pageURL: '/ceviri/noragami_aragoto_op', desc: 'Noragami Aragoto OP Türkçe İzle' })
+  res.render('video', { title: 'Noragami Aragoto OP Türkçe | ', iconType: 'jpeg', icon: 'bsce.jpg', themeColor: '#0F3280', bodyAttr: " onload='startStars(1000)'", video: 'https://drive.google.com/file/d/109qnjLaFc6vx-L4Nqk8jGfhfmthuio4M/preview', videoTitle: 'Noragami Aragoto OP Türkçe', img: 'noragami_aragoto_op.jpg', imgType: 'jpg', imgWidth: '739', imgHeight: '415', pageURL: '/ceviri/noragami_aragoto_op', desc: 'Noragami Aragoto OP Türkçe İzle' })
 })
 
 router.get('/ceviri/steins_gate_0_last_game', function (req, res, next) {
-  res.render('video', { title: 'Steins;Gate 0 Last Game Türkçe | ', iconType: 'jpeg', icon: 'bsce.jpg', themeColor: '#0F3280', bodyAttr: " onload='startStars(1000)'", video: 'https://drive.google.com/file/d/1x5VpAYN7PWfhzM8BD-uG6mouDkzvnBuh/preview', videoTitle: 'Steins;Gate 0 Last Game Türkçe', img: '', imgType: 'jpg', imgWidth: '739', imgHeight: '415', pageURL: '/ceviri/steins_gate_0_last_game', desc: 'Steins;Gate 0 Last Game Türkçe İzle' })
+  res.render('video', { title: 'Steins;Gate 0 Last Game Türkçe | ', iconType: 'jpeg', icon: 'bsce.jpg', themeColor: '#0F3280', bodyAttr: " onload='startStars(1000)'", video: 'https://drive.google.com/file/d/1NtEcOE4RxtJcu8IclnUa-NcIG-XtRF1i/preview', videoTitle: 'Steins;Gate 0 Last Game Türkçe', img: '', imgType: 'jpg', imgWidth: '739', imgHeight: '415', pageURL: '/ceviri/steins_gate_0_last_game', desc: 'Steins;Gate 0 Last Game Türkçe İzle' })
 })
 
 router.get('/poke_preview', function (req, res, next) {

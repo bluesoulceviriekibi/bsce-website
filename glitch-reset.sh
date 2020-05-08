@@ -1,4 +1,7 @@
 #!/bin/bash
-# https://github.com/omerakgoz34/bsce-website.git
 
-rm -rf * && rm -rf .config .git .gitignore .node-gyp && refresh && exit
+rm -f *
+rm -rf .config .git .gitignore .eslintrc .node-gyp .bash_history .cache .eslintrc.json .vscode
+rm -rf assets commands modules node_modules
+refresh
+exit

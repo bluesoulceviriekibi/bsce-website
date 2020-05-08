@@ -74,13 +74,13 @@ function startDownload (section, delay) {
   switch (section) {
     case 'deltarune-windows':
       setTimeout(() => {
-        openInNewTab('https://drive.google.com/file/d/1oFmptmGKv6svYlSgZO2kWkvlPNvVaRYq/view?usp=sharing', '250')
+        openInNewTab('https://drive.google.com/file/d/1FWtRPOB6dkG-gBi6Ru4JauT8Fm9NbbY4/view?usp=sharing', '250')
       }, delay)
       break
 
     case 'deltarune-windows-alt':
       setTimeout(() => {
-        openInNewTab('https://drive.google.com/file/d/1clbNFw3bSUlMjyTIzTEaoKbUdX2VgZLa/view?usp=sharing', '250')
+        openInNewTab('https://drive.google.com/file/d/1CGWlhKTVTGKH_zdHqTojWebpOdA-OXEd/view?usp=sharing', '250')
       }, delay)
       break
 
