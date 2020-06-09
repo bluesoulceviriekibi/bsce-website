@@ -43,4 +43,8 @@ router.get('/ceviri/the_aftermath', function (req, res, next) {
   res.render('translations/the_aftermath', { title: 'The Aftermath Türkçe | ', iconType: 'icon', icon: 'the_aftermath.ico', themeColor: '#0F3280', bodyAttr: " onload='startStars(1000)' onkeydown='ControlKey(event)'", img: 'the_aftermath_logo.png', imgType: 'png', imgWidth: '326', imgHeight: '203', pageURL: '/ceviri/the_aftermath', desc: 'The Aftermath Türkçe - v1.0 - 09.04.2020' })
 })
 
+router.get('/deltarune_latest', (req, res, next) => {
+  res.send("1")
+})
+
 module.exports = router
