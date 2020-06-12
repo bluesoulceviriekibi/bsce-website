@@ -9,7 +9,6 @@ const logger = require('morgan')
 const http = require('http')
 
 const pagesRouter = require('../routes/pages')
-const assetsRouter = require('../routes/assets')
 
 const exp = express()
 
