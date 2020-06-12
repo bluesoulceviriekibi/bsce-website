@@ -8,8 +8,8 @@ const cookieParser = require('cookie-parser')
 const logger = require('morgan')
 const http = require('http')
 
-const pagesRouter = require('./routes/pages')
-const assetsRouter = require('./routes/assets')
+const pagesRouter = require('../routes/pages')
+const assetsRouter = require('../routes/assets')
 
 const exp = express()
 
@@ -24,7 +24,6 @@ exp.use(cookieParser())
 exp.use(express.static('public'))
 
 exp.use('/', pagesRouter)
-exp.use('/', assetsRouter)
 
 // Catch 404
 exp.use(function (req, res, next) {
