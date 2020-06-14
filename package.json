@@ -9,8 +9,8 @@
     "node": "12.x"
   },
   "scripts": {
-    "start": "npm run build && node ./dist/app.js",
-    "build": "parcel build ./src/index.js --target node --no-source-maps --no-cache -d ./dist -o app.js"
+    "start": "npm run build && node ./dist/app.bundle.js",
+    "build": "parcel build ./src/main.js --target node --no-source-maps --no-cache -d ./dist -o app.bundle.js"
   },
   "dependencies": {
     "cookie-parser": "^1.4.5",
