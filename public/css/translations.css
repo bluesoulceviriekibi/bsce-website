@@ -12,11 +12,10 @@
 }
 
 .type {
-	position: absolute;
-	transform: translateX(-50%);
+	position: relative;
 	display: flex;
 	flex-wrap: nowrap;
-	top: 170px;
+	top: 125px;
 	width: fit-content;
 	height: fit-content;
 	user-select: none;
