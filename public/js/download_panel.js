@@ -74,25 +74,25 @@ function startDownload (section, delay) {
   switch (section) {
     case 'deltarune-windows':
       setTimeout(() => {
-        openInNewTab('https://github.com/bluesoulceviriekibi/deltarune-indirme-merkezi/releases/download/v2.6/Deltarune-TR_v2.6_Yukleyici_by_BlueSoul_Ceviri_Ekibi.exe', '250')
+        openInNewTab('https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_Yukleyici_BlueSoul_Ceviri_Ekibi.exe', '250')
       }, delay)
       break
 
     case 'deltarune-windows-alt':
       setTimeout(() => {
-        openInNewTab('https://github.com/bluesoulceviriekibi/deltarune-indirme-merkezi/releases/download/v2.6/Deltarune-TR_v2.6_by_BlueSoul_Ceviri_Ekibi.zip', '250')
+        openInNewTab('https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_BlueSoul_Ceviri_Ekibi.zip', '250')
       }, delay)
       break
 
     case 'escaped-chasm-windows':
       setTimeout(() => {
-        openInNewTab('https://github.com/bluesoulceviriekibi/escaped-chasm-indirme-merkezi/releases/download/v2.0/Escaped.Chasm.Turkce.v2.Yukleyici.exe', '250')
+        openInNewTab('https://github.com/bluesoulceviriekibi/cdn/releases/download/escaped_chasm_v2/Escaped_Chasm_Turkce_v2_Yukleyici_BlueSoul_Ceviri_Ekibi.exe', '250')
       }, delay)
       break
 
     case 'the-aftermath-windows':
       setTimeout(() => {
-        openInNewTab('https://github.com/bluesoulceviriekibi/the-aftermath-indirme-merkezi/releases/download/v1.0/The.Aftermath.Turkce.Oto-Yukleyici.-.BlueSoul.Ceviri.Ekibi.exe', '250')
+        openInNewTab('https://github.com/bluesoulceviriekibi/cdn/releases/download/the_aftermath/The_Aftermath_Turkce_Oto-Yukleyici_BlueSoul_Ceviri_Ekibi.exe', '250')
       }, delay)
       break
   }

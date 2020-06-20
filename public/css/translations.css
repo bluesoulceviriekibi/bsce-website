@@ -12,13 +12,15 @@
 }
 
 .type {
-	position: relative;
+	position: absolute;
+	transform: translateX(-50%);
 	display: flex;
 	flex-wrap: nowrap;
-	top: 125px;
+	top: 170px;
 	width: fit-content;
 	height: fit-content;
 	user-select: none;
+	text-align: center;
 }
 
 .type > div {
