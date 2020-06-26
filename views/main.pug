@@ -7,13 +7,13 @@ doctype html
 html(lang='tr')
 
 	head
-		script(async src='https://www.googletagmanager.com/gtag/js?id=UA-142633768-3')
+		script(defer src='https://www.googletagmanager.com/gtag/js?id=UA-142633768-3')
 		script.
 			window.dataLayer = window.dataLayer || []
 			function gtag(){dataLayer.push(arguments)}
 			gtag('js', new Date())
 			gtag('config', 'UA-142633768-3')
-		script(data-ad-client="ca-pub-6714443713333752" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
+		script(data-ad-client="ca-pub-6714443713333752" defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js")
 		meta(charset='utf-8')
 		meta(name='viewport' content='width=device-width, initial-scale=1.0')
 		title=`${title}BlueSoul Çeviri Ekibi`
@@ -39,7 +39,7 @@ html(lang='tr')
 		meta(property="twitter:image:src" content=`https://bluesoulceviriekibi.net/img/${img}`)
 		meta(property="twitter:image:width" content=`${imgWidth}`)
 		meta(property="twitter:image:height" content=`${imgHeight}`)
-		script(async src='https://cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js')
+		script(defer src='https://cdn.jsdelivr.net/npm/animejs@3.2.0/lib/anime.min.js')
 		block headExtra
 		
 	body(=bodyAttr)
