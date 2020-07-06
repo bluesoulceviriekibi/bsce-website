@@ -1,0 +1,6 @@
+baseURL = "https://bluesoulceviriekibi.net"
+languageCode = "tr"
+title = "BlueSoul Çeviri Ekibi"
+theme = "bsce"
+enableEmoji = true
+googleAnalytics

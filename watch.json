@@ -1,6 +1,0 @@
-{
-  "restart": {
-    "include": [ "watch.json" ]
-  },
-  "throttle": 5000
-}

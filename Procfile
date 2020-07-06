@@ -1,1 +1,0 @@
-web: node ./dist/app.bundle.js
