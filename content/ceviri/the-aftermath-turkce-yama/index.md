@@ -10,14 +10,14 @@ resizeImages: false
 ---
 # The Aftermath Hakkında  
 
-[![The Aftermath Oynanış](/images/translations/the-aftermath-gameplay.png "The Aftermath Oynanış")](https://tselmek.itch.io/the-aftermath)
-
 Tuhaf bir olay dünyadaki tüm canlıların ölümüne neden oldu.  
 Kıyamet Günü evrak işleriyle geldi...  
 
 İnsanlar Cennete ya da Cehenneme gitmeli.  
 Tek hakim SENsin.  
 <!--more-->
+
+[![The Aftermath Oynanış](/images/translations/the-aftermath-gameplay.png "The Aftermath Oynanış")](https://tselmek.itch.io/the-aftermath)
 
 **Yapımcı: Tselmek**  
 **Müzik ve Sesler: zminusone**  
