@@ -2,8 +2,8 @@
 title: "Support and Discussions"
 date: 2017-11-01T18:10:14+01:00
 
-tags: ['Discord', 'Support', 'Say Thanks!']
-author: "Lednerb"
+etiketler: ['Discord', 'Support', 'Say Thanks!']
+yazar: "Lednerb"
 noSummary: true
 
 resizeImages: false

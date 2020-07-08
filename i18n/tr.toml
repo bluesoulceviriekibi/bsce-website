@@ -14,7 +14,7 @@ other = "Sosyal Medya"
 other = "Son Gönderiler"
 
 [search]
-other = "Bir şey ara..."
+other = "Ara..."
 
 [noSearchResults]
 other = "Hiçbir şey bulunamadı."

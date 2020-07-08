@@ -53,7 +53,7 @@ disqusShortname = "bluesoulceviriekibi"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "BlueSoul Çeviri Ekibi"
+    subtitle = "Her şeyi çeviren ekip!"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
@@ -65,7 +65,7 @@ disqusShortname = "bluesoulceviriekibi"
     overlayIcon = "fa-home"
 
     # always display the top navigation (with pages and search) on non-mobile screens
-    permanentTopNav = false
+    permanentTopNav = true
 
     # always display the top navigation when scrolling
     # works only with permanentTopNav = true
@@ -120,7 +120,7 @@ disqusShortname = "bluesoulceviriekibi"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2020"
     copyrightUrl = "https://bluesoulceviriekibi.net"
-    creditsText = "Bilberry Teması"
+    creditsText = "Orijinal Tema"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
@@ -132,9 +132,9 @@ disqusShortname = "bluesoulceviriekibi"
 
 # don't change anything below
 [taxonomies]
-  author   = "author"
-  tag      = "tags"
-  category = "categories"
+  yazar = "yazar"
+  etiket = "etiketler"
+  kategori = "kategoriler"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
