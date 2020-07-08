@@ -5,7 +5,7 @@
 {{ else if .Params.mp4videoImage }}
   {{ .Scratch.Set "image" (.Params.mp4videoImage) }}
 {{ else }}
-  {{ .Scratch.Set "image" (printf "https://www.gravatar.com/avatar/%s?size=200" (md5 .Site.Params.gravatarEMail)) }}
+  {{ .Scratch.Set "image" (printf "/images/favicons/android-chrome-96x96.png" (md5 .Site.Params.gravatarEMail)) }}
 {{ end }}
 
 {{- if ne .Description "" -}}
