@@ -8,4 +8,5 @@ imageSlider: true   #set to false if you don't want to use the imageSlider but a
 kategoriler: []
 etiketler: []
 yazar: ""
+resizeImages: false
 ---

@@ -17,7 +17,7 @@ other = "Son Gönderiler"
 other = "Ara..."
 
 [noSearchResults]
-other = "Hiçbir şey bulunamadı."
+other = "Hiçbir şey bulunamadı :("
 
 [olderPosts]
 other = "Eski gönderiler"

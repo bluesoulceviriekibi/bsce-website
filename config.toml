@@ -87,7 +87,7 @@ disqusShortname = "bluesoulceviriekibi"
     # customize the date format | only works if momentjs is disabled | only works with English month names
     # you can customize it with the options you find here:
     # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
-    dateFormat = "2006-01-02"
+    #dateFormat = "2006-01-02"
 
     # display the estimated reading time for an article
     showReadingTime = false
@@ -114,6 +114,7 @@ disqusShortname = "bluesoulceviriekibi"
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
       { link = "https://www.youtube.com/channel/UCNbc4VRtNJSAYfeaYMSVKeQ", icon = "fab fa-youtube" },
+      { link = "https://discord.com/invite/ZjvWWhU", icon = "fab fa-discord" },
     ]
 
     # credits line configuration
