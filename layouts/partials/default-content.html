@@ -13,21 +13,21 @@
         <span class="readingTime">{{ i18n "readingTime" .ReadingTime }}</span>
         {{ end }}
 
-        {{ with .Params.categories }}
+        {{ with .Params.kategoriler }}
         <span class="categories">
             {{ range . }}
                 {{ $urlValue := replace . " " "-" | lower}}
-                {{ with $.Site.GetPage (printf "/categories/%s" $urlValue) }}
+                {{ with $.Site.GetPage (printf "/kategoriler/%s" $urlValue) }}
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 {{ end }}
             {{ end }}
         </span>
         {{ end }}
 
-        {{ with .Params.author }}
+        {{ with .Params.yazar }}
         <span class="author">
             {{ $urlValue := replace . " " "-" | lower}}
-            {{ with $.Site.GetPage (printf "/author/%s" $urlValue ) }}
+            {{ with $.Site.GetPage (printf "/yazar/%s" $urlValue ) }}
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             {{ end }}
         </span>

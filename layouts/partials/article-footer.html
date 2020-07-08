@@ -1,16 +1,16 @@
-{{ with .Params.tags }}
+{{ with .Params.etiketler }}
 <div class="footer">
 {{ else }}
 <div class="footer no-tags">
 {{ end }}
 
-    {{ with .Params.tags }}
+    {{ with .Params.etiketler }}
         <div class="tags">
             <i class="fa fa-tags"></i>
             <div class="links">
                 {{ range . }}
                     {{ $urlValue := replace . " " "-" | lower}}
-                    {{ with $.Site.GetPage (printf "/tags/%s" $urlValue) }}
+                    {{ with $.Site.GetPage (printf "/etiketler/%s" $urlValue) }}
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                     {{ end }}
                 {{ end }}

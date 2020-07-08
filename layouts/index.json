@@ -1,30 +1,30 @@
 {{- $.Scratch.Add "index" slice -}}
 
 {{- range $name, $taxonomy := .Site.Taxonomies.kategoriler -}}
-    {{- $.Scratch.Add "index" (dict "url" (print "/kategoriler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-folder" "type" "category" "objectID" (print "/kategoriler/" $name | absURL) ) -}}
+    {{- $.Scratch.Add "index" (dict "url" (print "/kategoriler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-folder" "type" "kategori" "objectID" (print "/kategoriler/" $name | absURL) ) -}}
 {{- end -}}
 
 {{- range $name, $taxonomy := .Site.Taxonomies.yazar -}}
-    {{- $.Scratch.Add "index" (dict "url" (print "/yazar/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-user" "type" "author" "objectID" (print "/yazar/" $name | absURL) ) -}}
+    {{- $.Scratch.Add "index" (dict "url" (print "/yazar/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-user" "type" "yazar" "objectID" (print "/yazar/" $name | absURL) ) -}}
 {{- end -}}
 
 {{- range $name, $taxonomy := .Site.Taxonomies.etiketler -}}
-    {{- $.Scratch.Add "index" (dict "url" (print "/etiketler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-tag" "type" "tag" "objectID" (print "/etiketler/" $name | absURL) ) -}}
+    {{- $.Scratch.Add "index" (dict "url" (print "/etiketler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-tag" "type" "etiket" "objectID" (print "/etiketler/" $name | absURL) ) -}}
 {{- end -}}
 
-{{- range where .Site.RegularPages "Type" "not in" (slice "page" "json") -}}
+{{- range where .Site.RegularPages "Type" "not in" (slice "sayfa" "json") -}}
     {{-  $iconClass := "fa-pencil-alt" -}}
-    {{- if eq .Type "quote" -}}
+    {{- if eq .Type "alinti" -}}
         {{- $iconClass = "fa-quote-right" -}}
     {{- else if eq .Type "link" -}}
         {{- $iconClass = "fa-link" -}}
     {{- else if eq .Type "video" -}}
         {{- $iconClass = "fa-video" -}}
-    {{- else if or (eq .Type "gallery") (eq .Type "picture") -}}
+    {{- else if or (eq .Type "galeri") (eq .Type "resim") -}}
         {{- $iconClass = "fa-camera" -}}
-    {{- else if eq .Type "audio" -}}
+    {{- else if eq .Type "ses" -}}
         {{- $iconClass = "fa-music" -}}
-    {{- else if eq .Type "code" -}}
+    {{- else if eq .Type "kod" -}}
         {{- $iconClass = "fa-code" -}}
     {{- end -}}
 

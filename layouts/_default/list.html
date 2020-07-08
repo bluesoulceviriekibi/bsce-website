@@ -1,12 +1,12 @@
 {{ define "main" }}
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "page") (index .Site.Params "paginate" | default 7) }}
-    {{ range  where .Paginator.Pages "Type" "ne" "page" }}
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "sayfa") (index .Site.Params "paginate" | default 7) }}
+    {{ range  where .Paginator.Pages "Type" "ne" "sayfa" }}
         {{ .Scratch.Set "singlePage" false }} <!-- RESET singlePage variable -->
         <div class="article-wrapper u-cf">
             {{  if or (fileExists (print "layouts/partials/content-type/" .Type ".html") ) (fileExists (print "themes/bilberry-hugo-theme/layouts/partials/content-type/" .Type ".html")) }}
                 {{ partial (print "content-type/" .Type) . }}
             {{ else }}
-                {{ partial "content-type/makale" . }}
+                {{ partial "content-type/yazi" . }}
             {{ end }}
         </div>
     {{ end }}
