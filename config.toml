@@ -9,7 +9,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "tr"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = ""
+googleAnalytics = "UA-142633768-3"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "bluesoulceviriekibi"
@@ -29,9 +29,10 @@ disqusShortname = "bluesoulceviriekibi"
   # Description and meta data for the search engines
   author = "BlueSoul Çeviri Ekibi"
   description = "BlueSoul Çeviri Ekibi"
-  keywords = "çeviri,oyun,video,türkçe,çeviri ekibi,türkçe altyazı,türkçe oyun, türkçe yama,blog"
+  keywords = "çeviri,oyun,video,türkçe,çeviri ekibi,türkçe altyazı,türkçe oyun,türkçe yama,blog"
 
   # How many articles should be displayed at once?
+  paginatePath = "sayfa"
   paginate = 5
 
   # Enable / Disable MathJax
@@ -96,11 +97,11 @@ disqusShortname = "bluesoulceviriekibi"
 
     # How many articles should be displayed at latest posts in the footer?
     # Set to -1 to hide the 'Latest Posts' column
-    amountLatestPostsInFooter = 5
+    amountLatestPostsInFooter = 9
 
     # How many categories should be displayed in the footer section?
     # Set to -1 to hide the 'Categories' column
-    amountCategoriesInFooter = 5
+    amountCategoriesInFooter = 8
 
     # show a language chooser in the footer
     showFooterLanguageChooser = false
@@ -119,7 +120,7 @@ disqusShortname = "bluesoulceviriekibi"
     copyrightBy = "BlueSoul Çeviri Ekibi"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2020"
-    copyrightUrl = "https://bluesoulceviriekibi.net"
+    copyrightUrl = "/"
     creditsText = "Orijinal Tema"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 

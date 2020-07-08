@@ -15,10 +15,11 @@
         font-weight: bold;
         background-color: $base-color;
         color: #fff;
+        transition: all 0.5s ease-in-out;
 
         &:hover {
             background-color: $highlight-color;
-            transition: all 0.3s ease-in-out;
+            transition: all 0.5s ease-in-out;
         }
 
         &.older {
@@ -34,9 +35,9 @@
 .flex-control-paging {
     li {
         a {
-            background: white;
+            background: $highlight-color;
             &.flex-active {
-                background: $highlight-color;
+                background: white;
             }
         }
     }

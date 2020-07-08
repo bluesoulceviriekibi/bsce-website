@@ -5,7 +5,6 @@ draft: true
 
 kategoriler: []
 etiketler: []
-yazar: ""
 
 # Set your external url
 link: "https://github.com/Lednerb/bilberry-hugo-theme"

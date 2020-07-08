@@ -119,6 +119,7 @@ article {
                 color: $continue-reading-hover-color;
                 text-decoration: underline;
                 text-decoration-color: $highlight-color;
+                transition: all 0.5s ease-in-out;
             }
         }
 
@@ -326,11 +327,11 @@ article {
 
         &:hover {
             background-color: $highlight-color;
-            transition: all 0.3s ease-in-out;
+            transition: all 0.5s ease-in-out;
 
             &:after {
                 border-right-color: $highlight-color;
-                transition: all 0.3s ease-in-out
+                transition: all 0.5s ease-in-out;
             }
         }
 
