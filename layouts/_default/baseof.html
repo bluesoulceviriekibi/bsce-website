@@ -5,7 +5,7 @@
 {{ else if .Params.mp4videoImage }}
   {{ .Scratch.Set "image" (.Params.mp4videoImage) }}
 {{ else }}
-  {{ .Scratch.Set "image" (printf "/images/favicons/android-chrome-96x96.png" }}
+  {{ .Scratch.Set "image" (printf "/images/favicons/android-chrome-96x96.png") }}
 {{ end }}
 
 {{- if ne .Description "" -}}
