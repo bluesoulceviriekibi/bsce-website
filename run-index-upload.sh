@@ -19,7 +19,7 @@ while getopts "pf:a:k:n:" opt; do
   esac
 done
 
-python algolia/index-upload.py \
+python algolia-index-upload.py \
     -f "$index_file" \
     -a "$app_id" \
     -k "$admin_api_key" \
