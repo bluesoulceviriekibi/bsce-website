@@ -20,10 +20,10 @@ other = "Ara..."
 other = "Hiçbir şey bulunamadı :("
 
 [olderPosts]
-other = "Eski gönderiler"
+other = "Sonraki Sayfa"
 
 [newerPosts]
-other = "Yeni gönderiler"
+other = "Önceki Sayfa"
 
 [continueReading]
 other = "Devamını oku"
