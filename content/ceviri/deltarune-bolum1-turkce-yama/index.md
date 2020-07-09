@@ -1,10 +1,10 @@
 ---
-title: "deltarune: Bölüm 1 Türkçe Yama"
+title: "Deltarune: Bölüm 1 Türkçe Yama"
 date: 2018-10-31T17:05:59+03:00
 draft: false
 
 kategoriler: ["Oyun"]
-etiketler: ["deltarune", "PC", "2D", "Pixel", "Hikaye", "RPG"]
+etiketler: ["Deltarune", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---
