@@ -115,6 +115,7 @@ disqusShortname = "bluesoulceviriekibi"
     socialMediaLinks = [
       { link = "https://www.youtube.com/c/BlueSoul%C3%87eviriEkibi", icon = "fab fa-youtube" },
       { link = "https://discord.com/invite/ZjvWWhU", icon = "fab fa-discord" },
+      { link = "https://www.instagram.com/bluesoulceviriekibi", icon = "fab fa-instagram"}
     ]
 
     # credits line configuration

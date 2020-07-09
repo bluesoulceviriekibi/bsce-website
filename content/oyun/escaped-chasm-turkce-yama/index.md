@@ -11,39 +11,38 @@ resizeImages: true
 
 # Escaped Chasm Hakkında  
 
-Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.  
+Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
+<!--more-->
 
 **Yapımcı: Temmie Chang**  
 **Oyun içi müzikler: Toby Fox**  
-
-<!--more-->  
 
 ---
 
 # Yamayı Hazırlayanlar
 
-### Yama Yöneticisi
+## Yama Yöneticisi
 
 * Gökhan Perçem
 
-### Çeviri
+## Çeviri
 
 * Anıl Arda Genç
 * Çagrı Apaydın
 * Gökhan Perçem
 * Mehmet Kutlualp Makas
 
-### Kalite Kontrol
+## Kalite Kontrol
 
 * Anıl Arda Genç
 * Mehmet Kutlualp Makas
 
-### Ekstra Medya
+## Ekstra Medya
 
 * Gökhan Perçem
 * Mehmet Kutlualp Makas
 
-### Paketleme ve Yayınlama
+## Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 

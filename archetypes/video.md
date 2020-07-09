@@ -17,7 +17,7 @@ mp4videoImage: ""   #location poster image
 ---
 
 [![Görüntülenmeler](https://img.shields.io/youtube/views/LIvHkOhJp5M?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/LIvHkOhJp5M)
-[![Beğenmeler](https://img.shields.io/youtube/likes/LIvHkOhJp5M?label=Be%C4%9Fenmeler&style=social)](https://youtu.be/LIvHkOhJp5M)
+[![Beğeniler](https://img.shields.io/youtube/likes/LIvHkOhJp5M?label=Be%C4%9Feniler&style=social)](https://youtu.be/LIvHkOhJp5M)
 [![Yorumlar](https://img.shields.io/youtube/comments/LIvHkOhJp5M?label=Yorumlar&style=social)](https://youtu.be/LIvHkOhJp5M)  
 
 <!--more-->

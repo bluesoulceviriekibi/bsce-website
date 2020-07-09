@@ -4,7 +4,7 @@ date: 2018-10-31T17:05:59+03:00
 draft: false
 
 kategoriler: ["Oyun"]
-etiketler: ["Deltarune", "PC", "2D", "Pixel", "Hikaye", "RPG"]
+etiketler: ["Deltarune", "tobyfox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---
@@ -21,7 +21,6 @@ _Çok..._
 _İlginç..._  
 _Görünüyor..._  
 _Siz ikiniz Ne Düşünüyorsunuz?_
-
 <!--more-->
 
 _ŞİMDİ SANA BİRKAÇ SORU SORACAĞIM._  
@@ -49,11 +48,11 @@ _DELTARUNE!_
 
 # Yamayı Hazırlayanlar
 
-### Yama Yöneticisi
+## Yama Yöneticisi
 
 * Hasan Hüseyin Şahin
 
-### Çeviri
+## Çeviri
 
 * Ahmet Emir
 * Asriel Dreemurr
@@ -69,7 +68,7 @@ _DELTARUNE!_
 * Salih Güdücü
 * Ulaş Göksingöl
 
-### Kalite Kontrol
+## Kalite Kontrol
 
 * Ali Meriç Uslu
 * Gökhan Perçem
@@ -78,7 +77,7 @@ _DELTARUNE!_
 * Ulaş Tanıl
 * Yamocuk
 
-### Özel Teşekkürler
+## Özel Teşekkürler
 
 * Fylean#5647
 * 🎄 Natale 🎄#2568
@@ -94,7 +93,7 @@ _DELTARUNE!_
 * Emre Ege
 * Yusuf.
 
-### Paketleme ve Yayınlama
+## Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 

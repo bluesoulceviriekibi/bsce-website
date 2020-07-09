@@ -8,13 +8,14 @@ etiketler: ["The Aftermath", "PC", "2D", "Pixel", "Sonsuz"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---
+
 # The Aftermath Hakkında  
 
 Tuhaf bir olay dünyadaki tüm canlıların ölümüne neden oldu.  
 Kıyamet Günü evrak işleriyle geldi...  
 
 İnsanlar Cennete ya da Cehenneme gitmeli.  
-Tek hakim SENsin.  
+Tek hakim SENsin.
 <!--more-->
 
 [![The Aftermath Oynanış](/images/translations/the-aftermath-gameplay.png "The Aftermath Oynanış")](https://tselmek.itch.io/the-aftermath)
@@ -26,25 +27,25 @@ Tek hakim SENsin.
 
 # Yamayı Hazırlayanlar
 
-### Yama Yöneticisi
+## Yama Yöneticisi
 
 * Kutay Akbaba
 
-### Çeviri
-
-* Kutay Akbaba
-* Hasan Hüseyin Şahin
-* Gökhan Perçem
-* Ömer Akgöz (34)
-
-### Kalite Kontrol
+## Çeviri
 
 * Kutay Akbaba
 * Hasan Hüseyin Şahin
 * Gökhan Perçem
 * Ömer Akgöz (34)
 
-### Paketleme ve Yayınlama
+## Kalite Kontrol
+
+* Kutay Akbaba
+* Hasan Hüseyin Şahin
+* Gökhan Perçem
+* Ömer Akgöz (34)
+
+## Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 

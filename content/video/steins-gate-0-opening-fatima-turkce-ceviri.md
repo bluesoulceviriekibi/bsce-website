@@ -4,7 +4,7 @@ date: 2018-12-01T16:11:10+03:00
 draft: false
 
 kategoriler: ["Video"]
-etiketler: ["STEINS-GATE", "Opening", "2D Animasyon"]
+etiketler: ["Steins-Gate 0", "Şarkı", "Açılış", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
@@ -13,7 +13,7 @@ youtube: "XLKXzCfNcPk"     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7I
 ---
 
 [![Görüntülenmeler](https://img.shields.io/youtube/views/XLKXzCfNcPk?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/XLKXzCfNcPk)
-[![Beğenmeler](https://img.shields.io/youtube/likes/XLKXzCfNcPk?label=Be%C4%9Fenmeler&style=social)](https://youtu.be/XLKXzCfNcPk)
+[![Beğeniler](https://img.shields.io/youtube/likes/XLKXzCfNcPk?label=Be%C4%9Feniler&style=social)](https://youtu.be/XLKXzCfNcPk)
 [![Yorumlar](https://img.shields.io/youtube/comments/XLKXzCfNcPk?label=Yorumlar&style=social)](https://youtu.be/XLKXzCfNcPk)  
 
 <!--more-->
