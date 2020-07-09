@@ -20,6 +20,8 @@
         {{- $iconClass = "fa-link" -}}
     {{- else if eq .Type "video" -}}
         {{- $iconClass = "fa-video" -}}
+    {{- else if eq .Type "oyun" -}}
+        {{- $iconClass = "fa-gamepad" -}}
     {{- else if or (eq .Type "galeri") (eq .Type "resim") -}}
         {{- $iconClass = "fa-camera" -}}
     {{- else if eq .Type "ses" -}}

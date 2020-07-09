@@ -6,7 +6,7 @@ draft: false
 kategoriler: ["Oyun"]
 etiketler: ["Escaped Chasm", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: true
+resizeImages: false
 ---
 
 # Escaped Chasm Hakkında  
@@ -62,7 +62,8 @@ Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir k
 
 # `!!! UYARI !!!`  
 
-Uzun süreli yüksek/alçak seviyeli sesler ve rahatsız edici atmosfer/unsur içerebilir.
+`Uzun süreli yüksek/alçak seviyeli sesler ve`  
+`rahatsız edici atmosfer/unsur içerebilir.`
 
 ---
 

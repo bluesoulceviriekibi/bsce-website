@@ -101,8 +101,8 @@ _DELTARUNE!_
 
 # `!!! UYARI !!!`  
 
-Hareketli ve parlak görseller içerebilir.  
-Sadece [UNDERTALE'ı](https://undertale.com) bitirmiş olanlar içindir.  
+`Hareketli ve parlak görseller içerebilir.`  
+`Sadece [UNDERTALE'ı](https://undertale.com) bitirmiş olanlar içindir.`  
 
 ---
 
