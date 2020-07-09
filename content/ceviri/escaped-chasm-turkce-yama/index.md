@@ -8,13 +8,15 @@ etiketler: ["Escaped Chasm", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: true
 ---
+
 # Escaped Chasm Hakkında  
 
-Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
-<!--more-->  
+Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.  
 
 **Yapımcı: Temmie Chang**  
 **Oyun içi müzikler: Toby Fox**  
+
+<!--more-->  
 
 ---
 
