@@ -5,8 +5,8 @@ draft: true
 
 imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
 
-kategoriler: []
+kategoriler: ["Galeri"]
 etiketler: []
-yazar: ""
+yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---

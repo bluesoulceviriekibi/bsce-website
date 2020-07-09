@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
-kategoriler: []
+kategoriler: ["Link"]
 etiketler: []
 
 # Set your external url

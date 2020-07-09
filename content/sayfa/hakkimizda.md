@@ -13,6 +13,6 @@ Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğim
 
 ## Sosyal Medya Linklerimiz  
 
-[![YouTube](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=red&colorB=123b97)](https://www.youtube.com/channel/UCNbc4VRtNJSAYfeaYMSVKeQ)  
+[![YouTube](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=red&colorB=123b97)](https://www.youtube.com/c/BlueSoul%C3%87eviriEkibi)  
 
 [![Discord](https://img.shields.io/discord/490540966286065674.svg?style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord%20Sunucumuz&colorB=7289da)](https://discord.com/invite/ZjvWWhU)

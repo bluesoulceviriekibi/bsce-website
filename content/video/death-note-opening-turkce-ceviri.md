@@ -1,19 +1,14 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
+title: "Death Note Opening - Türkçe Çeviri"
+date: 2018-11-30T15:31:56+03:00
+draft: false
 
 kategoriler: ["Video"]
-etiketler: []
+etiketler: ["Death Note", "Opening", "2D Animasyon"]
 yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
-# https://shields.io/category/social
-youtube: ""     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
-vimeo: ""       # https://vimeo.com/239830182 -> "239830182"
-
-mp4video: ""        #location video file (only mp4)
-mp4videoImage: ""   #location poster image
+youtube: "LIvHkOhJp5M"     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 ---
 
 [![Görüntülenmeler](https://img.shields.io/youtube/views/LIvHkOhJp5M?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/LIvHkOhJp5M)

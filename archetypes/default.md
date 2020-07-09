@@ -3,8 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
-kategoriler: []
+kategoriler: ["Yazı"]
 etiketler: []
-yazar: ""
+yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---

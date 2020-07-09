@@ -3,9 +3,9 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
-kategoriler: []
+kategoriler: ["Ses"]
 etiketler: []
-yazar: ""
+yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your audio url for
 spotify:    ""      # (Spotify URI) spotify:track:43mGIUqxFoDQI4YiqbGmqd
