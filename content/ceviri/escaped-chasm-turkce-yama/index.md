@@ -11,7 +11,7 @@ resizeImages: true
 # Escaped Chasm Hakkında  
 
 Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
-<!--more-->
+<!--more-->  
 
 **Yapımcı: Temmie Chang**  
 **Oyun içi müzikler: Toby Fox**  
