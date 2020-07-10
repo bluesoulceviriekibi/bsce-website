@@ -3,7 +3,7 @@ title: "Serial Experiments Lain Opening - Boa Duvet - Türkçe Çeviri"
 date: 2020-06-11T22:29:37+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Serial Experiments Lain", "Açılış", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 

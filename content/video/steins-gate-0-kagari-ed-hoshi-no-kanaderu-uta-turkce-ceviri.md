@@ -3,7 +3,7 @@ title: "Steins;Gate 0 Kagari ED - Hoshi No Kanaderu Uta - Türkçe Çeviri"
 date: 2019-06-02T18:44:24+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Steins-Gate 0", "Şarkı", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 

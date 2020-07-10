@@ -4,7 +4,7 @@
 
         {{ if gt (.Site.Params.amountLatestPostsInFooter | default 7) 0 }}
         <div class="recent-posts">
-            <a href="{{ "/" | relLangURL }}"><strong>{{ i18n "latestPosts" }}</strong></a>
+            <a href="{{ "/" | relLangURL }}"><strong>En Yeniler</strong></a>
             <ul>
                 {{ range where (where (first (.Site.Params.amountLatestPostsInFooter | default 7) .Site.Pages.ByPublishDate.Reverse) ".Kind" "page") ".Type" "ne" "sayfa" }}
                 <li>
@@ -15,13 +15,13 @@
         </div>
         {{ end }}
 
-        {{ if and .Site.Taxonomies.kategoriler (gt ( .Site.Params.amountCategoriesInFooter | default 7 ) 0 ) }}
+        {{ if and .Site.Taxonomies.ceviriler (gt ( .Site.Params.amountCategoriesInFooter | default 7 ) 0 ) }}
         <div class="categories">
-            <a href="{{ "/kategoriler" | relLangURL }}"><strong>{{ i18n "categories" }}</strong></a>
+            <a href="{{ "/ceviriler/" | relLangURL }}"><strong>Çeviriler</strong></a>
             <ul>
-                {{ range $order, $taxonomy := (first ( .Site.Params.amountCategoriesInFooter | default 7 ) .Site.Taxonomies.kategoriler.ByCount) }}
+                {{ range $order, $taxonomy := (first ( .Site.Params.amountCategoriesInFooter | default 7 ) .Site.Taxonomies.ceviriler.ByCount) }}
                 <li>
-                    <a href="{{ (print "/kategoriler/" ($taxonomy.Name | urlize)) | relLangURL }}">{{ $taxonomy.Name | humanize }}
+                    <a href="{{ (print "/ceviriler/" ($taxonomy.Name | urlize)) | relLangURL }}">{{ $taxonomy.Name | humanize }}
                         ({{ $taxonomy.Count }})</a>
                 </li>
                 {{ end }}

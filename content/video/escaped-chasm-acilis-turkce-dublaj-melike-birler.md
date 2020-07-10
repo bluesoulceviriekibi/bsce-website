@@ -3,7 +3,7 @@ title: "Escaped Chasm Açılış - Türkçe Dublaj (Melike Birler)"
 date: 2019-11-24T20:31:08+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Escaped Chasm", "Açılış", "Türkçe Dublaj", "Melike Birler"]
 yazar: "BlueSoul Çeviri Ekibi"
 

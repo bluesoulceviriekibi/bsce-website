@@ -3,7 +3,7 @@ title: "Escaped Chasm Türkçe Yama"
 date: 2019-06-03T17:07:49+03:00
 draft: false
 
-kategoriler: ["Oyun"]
+ceviriler: ["Oyun"]
 etiketler: ["Escaped Chasm", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false

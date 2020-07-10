@@ -3,7 +3,7 @@ title: "Deltarune - Unutma (Don't Forget) Türkçe Cover - Melike Birler"
 date: 2019-02-16T16:26:48+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Deltarune", "Şarkı", "Türkçe Dublaj"]
 yazar: "BlueSoul Çeviri Ekibi"
 

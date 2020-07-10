@@ -1,7 +1,7 @@
 {{- $.Scratch.Add "index" slice -}}
 
-{{- range $name, $taxonomy := .Site.Taxonomies.kategoriler -}}
-    {{- $.Scratch.Add "index" (dict "url" (print "/kategoriler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-folder" "type" "kategori" "objectID" (print "/kategoriler/" $name | absURL) ) -}}
+{{- range $name, $taxonomy := .Site.Taxonomies.ceviriler -}}
+    {{- $.Scratch.Add "index" (dict "url" (print "/ceviriler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-folder" "type" "ceviri" "objectID" (print "/ceviriler/" $name | absURL) ) -}}
 {{- end -}}
 
 {{- range $name, $taxonomy := .Site.Taxonomies.yazar -}}
@@ -31,9 +31,9 @@
     {{- end -}}
 
     {{- range .Translations -}}
-        {{- $.Scratch.Add "index" (dict "url" .Permalink "title" .Title "etiketler" .Params.etiketler "kategoriler" .Params.kategoriler "yazar" .Params.yazar "type" .Type "language" .Lang "iconClass" $iconClass "objectID" (.Permalink | md5) ) -}}
+        {{- $.Scratch.Add "index" (dict "url" .Permalink "title" .Title "etiketler" .Params.etiketler "ceviriler" .Params.ceviriler "yazar" .Params.yazar "type" .Type "language" .Lang "iconClass" $iconClass "objectID" (.Permalink | md5) ) -}}
     {{- end -}}
-    {{- $.Scratch.Add "index" (dict "url" .Permalink "title" .Title "etiketler" .Params.etiketler "kategoriler" .Params.kategoriler "yazar" .Params.yazar "type" .Type "language" .Lang "iconClass" $iconClass "objectID" (.Permalink | md5) ) -}}
+    {{- $.Scratch.Add "index" (dict "url" .Permalink "title" .Title "etiketler" .Params.etiketler "ceviriler" .Params.ceviriler "yazar" .Params.yazar "type" .Type "language" .Lang "iconClass" $iconClass "objectID" (.Permalink | md5) ) -}}
 
 {{- end -}}
 

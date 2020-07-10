@@ -3,7 +3,7 @@ title: "Steins;Gate 0 Last Game - Türkçe Çeviri"
 date: 2019-11-13T23:13:33+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Steins-Gate 0", "Şarkı", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 

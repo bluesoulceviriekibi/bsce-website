@@ -3,7 +3,7 @@ title: "The Aftermath Türkçe Yama"
 date: 2020-04-10T17:07:49+03:00
 draft: false
 
-kategoriler: ["Oyun"]
+ceviriler: ["Oyun"]
 etiketler: ["The Aftermath", "PC", "2D", "Pixel", "Sonsuz"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false

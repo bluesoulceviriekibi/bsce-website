@@ -3,7 +3,7 @@ title: "Toby Fox'un Oyun Yapımcılarına Mektubu - INDIE Live Expo 2020 - Türk
 date: 2020-06-25T22:33:28+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["tobyfox", "Oyun Yaratıcısı", "Yayın"]
 yazar: "BlueSoul Çeviri Ekibi"
 

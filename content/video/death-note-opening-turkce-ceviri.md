@@ -3,7 +3,7 @@ title: "Death Note Opening - Türkçe Çeviri"
 date: 2018-11-30T15:31:56+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Death Note", "Açılış", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 

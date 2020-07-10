@@ -13,11 +13,11 @@
         <span class="readingTime">{{ i18n "readingTime" .ReadingTime }}</span>
         {{ end }}
 
-        {{ with .Params.kategoriler }}
+        {{ with .Params.ceviriler }}
         <span class="categories">
             {{ range . }}
                 {{ $urlValue := replace . " " "-" | lower}}
-                {{ with $.Site.GetPage (printf "/kategoriler/%s" $urlValue) }}
+                {{ with $.Site.GetPage (printf "/ceviriler/%s" $urlValue) }}
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 {{ end }}
             {{ end }}

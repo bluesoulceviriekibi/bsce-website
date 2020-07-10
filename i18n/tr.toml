@@ -1,3 +1,6 @@
+[ceviriler]
+other = "Çeviriler"
+
 [categories]
 other = "Kategoriler"
 
@@ -27,9 +30,6 @@ other = "Önceki Sayfa"
 
 [continueReading]
 other = "Devamını oku"
-
-[otherLanguages]
-other = "Diğer diller"
 
 [readingTime]
 one = "1 dak. okuma"

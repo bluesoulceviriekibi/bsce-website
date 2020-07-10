@@ -3,7 +3,7 @@ title: "Steins;Gate - Skyclad Observer / Türkçe Çeviri (Romaji + English + T�
 date: 2019-09-28T19:02:25+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Steins-Gate", "Şarkı", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 

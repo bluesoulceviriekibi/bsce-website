@@ -3,7 +3,7 @@ title: "Steven Wilson - Drive Home - Türkçe Çeviri"
 date: 2020-02-06T20:53:54+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Steven Wilson", "Şarkı", "Tek Kare Animasyon"]
 yazar: "BlueSoul Çeviri Ekibi"
 

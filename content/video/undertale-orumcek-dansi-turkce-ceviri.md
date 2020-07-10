@@ -3,7 +3,7 @@ title: "SPIDER DANCE / ÖRÜMCEK DANSI | Türkçe Çeviri"
 date: 2018-12-23T16:22:52+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["UNDERTALE", "Şarkı", "2D Animasyon"]
 yazar: "BlueSoul Çeviri Ekibi"
 

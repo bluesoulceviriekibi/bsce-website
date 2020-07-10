@@ -3,7 +3,7 @@ title: "Deltarune Hikayesi - Türkçe Dublaj (Bir Level Atladı / Erdem)"
 date: 2019-06-05T18:54:58+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Deltarune", "Türkçe Dublaj", "Oynanış"]
 yazar: "BlueSoul Çeviri Ekibi"
 

@@ -137,7 +137,7 @@ disqusShortname = "bluesoulceviriekibi"
 [taxonomies]
   yazar = "yazar"
   etiket = "etiketler"
-  kategori = "kategoriler"
+  ceviri = "ceviriler"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]

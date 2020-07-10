@@ -3,7 +3,6 @@ title: "Yeni Sitemiz Nasıl Olmuş?"
 date: 2020-07-10T01:41:17+03:00
 draft: false
 
-kategoriler: ["Yazı"]
 etiketler: ["BSÇE", "Site", "Soru"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false

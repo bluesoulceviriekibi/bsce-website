@@ -3,7 +3,7 @@ title: "Jevil The Musical / Jevil Müzikali - Türkçe Çeviri"
 date: 2018-12-17T16:18:52+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Deltarune", "Şarkı", "Oynanış"]
 yazar: "BlueSoul Çeviri Ekibi"
 

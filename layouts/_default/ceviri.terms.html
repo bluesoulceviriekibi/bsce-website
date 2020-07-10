@@ -2,17 +2,17 @@
 
 <div class="content">
     <div class="article-wrapper u-cf single">
-        <a class="bubble" href="{{ "/kategoriler/" | relLangURL}}">
+        <a class="bubble" href="{{ "/ceviriler/" | relLangURL}}">
             <i class="fa fa-fw fa-list"></i>
         </a>
 
         <article class="article">
             <div class="content">
-                <h3>{{ i18n "categories" }}</h3>
+                <h3>Çeviriler</h3>
                 <hr>
                 <ul id="all-categories">
-                    {{ range $name, $taxonomy := .Site.Taxonomies.kategoriler }}
-                        <li><a href="{{ "/kategoriler/" | relLangURL }}{{ $name | urlize }}">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
+                    {{ range $name, $taxonomy := .Site.Taxonomies.ceviriler }}
+                        <li><a href="{{ "/ceviriler/" | relLangURL }}{{ $name | urlize }}">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
                     {{ end }}
                 </ul>
             </div>

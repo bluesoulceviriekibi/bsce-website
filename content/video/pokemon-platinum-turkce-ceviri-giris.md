@@ -3,7 +3,7 @@ title: "Pokémon Platinum Türkçe Çeviri - Giriş"
 date: 2020-01-06T20:38:19+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Pokémon", "Açılış"]
 yazar: "BlueSoul Çeviri Ekibi"
 

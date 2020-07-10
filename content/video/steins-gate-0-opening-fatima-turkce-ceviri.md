@@ -3,7 +3,7 @@ title: "STEINS;GATE 0 OP - FATIMA - Türkçe Çeviri"
 date: 2018-12-01T16:11:10+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Steins-Gate 0", "Şarkı", "Açılış", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
 

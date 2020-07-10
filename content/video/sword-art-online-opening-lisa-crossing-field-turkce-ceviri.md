@@ -3,7 +3,7 @@ title: "Sword Art Online Opening - LiSA: Crossing Field / Türkçe Çeviri"
 date: 2019-12-28T20:35:15+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Sword Art Online", "Şarkı", "Açılış"]
 yazar: "BlueSoul Çeviri Ekibi"
 

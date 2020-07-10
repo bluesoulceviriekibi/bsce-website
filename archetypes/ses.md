@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
-kategoriler: ["Ses"]
+ceviriler: ["Ses"]
 etiketler: []
 yazar: "BlueSoul Çeviri Ekibi"
 

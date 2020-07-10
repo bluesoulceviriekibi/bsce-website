@@ -3,7 +3,7 @@ title: "Deltarune - You Can Always Come Home Türkçe Cover - CalyRV"
 date: 2020-02-08T22:26:06+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Deltarune", "Şarkı", "Türkçe Dublaj"]
 yazar: "BlueSoul Çeviri Ekibi"
 

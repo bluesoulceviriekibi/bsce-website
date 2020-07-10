@@ -3,7 +3,7 @@ title: "Nine Inch Nails - Every Day Is Exactly The Same / Türkçe Çeviri"
 date: 2020-02-04T20:51:19+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Nine Inch Nails", "Şarkı", "2D Animasyon"]
 yazar: "BlueSoul Çeviri Ekibi"
 

@@ -3,7 +3,7 @@ title: "Lemonade Mouth - More Than A Band - Türkçe Çeviri"
 date: 2020-01-10T20:40:32+03:00
 draft: false
 
-kategoriler: ["Video"]
+ceviriler: ["Video"]
 etiketler: ["Lemonade Mouth", "Şarkı"]
 yazar: "BlueSoul Çeviri Ekibi"
 
