@@ -415,10 +415,4 @@ article {
 #comments-container  {
     margin-left: 100px;
     padding-bottom: 1.2em;
-    a {
-	color: yellow;
-	&:hover {
-            color: $highlight-color;
-        }
-    }
 }
