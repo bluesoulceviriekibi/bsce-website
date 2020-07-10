@@ -39,14 +39,13 @@ footer {
                 position: relative;
                 left: 0;
                 display: inline-block;
-                transition: all 0.5s ease-in-out;
-                color: white;
+                transition: left 0.3s ease-in-out;
+                color: yellow;
                 font-family: $content-font;
 
                 &:hover {
                     left: 10px;
-                    color: white;
-                    transition: all 0.5s ease-in-out;
+                    color: yellow;
                 }
             }
         }
@@ -60,10 +59,10 @@ footer {
                 a {
                     font-size: 2em;
                     margin: 0 0.5rem;
-                    color: white;
+                    color: yellow;
 
                     &:hover {
-                        color: white;
+                        color: yellow;
                     }
                 }
 

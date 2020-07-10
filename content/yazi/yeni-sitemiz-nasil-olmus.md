@@ -13,6 +13,8 @@ Sitemizi baştan aşağıya yeniledik!
 Lütfen bu yazının devamını okuyun...  
 <!--more-->
 
+---
+
 Artık her şey kategorize edildi, daha kullanışlı hale getirildi ve yorumlar kısmı eklendi!  
 
 Sitemizi daha da geliştirmek için öneri ve eleştirilerinize ihtiyacımız var.  

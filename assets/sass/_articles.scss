@@ -109,17 +109,14 @@ article {
             display: block;
             margin: 2.5rem 0;
             margin-bottom: 1rem;
-            color: white;
+            color: yellow;
             font-size: 1.125em;
             text-decoration: none;
             font-style: normal;
-            transition: all 0.5s ease-in-out;
+
 
             &:hover {
                 color: $continue-reading-hover-color;
-                text-decoration: underline;
-                text-decoration-color: $highlight-color;
-                transition: all 0.5s ease-in-out;
             }
         }
 
@@ -275,12 +272,9 @@ article {
                 flex-direction: column;
                 justify-content: center;
 
-                &:hover {
-                    text-decoration: none;
-                }
 
                 &:before {
-                    color: rgba(255, 255, 255, 1);
+                    color: rgba(255, 255, 255, 0.9);
                     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
                 }
             }
@@ -327,11 +321,11 @@ article {
 
         &:hover {
             background-color: $highlight-color;
-            transition: all 0.5s ease-in-out;
+            transition: all 0.3s ease-in-out;
 
             &:after {
                 border-right-color: $highlight-color;
-                transition: all 0.5s ease-in-out;
+                transition: all 0.3s ease-in-out
             }
         }
 
