@@ -16,13 +16,8 @@
     }
 
     a {
-        color: yellow;
         text-decoration: none;
         transition: all 0.2s ease-in-out;
-
-        &:hover {
-            color: $highlight-color;
-        }
 
         &:focus {
             outline: none;
