@@ -13,7 +13,7 @@ monospace;
 $page-background-color: #030b1c;
 $base-color: #091c47;
 $special-color: #0F3280;
-$highlight-color: #1344b0;
+$highlight-color: #275ed9;
 $text-color: #fff;
 
 // easy styling
@@ -33,7 +33,7 @@ $bubble-hover-color: $highlight-color;
 $article-background-color: $base-color;
 $meta-text-color: white;
 $meta-border-color: white;
-$continue-reading-hover-color: white;
+$continue-reading-hover-color: $highlight-color;
 
 $footer-border-color: $highlight-color;
 $footer-background-color: $base-color;

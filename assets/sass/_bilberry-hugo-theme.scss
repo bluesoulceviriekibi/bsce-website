@@ -16,12 +16,12 @@
     }
 
     a {
-        color: inherit;
+        color: yellow;
         text-decoration: none;
         transition: all 0.2s ease-in-out;
 
         &:hover {
-            color: yellow;
+            color: $highlight-color;
         }
 
         &:focus {
@@ -49,6 +49,16 @@
     .container {
         width: $site-width;
         max-width: 100%;
+    }
+
+    .credits {
+	a {
+            font-style: normal;
+	    color: white;
+	    &:hover {
+                color: $highlight-color;
+            }
+        }
     }
 
     ul {

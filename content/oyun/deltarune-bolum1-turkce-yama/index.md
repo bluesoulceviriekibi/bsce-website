@@ -9,7 +9,7 @@ yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---
 
-# Deltarune Hakkında  
+## Deltarune Hakkında  
 
 _Karanlık Daha Karanlık Daha Da Karanlık..._  
 _Karanlık Büyümeye Devam Ediyor..._
@@ -46,13 +46,13 @@ _DELTARUNE!_
 
 ---
 
-# Yamayı Hazırlayanlar
+## Yamayı Hazırlayanlar  
 
-## Yama Yöneticisi
+Yama Yöneticisi
 
 * Hasan Hüseyin Şahin
 
-## Çeviri
+Çeviri
 
 * Ahmet Emir
 * Asriel Dreemurr
@@ -68,7 +68,7 @@ _DELTARUNE!_
 * Salih Güdücü
 * Ulaş Göksingöl
 
-## Kalite Kontrol
+Kalite Kontrol
 
 * Ali Meriç Uslu
 * Gökhan Perçem
@@ -77,7 +77,7 @@ _DELTARUNE!_
 * Ulaş Tanıl
 * Yamocuk
 
-## Özel Teşekkürler
+Özel Teşekkürler
 
 * Fylean#5647
 * 🎄 Natale 🎄#2568
@@ -93,20 +93,20 @@ _DELTARUNE!_
 * Emre Ege
 * Yusuf.
 
-## Paketleme ve Yayınlama
+Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 
 ---
 
-# `!!! UYARI !!!`  
+## `!!! UYARI !!!`  
 
 `Hareketli ve parlak görseller içerebilir.`  
 `Sadece [UNDERTALE'ı](https://undertale.com) bitirmiş olanlar içindir.`  
 
 ---
 
-# İndirme Linkleri  
+## İndirme Linkleri  
 
 * Yama sürümü: v2.6 - 2019.04.02
 * [Windows için Yükleyici (Oyun ve Yama - 82 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  

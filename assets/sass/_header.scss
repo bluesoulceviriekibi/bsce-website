@@ -74,6 +74,10 @@ header {
     }
 
     .titles {
+	a { color: white; }
+	a:hover {
+	    color: $highlight-color;
+	}
         margin-left: 3rem;
 
         h3 {

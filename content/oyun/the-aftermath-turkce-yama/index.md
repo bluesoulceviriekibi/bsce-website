@@ -9,7 +9,7 @@ yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---
 
-# The Aftermath Hakkında  
+## The Aftermath Hakkında  
 
 Tuhaf bir olay dünyadaki tüm canlıların ölümüne neden oldu.  
 Kıyamet Günü evrak işleriyle geldi...  
@@ -25,33 +25,33 @@ Tek hakim SENsin.
 
 ---
 
-# Yamayı Hazırlayanlar
+## Yamayı Hazırlayanlar
 
-## Yama Yöneticisi
-
-* Kutay Akbaba
-
-## Çeviri
+Yama Yöneticisi
 
 * Kutay Akbaba
-* Hasan Hüseyin Şahin
-* Gökhan Perçem
-* Ömer Akgöz (34)
 
-## Kalite Kontrol
+Çeviri
 
 * Kutay Akbaba
 * Hasan Hüseyin Şahin
 * Gökhan Perçem
 * Ömer Akgöz (34)
 
-## Paketleme ve Yayınlama
+Kalite Kontrol
+
+* Kutay Akbaba
+* Hasan Hüseyin Şahin
+* Gökhan Perçem
+* Ömer Akgöz (34)
+
+Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 
 ---
 
-# İndirme Linkleri  
+## İndirme Linkleri  
 
 * Yama sürümü: v1 - 2020.04.10
 * [Windows için Yükleyici (Oyun ve Yama - 9 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/the_aftermath/The_Aftermath_Turkce_Oto-Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  

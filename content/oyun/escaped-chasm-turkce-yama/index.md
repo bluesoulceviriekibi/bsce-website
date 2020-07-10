@@ -9,7 +9,7 @@ yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
 ---
 
-# Escaped Chasm Hakkında  
+## Escaped Chasm Hakkında  
 
 Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
 <!--more-->
@@ -19,36 +19,36 @@ Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir k
 
 ---
 
-# Yamayı Hazırlayanlar
+## Yamayı Hazırlayanlar
 
-## Yama Yöneticisi
+Yama Yöneticisi
 
 * Gökhan Perçem
 
-## Çeviri
+Çeviri
 
 * Anıl Arda Genç
 * Çagrı Apaydın
 * Gökhan Perçem
 * Mehmet Kutlualp Makas
 
-## Kalite Kontrol
+Kalite Kontrol
 
 * Anıl Arda Genç
 * Mehmet Kutlualp Makas
 
-## Ekstra Medya
+Ekstra Medya
 
 * Gökhan Perçem
 * Mehmet Kutlualp Makas
 
-## Paketleme ve Yayınlama
+Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 
 ---
 
-# Önemli Bilgilendirme
+## Önemli Bilgilendirme
 
 1. Ayarlardan sürekli koşmayı kapatın(OFF), aksi taktirde ilerlerken oyun çökebilir. (yamadan kaynaklı değildir)
 
@@ -60,14 +60,14 @@ Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir k
 
 ---
 
-# `!!! UYARI !!!`  
+## `!!! UYARI !!!`  
 
 `Uzun süreli yüksek/alçak seviyeli sesler ve`  
 `rahatsız edici atmosfer/unsur içerebilir.`
 
 ---
 
-# İndirme Linkleri  
+## İndirme Linkleri  
 
 * Yama sürümü: v2 - 2020.04.13
 * [Windows için Yükleyici (Oyun ve Yama - 110 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/escaped_chasm_v2/Escaped_Chasm_Turkce_v2_Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  
