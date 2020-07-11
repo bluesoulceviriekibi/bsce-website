@@ -3,16 +3,15 @@ title: "Dweller's Empty Path için Türkçe Yama Çalışmalarına Başladık!"
 date: 2020-07-11T17:02:58+03:00
 draft: false
 
-ceviriler: ["Oyun"]
 etiketler: ["Dwellers Empty Path", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: true
 aliases: ["/dwellers-empty-path-turkce-yama-durumu"]
 ---
-## Heyoo!
+## Heyoo
 
 Temmie Chang'in yeni ücretsiz oyunu için Türkçe Yama çalışmalarına başlamış bulunmaktayız.  
-<!--more-->
+<!--more-->  
 
 En yakın zamanda bitirip yayınlamak için sabırsızlanıyoruz :)  
 Yamanın durumunu arada sırada sitemizden yayınlayacağız.  
@@ -25,7 +24,7 @@ Yamanın durumunu arada sırada sitemizden yayınlayacağız.
 
 Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)  
 
-Yamanın güncel durumuna her zaman [bu linkten](/dwellers-empty-path-turkce-yama-durumu) ulaşabilirsiniz.
+Yamanın güncel durumuna her zaman [bu linkten](/dwellers-empty-path-turkce-yama-durumu) ulaşabilirsiniz.  
 
 Aşağıdan bize yorum bırakabilirsiniz.  
 Sağlıcakla kalın ve kendinize dikkat edin <3  
