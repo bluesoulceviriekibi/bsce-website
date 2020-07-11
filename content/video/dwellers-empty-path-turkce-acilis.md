@@ -4,7 +4,7 @@ date: 2020-07-11T15:30:00+03:00
 draft: false
 
 ceviriler: ["Video"]
-etiketler: ["Dwellers Empty Path", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
+etiketler: ["Dwellers Empty Path", "Temmie Chang", "Açılış", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
