@@ -1,8 +1,9 @@
 ---
 title: "Dweller's Empty Path için Türkçe Yama Çalışmalarına Başladık!"
-date: 2020-07-11T17:02:58+03:00
+date: 2020-07-11T19:21:00+03:00
 draft: false
 
+ceviriler: ["Oyun"]
 etiketler: ["Dwellers Empty Path", "Temmie Chang", "Toby Fox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
