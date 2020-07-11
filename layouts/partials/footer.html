@@ -4,7 +4,7 @@
 
         {{ if gt (.Site.Params.amountLatestPostsInFooter | default 7) 0 }}
         <div class="recent-posts">
-            <a href="{{ "/" | relLangURL }}"><strong>En Yeniler</strong></a>
+            <a href="{{ "/" | relLangURL }}"><strong>{{ i18n "latestPosts" }}</strong></a>
             <ul>
                 {{ range where (where (first (.Site.Params.amountLatestPostsInFooter | default 7) .Site.Pages.ByPublishDate.Reverse) ".Kind" "page") ".Type" "ne" "sayfa" }}
                 <li>
@@ -17,7 +17,7 @@
 
         {{ if and .Site.Taxonomies.ceviriler (gt ( .Site.Params.amountCategoriesInFooter | default 7 ) 0 ) }}
         <div class="categories">
-            <a href="{{ "/ceviriler/" | relLangURL }}"><strong>Çeviriler</strong></a>
+            <a href="{{ "/ceviriler/" | relLangURL }}"><strong>{{ i18n "translations" }}</strong></a>
             <ul>
                 {{ range $order, $taxonomy := (first ( .Site.Params.amountCategoriesInFooter | default 7 ) .Site.Taxonomies.ceviriler.ByCount) }}
                 <li>

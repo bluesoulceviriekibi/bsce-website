@@ -4,7 +4,7 @@ date: 2020-06-25T22:33:28+03:00
 draft: false
 
 ceviriler: ["Video"]
-etiketler: ["tobyfox", "Oyun Yaratıcısı", "Yayın"]
+etiketler: [Toby Fox, "Oyun Yaratıcısı", "Yayın"]
 yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for

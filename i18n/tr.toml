@@ -1,4 +1,4 @@
-[ceviriler]
+[translations]
 other = "Çeviriler"
 
 [categories]
@@ -14,7 +14,7 @@ other = "Etiketler"
 other = "Sosyal Medya"
 
 [latestPosts]
-other = "Son Gönderiler"
+other = "En Yeniler"
 
 [search]
 other = "Ara..."
