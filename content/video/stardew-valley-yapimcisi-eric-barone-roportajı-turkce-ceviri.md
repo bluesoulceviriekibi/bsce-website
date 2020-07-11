@@ -4,7 +4,7 @@ date: 2020-07-02T22:39:20+03:00
 draft: false
 
 ceviriler: ["Video"]
-etiketler: ["Stardew Valley", "Oyun Yaratıcısı", "Yayın"]
+etiketler: ["Stardew Valley", "Oyun Yapımcısı", "Yayın"]
 yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
