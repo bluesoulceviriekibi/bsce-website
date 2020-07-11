@@ -5,7 +5,7 @@ draft: false
 
 etiketler: ["Dwellers Empty Path", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: true
+resizeImages: false
 aliases: ["/dwellers-empty-path-turkce-yama-durumu"]
 ---
 ## Heyoo
