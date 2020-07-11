@@ -6,11 +6,12 @@ draft: false
 ceviriler: ["Video"]
 etiketler: ["Noragami Aragato", "Şarkı", "Açılış", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
+aliases: ["/ceviri/noragami_aragoto_op"]
 
 # Set your video id for
 # https://shields.io/category/social
 mp4video: "https://github.com/bluesoulceviriekibi/cdn/releases/download/noragami_aragoto_op_turkce/noragami_aragoto_op_turkce.mp4"        #location video file (only mp4)
-mp4videoImage: "/images/translations/noragami_aragoto_op.jpg"   #location poster image
+mp4videoImage: "noragami_aragoto_op.jpg"   #location poster image
 ---
 
 [![Görüntülenmeler](https://img.shields.io/youtube/views/BUIFF7Hyfdw?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/BUIFF7Hyfdw)

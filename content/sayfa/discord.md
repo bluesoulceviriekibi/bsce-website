@@ -8,4 +8,5 @@ excludeFromTopNav: false
 link: "https://discord.com/invite/ZjvWWhU"
 # set the html target parameter if you want to change default behavior
 target: "_blank"
+aliases: ["/discord"]
 ---

@@ -7,6 +7,7 @@ ceviriler: ["Oyun"]
 etiketler: ["The Aftermath", "PC", "2D", "Pixel", "Sonsuz"]
 yazar: "BlueSoul Çeviri Ekibi"
 resizeImages: false
+aliases: ["/ceviri/the_aftermath"]
 ---
 
 ## The Aftermath Hakkında  
@@ -18,7 +19,7 @@ Kıyamet Günü evrak işleriyle geldi...
 Tek hakim SENsin.
 <!--more-->
 
-[![The Aftermath Oynanış](/images/translations/the-aftermath-gameplay.png "The Aftermath Oynanış")](https://tselmek.itch.io/the-aftermath)
+[![The Aftermath Oynanış](ss1.png "The Aftermath Oynanış")](https://tselmek.itch.io/the-aftermath)
 
 **Yapımcı: Tselmek**  
 **Müzik ve Sesler: zminusone**  

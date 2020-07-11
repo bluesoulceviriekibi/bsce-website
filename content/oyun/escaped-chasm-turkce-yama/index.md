@@ -6,7 +6,8 @@ draft: false
 ceviriler: ["Oyun"]
 etiketler: ["Escaped Chasm", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: false
+resizeImages: true
+aliases: ["/ceviri/escaped_chasm"]
 ---
 
 ## Escaped Chasm Hakkında  

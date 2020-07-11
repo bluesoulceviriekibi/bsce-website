@@ -25,7 +25,7 @@
 body {
 
   background-color: black;
-  background-image: url('/images/translations/poke_bg.png');
+  background-image: url('poke_bg.png');
   background-repeat: repeat-y;
 }
 

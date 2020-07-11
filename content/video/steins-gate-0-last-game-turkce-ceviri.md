@@ -6,6 +6,7 @@ draft: false
 ceviriler: ["Video"]
 etiketler: ["Steins-Gate 0", "Şarkı", "Anime"]
 yazar: "BlueSoul Çeviri Ekibi"
+aliases: ["/ceviri/steins_gate_0_last_game"]
 
 # Set your video id for
 # https://shields.io/category/social
