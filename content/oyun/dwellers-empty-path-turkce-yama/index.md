@@ -1,6 +1,6 @@
 ---
 title: "Dweller's Empty Path için Türkçe Yama Çalışmalarına Başladık!"
-date: 2020-07-11T19:21:00+03:00
+date: 2020-07-12T18:40:00+03:00
 draft: false
 
 ceviriler: ["Oyun"]
@@ -31,7 +31,7 @@ Müzik:
 * [Toby Fox](https://twitter.com/tobyfox) - Melodiler/Akorlar
 * [Temmie Chang](https://twitter.com/tuyoki) - Melodiler/Akorlar
 
-Çeviri durumu: %5  
+Çeviri durumu: %12  
 Kontrol durumu: %0
 
 Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)  
