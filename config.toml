@@ -36,7 +36,7 @@ disqusShortname = "bluesoulceviriekibi"
   paginate = 5
 
   # Enable / Disable MathJax
-  enable_mathjax    = false
+  enable_mathjax    = true
 
   # Enable / Disable algolia search
   algolia_search    = true
