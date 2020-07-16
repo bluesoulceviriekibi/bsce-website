@@ -79,6 +79,16 @@
 
     {{ template "_internal/google_analytics_async.html" . }}
     <script data-ad-client="ca-pub-6714443713333752" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+        window.OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+            OneSignal.init({
+                appId: "0089b130-aba0-4eac-9c30-e2649e11533e",
+            });
+        });
+    </script>
 </head>
 
 <body class="bilberry-hugo-theme">
