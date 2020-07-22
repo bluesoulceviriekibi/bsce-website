@@ -80,7 +80,7 @@
     {{ template "_internal/google_analytics_async.html" . }}
     <script data-ad-client="ca-pub-6714443713333752" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
-    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
     <script>
         window.OneSignal = window.OneSignal || [];
         OneSignal.push(function() {
@@ -89,6 +89,7 @@
             });
         });
     </script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.css">
 </head>
 
 <body class="bilberry-hugo-theme">
@@ -120,7 +121,10 @@
     {{ partial "algolia-search" . }}
     {{ end }}
 
-
+    <script src="https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.min.js"></script>
+    <script>
+      const players = Plyr.setup('.js-player', { iconUrl: 'https://cdn.jsdelivr.net/npm/plyr@3.6.2/dist/plyr.svg' });
+    </script>
 </body>
 
 </html>

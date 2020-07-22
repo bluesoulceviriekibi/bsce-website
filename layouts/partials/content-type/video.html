@@ -7,7 +7,7 @@
 
     {{ with .Params.youtube }}
     <div class="responsive-video youtube">
-        <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}?rel=0" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     {{ end }}
     {{ with .Params.vimeo }}
@@ -25,10 +25,17 @@
 
     {{ if isset .Params "mp4video" }}
     <div class="responsive-video local">
-      <video width="100%" controls poster="{{ .Params.mp4videoImage }}">
+      <video class="js-player" width="100%" controls controls data-plyr-config='{ "title": "{{ .Title }}" }' poster="{{ .Params.mp4videoImage }}">
         <source src="{{ .Params.mp4video }}" type="video/mp4">
-        Your browser does not support the video tag.
+        <track label="BSÇE Türkçe" kind="captions" srclang="tr" src="{{ .Params.mp4videoSub }}" default>
+        Web tarayıcın HTML5 Video özelliğini desteklemiyor.
       </video>
+    </div>
+    {{ end }}
+
+    {{ with .Params.iframe }}
+    <div class="responsive-video youtube">
+        <iframe src="{{ . }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     {{ end }}
     
