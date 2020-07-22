@@ -24,11 +24,10 @@
     {{ end }}
 
     {{ if isset .Params "mp4video" }}
-    <div class="responsive-video local">
-      <video class="js-player" width="100%" controls controls data-plyr-config='{ "title": "{{ .Title }}" }' poster="{{ .Params.mp4videoImage }}">
+    <div>
+      <video class="js-player" width="100%" playsinline controls controls data-plyr-config='{ "title": "{{ .Title }}" }' data-poster="{{ .Params.mp4videoImage }}">
         <source src="{{ .Params.mp4video }}" type="video/mp4">
-        <track label="BSÇE Türkçe" kind="captions" srclang="tr" src="{{ .Params.mp4videoSub }}" default>
-        Web tarayıcın HTML5 Video özelliğini desteklemiyor.
+        <track kind="captions" label="BSÇE Türkçe" srclang="tr" src="{{ .Params.mp4videoSub }}">
       </video>
     </div>
     {{ end }}
