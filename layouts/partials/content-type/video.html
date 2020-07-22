@@ -25,9 +25,8 @@
 
     {{ if isset .Params "mp4video" }}
     <div>
-      <video class="js-player" width="100%" playsinline controls controls data-plyr-config='{ "title": "{{ .Title }}" }' data-poster="{{ .Params.mp4videoImage }}">
+      <video width="100%" controls poster="{{ .Params.mp4videoImage }}">
         <source src="{{ .Params.mp4video }}" type="video/mp4">
-        <track kind="captions" label="BSÇE Türkçe" srclang="tr" src="{{ .Params.mp4videoSub }}">
       </video>
     </div>
     {{ end }}
