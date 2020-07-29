@@ -12,7 +12,7 @@
                 <hr>
                 <ul id="all-categories">
                     {{ range $name, $taxonomy := .Site.Taxonomies.etiketler }}
-                        <li><a href="{{ "/etiketler/" | relLangURL }}{{ $name | urlize }}">{{ $name }} ({{ $taxonomy.Count }})</a></li>
+                        <li><a class="termslist" href="{{ "/etiketler/" | relLangURL }}{{ $name | urlize }}">{{ $name }} ({{ $taxonomy.Count }})</a></li>
                     {{ end }}
                 </ul>
             </div>

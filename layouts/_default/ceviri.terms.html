@@ -8,11 +8,11 @@
 
         <article class="article">
             <div class="content">
-                <h3>Çeviriler</h3>
+                <h3>{{ i18n "translations" }}</h3>
                 <hr>
                 <ul id="all-categories">
                     {{ range $name, $taxonomy := .Site.Taxonomies.ceviriler }}
-                        <li><a href="{{ "/ceviriler/" | relLangURL }}{{ $name | urlize }}">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
+                        <li><a class="termslist" href="{{ "/ceviriler/" | relLangURL }}{{ $name | urlize }}">{{ $name | humanize }} ({{ $taxonomy.Count }})</a></li>
                     {{ end }}
                 </ul>
             </div>

@@ -104,12 +104,12 @@ article {
             font-size: 1.1em;
             text-transform: uppercase;
             font-weight: bold;
-	    a {
+            a {
                 font-style: normal;
-		color: white;
-		&:hover {
+                color: white;
+                &:hover {
                     color: $highlight-color;
-            	}
+                }
             }
         }
 
@@ -126,10 +126,10 @@ article {
 
             a {
                 font-style: normal;
-		color: white;
-		&:hover {
+                color: white;
+                &:hover {
                     color: $highlight-color;
-            	}
+                }
             }
 
             span {
@@ -205,6 +205,12 @@ article {
 
         video {
             max-width: 100%;
+        }
+        .termslist {
+            color: white;
+            &:hover {
+                    color: $highlight-color;
+                }
         }
     }
 
