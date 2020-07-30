@@ -19,4 +19,4 @@ Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğim
 
 [![Instagram](https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=ffffff&label=Instagram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=purple&colorB=123b97)](https://instagram.com/bluesoulceviriekibi)  
 
-Site geliştiricisi: omerakgoz34
+Site geliştiricisi: [omerakgoz34](mailto:omerakgoz34@gmail.com)
