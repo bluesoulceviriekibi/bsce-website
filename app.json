@@ -21,6 +21,34 @@
       "description": "The 'API Secret' of your Cloudinary account",
       "required": true
     }
+    "DATABASE_HOST": {
+      "description": "DATABASE_HOST",
+      "required": true
+    },
+    "DATABASE_PORT": {
+      "description": "DATABASE_PORT",
+      "required": true
+    },
+    "DATABASE_NAME": {
+      "description": "DATABASE_NAME",
+      "required": true
+    },
+    "DATABASE_USERNAME": {
+      "description": "DATABASE_USERNAME",
+      "required": true
+    },
+    "DATABASE_PASSWORD": {
+      "description": "DATABASE_PASSWORD",
+      "required": true
+    },
+    "ADMIN_JWT_SECRET": {
+      "description": "ADMIN_JWT_SECRET",
+      "required": true
+    },
+    "JWT_SECRET": {
+      "description": "JWT_SECRET",
+      "required": true
+    },
   },
   "addons": ["heroku-postgresql:hobby-dev"],
   "image": "heroku/nodejs",
