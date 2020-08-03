@@ -48,7 +48,7 @@
     "JWT_SECRET": {
       "description": "JWT_SECRET",
       "required": true
-    },
+    }
   },
   "addons": ["heroku-postgresql:hobby-dev"],
   "image": "heroku/nodejs",
