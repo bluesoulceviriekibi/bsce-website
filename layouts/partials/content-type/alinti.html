@@ -1,0 +1,14 @@
+<a class="bubble" href="{{ .Permalink }}">
+    <i class="fas fa-fw {{or .Params.icon "fa-quote-right" }}"></i>
+</a>
+
+<article class="quote">
+    {{ with .Params.featuredImage }}
+    <img src="{{ . }}" class="featured-image" alt="">
+    {{ end }}
+    <blockquote>
+        {{ .Content }}
+        {{ $urlValue := replace .Params.yazar " " "-" | lower}}
+        <cite><a href="{{ (print "/yazar/" $urlValue) | relLangURL }}">{{ .Params.yazar }}</a></cite>
+    </blockquote>
+</article>
