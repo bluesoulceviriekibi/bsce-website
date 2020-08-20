@@ -1,0 +1,67 @@
+---
+label: Video (MP4)
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Başlık
+  config:
+    required: true
+    min: 
+    max: 
+  default: Yeni Video Çevirisi
+- type: datetime
+  name: date
+  label: Tarih
+  config:
+    display_utc: false
+    required: true
+  default: now
+- name: ceviriler
+  type: tag_list
+  default:
+  - Video
+  label: Çeviriler
+  hidden: true
+- name: etiketler
+  type: tag_list
+  default: []
+  label: Etiketler
+  description: En az 1 tane koyulmalıdır. Eski içeriklerden örnek alabilirsiniz.
+- name: youtube
+  type: text
+  config:
+    required: false
+    min: 
+    max: 
+  label: YouTube Video
+  description: 'Kapak videosu olarak YouTube videosu koymak istiyorsanız buraya video
+    ID''sini giriniz. Örnek: <a href="https://www.youtube.com/watch?v=M7IjJiZUutk"
+    title="https://www.youtube.com/watch?v=M7IjJiZUutk" target="_blank">https://www.youtube.com/watch?v=M7IjJiZUutk</a>
+    -&gt; "M7IjJiZUutk"<br>Bunu ayarlarsanız diğer video ayarlarını boş bırakmalısınız.'
+  hidden: false
+- name: mp4video
+  type: file
+  config:
+    maxSize: 
+  label: MP4 Video
+  description: Kapak videosu olarak MP4 videosu koyabilirsiniz. Bunu ayarlarsanız
+    diğer video ayarlarını boş bırakmalısınız. Sadece MP4 formatındaki videolar kullanılabilir.
+- name: mp4videoImage
+  type: file
+  config:
+    maxSize: 64
+  label: MP4 Video Kapak Resmi
+  description: MP4 videosuna kapak resmi eklemek isterseniz buradan ekleyebilirsiniz.
+    Sadece MP4 videosu için geçerlidir ve MP4 videosu kullanılmadığında boş bırakılmalıdır.
+- name: iframe
+  type: text
+  config:
+    required: false
+    min: 
+  label: iframe video
+  description: iframe videosu koymak isterseniz buraya linkini koyabilirsiniz. Bunu
+    ayarlarsanız diğer video ayarlarını boş bırakmalısınız.
+pages:
+- content/video/video-denemesi.md

@@ -32,6 +32,6 @@ other = "Önceki Sayfa"
 other = "Devamını Oku"
 
 [readingTime]
-one = "1 dak. okuma süresi"
-other = "{{.Count}} dak. okuma süresi"
+one = "1 dk. okuma süresi"
+other = "{{.Count}} dk. okuma süresi"
 
