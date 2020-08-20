@@ -9,6 +9,7 @@ fields:
     required: true
     min: 1
   label: Başlık
+  default: Yeni Sayfa
 - name: date
   type: datetime
   label: Tarih
@@ -46,7 +47,7 @@ fields:
       section: 
       file: 
       path: 
-  label: Link hedefi
+  label: Link Hedefi
   hidden: false
   description: Bu seçenek linkin nasıl açılacağını belirler.<br>self = link tıklandığında
     aynı pencerede açılır.<br>blank = link tıklandığında yeni pencerede açılır.
