@@ -5,23 +5,15 @@ admin_path: static/admin
 webhook_url: ''
 sections:
 - type: directory
-  path: content/yazi
-  label: Yazı
+  path: content/oyun
+  label: Oyun
   create: all
   match: "**/*"
+  templates:
+  - oyun
 - type: directory
   path: content/video
   label: Video
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/sayfa
-  label: Sayfa
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/oyun
-  label: Oyun
   create: all
   match: "**/*"
 - type: directory
@@ -29,6 +21,18 @@ sections:
   label: Anime
   create: all
   match: "**/*"
+- type: directory
+  path: content/yazi
+  label: Yazı
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/sayfa
+  label: Sayfa
+  create: all
+  match: "**/*"
+  templates:
+  - sayfa
 upload_dir: website/assets
 public_path: "/assets"
 front_matter_path: ''
