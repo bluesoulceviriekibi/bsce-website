@@ -1,25 +1,46 @@
 ---
 label: Oyun
 hide_body: false
+display_field: title
 fields:
 - type: text
   name: title
-  label: title
+  label: Başlık
+  config:
+    required: true
+    min: 1
+    max: 
+  default: Yeni Oyun Çevirisi
 - type: datetime
   name: date
-  label: date
-- type: list
-  name: ceviriler
-  label: ceviriler
-- type: list
-  name: etiketler
-  label: etiketler
-- type: text
-  name: yazar
-  label: yazar
-- type: file
-  name: featuredImage
-  label: featuredImage
-- type: list
-  name: aliases
-  label: aliases
+  label: Tarih
+  config:
+    display_utc: false
+    required: true
+  default: now
+- name: draft
+  type: boolean
+  label: Taslak
+  hidden: false
+  description: Taslak modu açık olduğu zaman sayfa sitede görünmez, sadece önizleme
+    modunda görünür.
+  default: true
+- name: ceviriler
+  type: tag_list
+  default:
+  - Oyun
+  label: Çeviriler
+  hidden: true
+- name: etiketler
+  type: tag_list
+  default: []
+  label: Etiketler
+  description: En az 1 tane koyulmalıdır. Eski içeriklerden örnek alabilirsiniz.
+- name: featuredImage
+  type: file
+  config:
+    maxSize: 64
+  description: Başlığın hemen üstünde görünen standart kapak resmidir.<br>Koyulması
+    önerilir.
+  label: Kapak resmi
+  hidden: false
