@@ -1,30 +1,36 @@
 ---
-title: "The Aftermath Türkçe Yama"
+title: The Aftermath Türkçe Yama
 date: 2020-04-10T17:07:49+03:00
-draft: false
+ceviriler:
+- Oyun
+etiketler:
+- The Aftermath
+- PC
+- 2D
+- Pixel
+- Sonsuz
+yazar: BlueSoul Çeviri Ekibi
+featuredImage: "/assets/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png"
+aliases:
+- "/ceviri/the_aftermath"
 
-ceviriler: ["Oyun"]
-etiketler: ["The Aftermath", "PC", "2D", "Pixel", "Sonsuz"]
-yazar: "BlueSoul Çeviri Ekibi"
-featuredImage: "/assets/the-aftermath-turkce-yama.png"
-aliases: ["/ceviri/the_aftermath"]
 ---
+<!--more-->
 
-## The Aftermath Hakkında  
+## The Aftermath Hakkında
 
 Tuhaf bir olay dünyadaki tüm canlıların ölümüne neden oldu.  
-Kıyamet Günü evrak işleriyle geldi...  
+Kıyamet Günü evrak işleriyle geldi...
 
 İnsanlar Cennete ya da Cehenneme gitmeli.  
 Tek hakim SENsin.
-<!--more-->
 
-[![The Aftermath Oynanış](/assets/the-aftermath-turkce-yama_ss1.png "The Aftermath Oynanış")](https://tselmek.itch.io/the-aftermath)
+![](/assets/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png)
 
 **Yapımcı: Tselmek**  
-**Müzik ve Sesler: zminusone**  
+**Müzik ve Sesler: zminusone**
 
----
+***
 
 ## Yamayı Hazırlayanlar
 
@@ -50,9 +56,9 @@ Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 
----
+***
 
-## İndirme Linkleri  
+## İndirme Linkleri
 
 * Yama sürümü: v1 - 2020.04.10
 * [Windows için Yükleyici (Oyun ve Yama - 9 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/the_aftermath/The_Aftermath_Turkce_Oto-Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  
