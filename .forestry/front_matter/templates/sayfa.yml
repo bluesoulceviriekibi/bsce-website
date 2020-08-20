@@ -1,4 +1,52 @@
 ---
 label: Sayfa
 hide_body: false
-fields: []
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    min: 1
+  label: Başlık
+- name: date
+  type: datetime
+  label: Tarih
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: excludeFromTopNav
+  type: boolean
+  label: Navigasyon Çubuğunda Gösterme
+  description: Bu seçenek devre dışı olduğunda sayfa sitenin en üstünde görünen -Ana
+    Sayfa ve Çeviriler kısayolunun olduğu- navigasyon çubuğunda görünmez.<br>Ne olduğunu
+    anlamadıysanız açık bırakın.
+  default: true
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
+  description: Eğer bu sayfayı bir link kısayolu olarak kullanmak istiyorsanız buraya
+    linki girebilirsiniz.
+- name: target
+  type: select
+  default: _blank
+  config:
+    required: true
+    options:
+    - _self
+    - _blank
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Link hedefi
+  hidden: false
+  description: Bu seçenek linkin nasıl açılacağını belirler.<br>self = link tıklandığında
+    aynı pencerede açılır.<br>blank = link tıklandığında yeni pencerede açılır.
