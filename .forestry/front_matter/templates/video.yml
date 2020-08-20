@@ -1,0 +1,39 @@
+---
+label: Video
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Başlık
+  config:
+    required: true
+    min: 1
+    max: 
+  default: Yeni Oyun Çevirisi
+- type: datetime
+  name: date
+  label: Tarih
+  config:
+    display_utc: false
+    required: true
+  default: now
+- name: ceviriler
+  type: tag_list
+  default:
+  - Oyun
+  label: Çeviriler
+  hidden: true
+- name: etiketler
+  type: tag_list
+  default: []
+  label: Etiketler
+  description: En az 1 tane koyulmalıdır. Eski içeriklerden örnek alabilirsiniz.
+- name: featuredImage
+  type: file
+  config:
+    maxSize: 64
+  description: Başlığın hemen üstünde görünen standart kapak resmidir.<br>Koyulması
+    önerilir.
+  label: Kapak resmi
+  hidden: false
