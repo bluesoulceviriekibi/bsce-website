@@ -1,0 +1,25 @@
+---
+label: Oyun
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: list
+  name: ceviriler
+  label: ceviriler
+- type: list
+  name: etiketler
+  label: etiketler
+- type: text
+  name: yazar
+  label: yazar
+- type: file
+  name: featuredImage
+  label: featuredImage
+- type: list
+  name: aliases
+  label: aliases
