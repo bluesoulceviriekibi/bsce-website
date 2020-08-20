@@ -1,13 +1,10 @@
 ---
-title: "Hakkımızda"
-date: 2020-07-08T16:39:31+03:00
-draft: false
+title: Hakkımızda
+date: 2020-07-08T16:39:31.000+03:00
 excludeFromTopNav: false
+link: ''
+target: ''
 
-# set the link if you want to redirect the user.
-link: ""
-# set the html target parameter if you want to change default behavior
-target: "_self"
 ---
 Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları sizde seversiniz diye kar amacı gütmeden gönüllü olarak sizler için çeviriyoruz.  
 
