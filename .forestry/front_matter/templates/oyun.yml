@@ -18,13 +18,6 @@ fields:
     display_utc: false
     required: true
   default: now
-- name: draft
-  type: boolean
-  label: Taslak
-  hidden: false
-  description: Taslak modu açık olduğu zaman sayfa sitede görünmez, sadece önizleme
-    modunda görünür.
-  default: true
 - name: ceviriler
   type: tag_list
   default:
