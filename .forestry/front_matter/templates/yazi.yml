@@ -31,7 +31,7 @@ fields:
 - name: featuredImage
   type: text
   config:
-    required: true
+    required: false
   label: Kapak Resmi
   description: Başlığın hemen üstünde görünen standart kapak resmidir. Resmin linki
     girilmelidir.
