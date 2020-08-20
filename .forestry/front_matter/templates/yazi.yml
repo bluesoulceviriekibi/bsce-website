@@ -23,9 +23,9 @@ fields:
   default: []
   label: Etiketler
 - name: featuredImage
-  type: file
+  type: text
   config:
-    maxSize: 64
-  description: Başlığın hemen üstünde görünen standart kapak resmidir.
+    required: true
   label: Kapak Resmi
-  hidden: false
+  description: Başlığın hemen üstünde görünen standart kapak resmidir. Resmin linki
+    girilmelidir.
