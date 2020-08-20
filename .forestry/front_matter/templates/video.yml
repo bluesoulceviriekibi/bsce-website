@@ -59,7 +59,7 @@ fields:
   type: text
   config:
     required: false
-    min: 1
+    min: 
   label: iframe video
   description: iframe videosu koymak isterseniz buraya linkini koyabilirsiniz. Bunu
     ayarlarsanız diğer video ayarlarını boş bırakmalısınız.
