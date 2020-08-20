@@ -29,11 +29,27 @@ fields:
   default: []
   label: Etiketler
   description: En az 1 tane koyulmalıdır. Eski içeriklerden örnek alabilirsiniz.
-- name: featuredImage
-  type: file
+- name: youtube
+  type: text
   config:
-    maxSize: 64
-  description: Başlığın hemen üstünde görünen standart kapak resmidir.<br>Koyulması
-    önerilir.
-  label: Kapak resmi
+    required: true
+    min: 11
+    max: 11
+  label: YouTube
+  description: 'Kapak videosu olarak YouTube videosu koymak istiyorsanız buraya video
+    ID''sini giriniz.<br>Örnek: <a href="https://www.youtube.com/watch?v=M7IjJiZUutk"
+    title="https://www.youtube.com/watch?v=M7IjJiZUutk" target="_blank">https://www.youtube.com/watch?v=M7IjJiZUutk</a>
+    -&gt; "M7IjJiZUutk"'
   hidden: false
+- name: mp4video
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: oyun
+      file: 
+      path: 
+  label: MP4
