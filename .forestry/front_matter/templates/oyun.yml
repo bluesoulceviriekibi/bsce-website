@@ -37,3 +37,11 @@ fields:
     önerilir.
   label: Kapak resmi
   hidden: false
+- name: asd
+  type: blocks
+  label: asd
+  template_types:
+  - sayfa
+  config:
+    min: 
+    max: 
