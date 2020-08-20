@@ -9,3 +9,4 @@ title = "video denemesi"
 youtube = "r2dQgdktUJg"
 
 +++
+![asd](/assets/v1597928853/website/assets/dwellers-empty-path-turkce-yama_ss1_cg29fp.png "asd")
