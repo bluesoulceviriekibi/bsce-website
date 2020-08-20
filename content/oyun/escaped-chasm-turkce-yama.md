@@ -1,12 +1,20 @@
 ---
-title: "Escaped Chasm Türkçe Yama"
-date: 2019-06-03T17:07:49+03:00
-draft: false
+title: Escaped Chasm Türkçe Yama
+date: 2019-06-03T17:07:49.000+03:00
+ceviriler:
+- Oyun
+etiketler:
+- Escaped Chasm
+- Temmie Chang
+- PC
+- 2D
+- Pixel
+- Hikaye
+- RPG
+featuredImage: "/v1597958208/website/assets/escaped-chasm-turkce-yama_peb8n3.png"
+aliases:
+- "/ceviri/escaped_chasm"
 
-ceviriler: ["Oyun"]
-etiketler: ["Escaped Chasm", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
-featuredImage: "/assets/escaped-chasm-turkce-yama.png"
-aliases: ["/ceviri/escaped_chasm"]
 ---
 <!--more-->
 ## Escaped Chasm Hakkında  
