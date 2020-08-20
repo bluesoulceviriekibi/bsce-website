@@ -11,7 +11,7 @@ etiketler:
 - Pixel
 - Hikaye
 - RPG
-featuredImage: "/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png"
+featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png
 aliases:
 - "/ceviri/deltarune"
 
