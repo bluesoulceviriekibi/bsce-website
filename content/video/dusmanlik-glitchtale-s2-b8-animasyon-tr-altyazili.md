@@ -5,7 +5,6 @@ draft: false
 
 ceviriler: ["Video"]
 etiketler: ["UNDERTALE", "Glitchtale", "Dizi", "2D Animasyon"]
-yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
 # https://shields.io/category/social

@@ -5,7 +5,6 @@ draft: false
 
 ceviriler: ["Video"]
 etiketler: ["Dwellers Empty Path", "Temmie Chang", "Açılış", "PC", "2D", "Pixel", "Hikaye", "RPG"]
-yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
 # https://shields.io/category/social

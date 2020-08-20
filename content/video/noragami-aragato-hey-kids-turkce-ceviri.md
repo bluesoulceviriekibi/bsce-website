@@ -5,7 +5,6 @@ draft: false
 
 ceviriler: ["Video"]
 etiketler: ["Noragami Aragato", "Şarkı", "Açılış", "Anime"]
-yazar: "BlueSoul Çeviri Ekibi"
 aliases: ["/ceviri/noragami_aragoto_op"]
 
 # Set your video id for

@@ -5,11 +5,10 @@ draft: false
 
 ceviriler: ["Oyun"]
 etiketler: ["Deltarune", "Toby Fox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
-yazar: "BlueSoul Çeviri Ekibi"
 featuredImage: "/assets/deltarune-bolum1-turkce-yama.png"
 aliases: ["/ceviri/deltarune"]
 ---
-
+<!--more-->
 ## Deltarune Hakkında  
 
 _Karanlık Daha Karanlık Daha Da Karanlık..._  
@@ -21,8 +20,7 @@ _Çok..._
 _Çok..._  
 _İlginç..._  
 _Görünüyor..._  
-_Siz ikiniz Ne Düşünüyorsunuz?_
-<!--more-->
+_Siz ikiniz Ne Düşünüyorsunuz?_  
 
 _ŞİMDİ SANA BİRKAÇ SORU SORACAĞIM._  
 _SONRA, CEVAPLARINI KULLANARAK_  

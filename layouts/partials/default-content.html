@@ -23,15 +23,6 @@
             {{ end }}
         </span>
         {{ end }}
-
-        {{ with .Params.yazar }}
-        <span class="author">
-            {{ $urlValue := replace . " " "-" | lower}}
-            {{ with $.Site.GetPage (printf "/yazar/%s" $urlValue ) }}
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            {{ end }}
-        </span>
-        {{ end }}
     </div>
 
     {{ if or (.Scratch.Get "singlePage") (.Params.noSummary) }}

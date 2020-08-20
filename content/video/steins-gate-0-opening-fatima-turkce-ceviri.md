@@ -5,7 +5,6 @@ draft: false
 
 ceviriler: ["Video"]
 etiketler: ["Steins-Gate 0", "Şarkı", "Açılış", "Anime"]
-yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
 # https://shields.io/category/social

@@ -5,7 +5,6 @@ draft: false
 
 ceviriler: ["Oyun"]
 etiketler: ["Dwellers Empty Path", "Temmie Chang", "Toby Fox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
-yazar: "BlueSoul Çeviri Ekibi"
 featuredImage: "/assets/dwellers-empty-path-turkce-yama.png"
 aliases: ["/dwellers-empty-path-turkce-yama-durumu", "/yazi/dwellers-empty-path-turkce-yama-duyurusu-1"]
 ---

@@ -5,7 +5,6 @@ draft: false
 
 ceviriler: ["Video"]
 etiketler: ["Escaped Chasm", "Açılış", "Türkçe Dublaj", "Melike Birler"]
-yazar: "BlueSoul Çeviri Ekibi"
 
 # Set your video id for
 # https://shields.io/category/social

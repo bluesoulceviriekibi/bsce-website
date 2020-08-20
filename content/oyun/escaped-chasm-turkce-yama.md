@@ -5,15 +5,13 @@ draft: false
 
 ceviriler: ["Oyun"]
 etiketler: ["Escaped Chasm", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
-yazar: "BlueSoul Çeviri Ekibi"
 featuredImage: "/assets/escaped-chasm-turkce-yama.png"
 aliases: ["/ceviri/escaped_chasm"]
 ---
-
+<!--more-->
 ## Escaped Chasm Hakkında  
 
 Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
-<!--more-->
 
 **Yapımcı: Temmie Chang**  
 **Oyun içi müzikler: Toby Fox**  

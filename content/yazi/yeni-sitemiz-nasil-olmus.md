@@ -4,7 +4,6 @@ date: 2020-07-10T01:41:17+03:00
 draft: false
 
 etiketler: ["BSÇE", "Site", "Soru"]
-yazar: "BlueSoul Çeviri Ekibi"
 ---
 <!--more-->
 Sitemizi baştan aşağıya yeniledik!  

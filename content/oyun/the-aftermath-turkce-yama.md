@@ -9,7 +9,6 @@ etiketler:
 - 2D
 - Pixel
 - Sonsuz
-yazar: BlueSoul Çeviri Ekibi
 featuredImage: "/assets/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png"
 aliases:
 - "/ceviri/the_aftermath"
