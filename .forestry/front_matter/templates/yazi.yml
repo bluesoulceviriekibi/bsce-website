@@ -10,7 +10,7 @@ fields:
     required: true
     min: 1
     max: 
-  default: Yeni Oyun Çevirisi
+  default: Yeni Yazı
 - type: datetime
   name: date
   label: Tarih
@@ -18,22 +18,14 @@ fields:
     display_utc: false
     required: true
   default: now
-- name: ceviriler
-  type: tag_list
-  default:
-  - Oyun
-  label: Çeviriler
-  hidden: true
 - name: etiketler
   type: tag_list
   default: []
   label: Etiketler
-  description: En az 1 tane koyulmalıdır. Eski içeriklerden örnek alabilirsiniz.
 - name: featuredImage
   type: file
   config:
     maxSize: 64
-  description: Başlığın hemen üstünde görünen standart kapak resmidir.<br>Koyulması
-    önerilir.
-  label: Kapak resmi
+  description: Başlığın hemen üstünde görünen standart kapak resmidir.
+  label: Kapak Resmi
   hidden: false
