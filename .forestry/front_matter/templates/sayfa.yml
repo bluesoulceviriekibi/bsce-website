@@ -44,7 +44,7 @@ fields:
   type: select
   default: _blank
   config:
-    required: true
+    required: false
     options:
     - _self
     - _blank
