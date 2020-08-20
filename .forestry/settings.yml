@@ -39,7 +39,7 @@ sections:
   match: "**/*"
   templates:
   - sayfa
-upload_dir: website/assets
+upload_dir: static/assets
 public_path: "/assets"
 front_matter_path: ''
 use_front_matter_path: false
