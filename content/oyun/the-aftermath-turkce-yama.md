@@ -1,6 +1,6 @@
 ---
 title: The Aftermath Türkçe Yama
-date: 2020-04-10T17:07:49+03:00
+date: 2020-04-10T17:07:49.000+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -9,7 +9,7 @@ etiketler:
 - 2D
 - Pixel
 - Sonsuz
-featuredImage: "/assets/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png"
+featuredImage: "/v1597928849/website/assets/the-aftermath-turkce-yama_f5dkyp.png"
 aliases:
 - "/ceviri/the_aftermath"
 
@@ -24,7 +24,7 @@ Kıyamet Günü evrak işleriyle geldi...
 İnsanlar Cennete ya da Cehenneme gitmeli.  
 Tek hakim SENsin.
 
-![](/assets/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png)
+![The Aftermath Türkçe Oynanış](/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png "The Aftermath Türkçe Oynanış")
 
 **Yapımcı: Tselmek**  
 **Müzik ve Sesler: zminusone**
