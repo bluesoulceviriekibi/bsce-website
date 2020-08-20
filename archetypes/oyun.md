@@ -5,6 +5,7 @@ draft: true
 
 ceviriler: ["Oyun"]
 etiketler: []
-yazar: "BlueSoul Çeviri Ekibi"
+featuredImage: ""
 resizeImages: false
 ---
+<!--more-->

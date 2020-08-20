@@ -3,7 +3,9 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 
+ceviriler: ["Anime"]
 etiketler: []
-yazar: "BlueSoul Çeviri Ekibi"
+featuredImage: ""
 resizeImages: false
 ---
+<!--more-->

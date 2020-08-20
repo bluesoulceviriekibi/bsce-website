@@ -5,14 +5,9 @@ draft: false
 
 etiketler: ["BSÇE", "Site", "Soru"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: false
 ---
-
-Sitemizi baştan aşağıya yeniledik!  
-Lütfen bu yazının devamını okuyun...  
 <!--more-->
-
----
+Sitemizi baştan aşağıya yeniledik!  
 
 Artık her şey kategorize edildi, daha kullanışlı hale getirildi ve yorumlar kısmı eklendi!  
 

@@ -6,23 +6,23 @@ draft: false
 ceviriler: ["Oyun"]
 etiketler: ["Dwellers Empty Path", "Temmie Chang", "Toby Fox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: false
+featuredImage: "/assets/dwellers-empty-path-turkce-yama.png"
 aliases: ["/dwellers-empty-path-turkce-yama-durumu", "/yazi/dwellers-empty-path-turkce-yama-duyurusu-1"]
 ---
+<!--more-->  
 ## Heyoo
 
 Temmie Chang'in yeni ücretsiz oyunu için Türkçe Yama çalışmalarına başlamış bulunmaktayız.  
-<!--more-->  
 
 En yakın zamanda bitirip yayınlamak için sabırsızlanıyoruz :)  
 Yamanın güncel durumunu bu sayfadan kontrol edebilirsiniz.  
 Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 
-[![Dweller's Empty Path](ss1.png "Dweller's Empty Path")](https://www.youtube.com/watch?v=QrwxUqSQTxA)  
+[![Dweller's Empty Path](/assets/dwellers-empty-path-turkce-yama_ss1.png "Dweller's Empty Path")](https://www.youtube.com/watch?v=QrwxUqSQTxA)  
 
-[![Dweller's Empty Path Oynanış](ss2.png "Dweller's Empty Path Oynanış")](https://tuyoki.itch.io/dwellers-empty-path)  
+[![Dweller's Empty Path Oynanış](/assets/dwellers-empty-path-turkce-yama_ss2.png "Dweller's Empty Path Oynanış")](https://tuyoki.itch.io/dwellers-empty-path)  
 
-[![Dweller's Empty Path Oynanış](ss3.png "Dweller's Empty Path Oynanış")](https://tuyoki.itch.io/dwellers-empty-path)  
+[![Dweller's Empty Path Oynanış](/assets/dwellers-empty-path-turkce-yama_ss3.png "Dweller's Empty Path Oynanış")](https://tuyoki.itch.io/dwellers-empty-path)  
 
 Çıkış Tarihi: 2020.07.10  
 Yapımcı: Temmie Chang  

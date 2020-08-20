@@ -6,7 +6,7 @@ draft: false
 ceviriler: ["Oyun"]
 etiketler: ["Deltarune", "Toby Fox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: false
+featuredImage: "/assets/deltarune-bolum1-turkce-yama.png"
 aliases: ["/ceviri/deltarune"]
 ---
 

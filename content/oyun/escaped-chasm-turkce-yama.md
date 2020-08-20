@@ -6,7 +6,7 @@ draft: false
 ceviriler: ["Oyun"]
 etiketler: ["Escaped Chasm", "Temmie Chang", "PC", "2D", "Pixel", "Hikaye", "RPG"]
 yazar: "BlueSoul Çeviri Ekibi"
-resizeImages: true
+featuredImage: "/assets/escaped-chasm-turkce-yama.png"
 aliases: ["/ceviri/escaped_chasm"]
 ---
 

@@ -53,13 +53,13 @@ disqusShortname = "bluesoulceviriekibi"
 
   # Header configuration
     # your subtitle if you want to use any
-    subtitle = "Her şeyi çeviren ekip!"
+    subtitle = "Bağımsız çeviri ekibi!"
 
     # if you want to use gravatar for the header image
     gravatarEMail = ""
 
     # set an path to the image file you want to use | overwrites gravatar
-    customImage = "/images/favicons/android-chrome-96x96.png"
+    customImage = "/favicons/android-chrome-96x96.png"
 
     # define the icon you want to use for the overlay for the customImage or gravatar.
     overlayIcon = "fa-home"
@@ -134,7 +134,6 @@ disqusShortname = "bluesoulceviriekibi"
 
 # don't change anything below
 [taxonomies]
-  yazar = "yazar"
   etiket = "etiketler"
   ceviri = "ceviriler"
 

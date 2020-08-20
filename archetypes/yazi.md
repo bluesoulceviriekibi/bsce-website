@@ -4,6 +4,7 @@ date: {{ .Date }}
 draft: true
 
 etiketler: []
-yazar: "BlueSoul Çeviri Ekibi"
+featuredImage: ""
 resizeImages: false
 ---
+<!--more-->
