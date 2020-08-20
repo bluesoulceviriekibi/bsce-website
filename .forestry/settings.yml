@@ -16,16 +16,22 @@ sections:
   label: Video
   create: all
   match: "**/*"
+  templates:
+  - video
 - type: directory
   path: content/anime
   label: Anime
   create: all
   match: "**/*"
+  templates:
+  - anime
 - type: directory
   path: content/yazi
   label: Yazı
   create: all
   match: "**/*"
+  templates:
+  - yazi
 - type: directory
   path: content/sayfa
   label: Sayfa
