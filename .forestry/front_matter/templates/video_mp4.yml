@@ -63,5 +63,3 @@ fields:
   label: iframe video
   description: iframe videosu koymak isterseniz buraya linkini koyabilirsiniz. Bunu
     ayarlarsanız diğer video ayarlarını boş bırakmalısınız.
-pages:
-- content/video/video-denemesi.md
