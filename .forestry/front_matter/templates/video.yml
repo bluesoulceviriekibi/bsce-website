@@ -8,7 +8,7 @@ fields:
   label: Başlık
   config:
     required: true
-    min: 1
+    min: 
     max: 
   default: Yeni Video Çevirisi
 - type: datetime
@@ -33,8 +33,8 @@ fields:
   type: text
   config:
     required: false
-    min: 11
-    max: 11
+    min: 
+    max: 
   label: YouTube Video
   description: 'Kapak videosu olarak YouTube videosu koymak istiyorsanız buraya video
     ID''sini giriniz. Örnek: <a href="https://www.youtube.com/watch?v=M7IjJiZUutk"
