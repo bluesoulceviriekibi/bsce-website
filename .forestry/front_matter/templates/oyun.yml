@@ -36,10 +36,9 @@ fields:
   description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
     /ceviri/deltarune'
 - name: featuredImage
-  type: file
+  type: text
   config:
-    maxSize: 64
-  description: Başlığın hemen üstünde görünen standart kapak resmidir.<br>Koyulması
-    gereklidir.
+    required: true
   label: Kapak Resmi
-  hidden: false
+  description: Başlığın hemen üstünde görünen standart kapak resmidir. Resmin linki
+    girilmelidir.

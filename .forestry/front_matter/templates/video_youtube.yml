@@ -29,6 +29,12 @@ fields:
   default: []
   label: Etiketler
   description: En az 1 tane koyulmalıdır. Eski içeriklerden örnek alabilirsiniz.
+- name: aliases
+  type: tag_list
+  default: []
+  label: Kısayollar
+  description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
+    /ceviri/deltarune'
 - name: youtube
   type: text
   config:
