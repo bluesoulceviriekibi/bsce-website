@@ -45,7 +45,7 @@ fields:
 - name: mp4videoImage
   type: text
   config:
-    required: true
+    required: false
   label: MP4 Video Kapak Resmi
   description: MP4 videosuna kapak resmi eklemek isterseniz buradan ekleyebilirsiniz.
     (Link)
