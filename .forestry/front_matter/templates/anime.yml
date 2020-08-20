@@ -21,7 +21,7 @@ fields:
 - name: ceviriler
   type: tag_list
   default:
-  - Oyun
+  - Anime
   label: Çeviriler
   hidden: true
 - name: etiketler
