@@ -41,5 +41,3 @@ fields:
     title="https://www.youtube.com/watch?v=M7IjJiZUutk" target="_blank">https://www.youtube.com/watch?v=M7IjJiZUutk</a>
     -&gt; "M7IjJiZUutk"'
   hidden: false
-pages:
-- content/video/video-denemesi.md

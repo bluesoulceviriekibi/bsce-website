@@ -1,12 +1,20 @@
 ---
-title: "Deltarune: Bölüm 1 Türkçe Yama"
-date: 2018-10-31T17:05:59+03:00
-draft: false
+title: 'Deltarune: Bölüm 1 Türkçe Yama'
+date: 2018-10-31T17:05:59.000+03:00
+ceviriler:
+- Oyun
+etiketler:
+- Deltarune
+- Toby Fox
+- PC
+- 2D
+- Pixel
+- Hikaye
+- RPG
+featuredImage: "/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png"
+aliases:
+- "/ceviri/deltarune"
 
-ceviriler: ["Oyun"]
-etiketler: ["Deltarune", "Toby Fox", "PC", "2D", "Pixel", "Hikaye", "RPG"]
-featuredImage: "/assets/deltarune-bolum1-turkce-yama.png"
-aliases: ["/ceviri/deltarune"]
 ---
 <!--more-->
 ## Deltarune Hakkında  
