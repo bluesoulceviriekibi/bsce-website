@@ -12,7 +12,7 @@ etiketler:
 - Pixel
 - Hikaye
 - RPG
-featuredImage: "/v1597928851/website/assets/dwellers-empty-path-turkce-yama_tr3fxc.png"
+featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928851/website/assets/dwellers-empty-path-turkce-yama_tr3fxc.png
 aliases:
 - "/dwellers-empty-path-turkce-yama-durumu"
 - "/yazi/dwellers-empty-path-turkce-yama-duyurusu-1"
@@ -28,9 +28,9 @@ En yakın zamanda bitirip yayınlamak için sabırsızlanıyoruz :)
 Yamanın güncel durumunu bu sayfadan kontrol edebilirsiniz.  
 Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 
-[![](/v1597928853/website/assets/dwellers-empty-path-turkce-yama_ss1_cg29fp.png)](https://www.youtube.com/watch?v=QrwxUqSQTxA "Dweller's Empty Path")
+[![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928853/website/assets/dwellers-empty-path-turkce-yama_ss1_cg29fp.png)](https://www.youtube.com/watch?v=QrwxUqSQTxA "Dweller's Empty Path")
 
-![Dweller's Empty Path Türkçe Oynanış](/v1597928849/website/assets/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
+![Dweller's Empty Path Türkçe Oynanış](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
 
 Çıkış Tarihi: 2020.07.10  
 Yapımcı: Temmie Chang  
