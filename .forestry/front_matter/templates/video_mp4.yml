@@ -48,6 +48,3 @@ fields:
     maxSize: 64
   label: MP4 Video Kapak Resmi
   description: MP4 videosuna kapak resmi eklemek isterseniz buradan ekleyebilirsiniz.
-pages:
-- content/video/noragami-aragato-hey-kids-turkce-ceviri.md
-- content/video/steins-gate-0-last-game-turkce-ceviri.md
