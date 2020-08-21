@@ -36,12 +36,12 @@ fields:
   description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
     /ceviri/deltarune'
 - name: mp4video
-  type: file
+  type: text
   config:
-    maxSize: 64
+    required: true
   label: MP4 Video
-  description: Kapak videosu olarak MP4 video koyabilirsiniz. Sadece MP4 formatındaki
-    videolar kullanılabilir.
+  description: MP4 videosunun direkt linkini girmeniz lazım.<br>Bunu kullanacaksanız
+    DEV'e danışın :)
 - name: mp4videoImage
   type: file
   config:
