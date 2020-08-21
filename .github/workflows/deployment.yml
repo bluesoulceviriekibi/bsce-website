@@ -55,3 +55,6 @@ jobs:
         run: |
           chmod +x upload_aloglia_index.sh
           ./upload_aloglia_index.sh
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
