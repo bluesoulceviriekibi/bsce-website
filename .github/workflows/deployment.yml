@@ -52,4 +52,6 @@ jobs:
         run: hugo --minify --ignoreCache
 
       - name: Upload Algolia Index
-        run: ./upload_aloglia_index.sh
+        run: |
+          chmod +x upload_aloglia_index.sh
+          ./upload_aloglia_index.sh
