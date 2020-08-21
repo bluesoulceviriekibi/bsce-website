@@ -8,7 +8,7 @@ fields:
   label: Başlık
   config:
     required: true
-    min: 1
+    min: 
     max: 
   default: Yeni Oyun Çevirisi
 - type: datetime
