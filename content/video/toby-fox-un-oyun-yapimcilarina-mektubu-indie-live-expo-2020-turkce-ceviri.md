@@ -8,7 +8,6 @@ etiketler:
 - Oyun Yapımcısı
 - Yayın
 youtube: OXAYQag6lJo
-draft: true
 
 ---
 [![Görüntülenmeler](https://img.shields.io/youtube/views/OXAYQag6lJo?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/OXAYQag6lJo)
