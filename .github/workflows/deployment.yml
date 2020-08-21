@@ -14,8 +14,9 @@ jobs:
     steps:
 
     - name: Mirror Repo
-      uses: actions/checkout@master
-      uses: wei/git-sync@master
+      uses: |
+        actions/checkout@master
+        wei/git-sync@master
       with:
         source_repo: "https://omerakgoz34:${{ secrets.TOKEN }}@github.com/bluesoulceviriekibi/website.git"
         source_branch: "master"
@@ -32,8 +33,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo and Python
-        uses: peaceiris/actions-hugo@v2
-        uses: actions/setup-python@v2
+        uses: |
+          peaceiris/actions-hugo@v2
+          actions/setup-python@v2
         with:
           hugo-version: "0.74.3"
           extended: true
