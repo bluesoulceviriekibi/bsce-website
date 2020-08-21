@@ -36,19 +36,18 @@ fields:
   description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
     /ceviri/deltarune'
 - name: mp4video
-  type: text
+  type: file
   config:
-    required: true
+    maxSize: 64
   label: MP4 Video
-  description: Kapak videosu olarak MP4 video linkini koyabilirsiniz. Sadece MP4 formatındaki
+  description: Kapak videosu olarak MP4 video koyabilirsiniz. Sadece MP4 formatındaki
     videolar kullanılabilir.
 - name: mp4videoImage
-  type: text
+  type: file
   config:
-    required: false
+    maxSize: 64
   label: MP4 Video Kapak Resmi
   description: MP4 videosuna kapak resmi eklemek isterseniz buradan ekleyebilirsiniz.
-    (Link)
 pages:
 - content/video/noragami-aragato-hey-kids-turkce-ceviri.md
 - content/video/steins-gate-0-last-game-turkce-ceviri.md
