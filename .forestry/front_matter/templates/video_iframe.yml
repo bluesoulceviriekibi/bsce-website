@@ -10,7 +10,7 @@ fields:
     required: true
     min: 
     max: 
-  default: Yeni Video Çevirisi
+  default: Yeni iframe Video Çevirisi
 - type: datetime
   name: date
   label: Tarih
@@ -42,6 +42,6 @@ fields:
     min: 
     max: 
   label: iframe video
-  description: iframe videosu koymak isterseniz buraya linkini koyabilirsiniz.
+  description: iframe videosunun linkini buraya koyunuz
 pages:
 - content/video/dusmanlik-glitchtale-s2-b8-animasyon-tr-altyazili.md
