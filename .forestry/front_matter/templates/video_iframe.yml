@@ -43,3 +43,5 @@ fields:
     max: 
   label: iframe video
   description: iframe videosu koymak isterseniz buraya linkini koyabilirsiniz.
+pages:
+- content/video/dusmanlik-glitchtale-s2-b8-animasyon-tr-altyazili.md
