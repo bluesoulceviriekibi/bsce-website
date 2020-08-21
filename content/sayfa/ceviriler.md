@@ -1,6 +1,6 @@
 ---
 title: "Çeviriler"
-date: 2020-07-08T16:46:19+03:00
+date: 2020-07-08T16:40:31.000+03:00
 draft: false
 excludeFromTopNav: false
 

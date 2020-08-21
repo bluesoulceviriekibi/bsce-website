@@ -1,5 +1,5 @@
 ---
-label: Anime
+label: Video (MP4)
 hide_body: false
 display_field: title
 fields:
@@ -10,7 +10,7 @@ fields:
     required: true
     min: 
     max: 
-  default: Yeni Anime Çevirisi
+  default: Yeni MP4 Video Çevirisi
 - type: datetime
   name: date
   label: Tarih
@@ -21,7 +21,7 @@ fields:
 - name: ceviriler
   type: tag_list
   default:
-  - Anime
+  - Video
   label: Çeviriler
   hidden: true
 - name: etiketler
@@ -35,9 +35,19 @@ fields:
   label: Kısayollar
   description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
     /ceviri/deltarune'
-- name: iframe
+- name: mp4video
   type: text
   config:
     required: true
-  label: iframe video
-  description: iframe videosunun linkini buraya koyunuz
+  label: MP4 Video
+  description: MP4 videosunun direkt linkini girmeniz lazım.<br>Bunu kullanacaksanız
+    DEV'e danışın :)
+- name: mp4videoImage
+  type: file
+  config:
+    maxSize: 64
+  label: MP4 Video Kapak Resmi
+  description: MP4 videosuna kapak resmi eklemek isterseniz buradan ekleyebilirsiniz.
+pages:
+- content/video/noragami-aragato-hey-kids-turkce-ceviri.md
+- content/video/steins-gate-0-last-game-turkce-ceviri.md
