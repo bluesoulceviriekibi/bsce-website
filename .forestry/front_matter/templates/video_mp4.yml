@@ -10,7 +10,7 @@ fields:
     required: true
     min: 
     max: 
-  default: Yeni Video Çevirisi
+  default: Yeni MP4 Video Çevirisi
 - type: datetime
   name: date
   label: Tarih
