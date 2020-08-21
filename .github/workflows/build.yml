@@ -19,9 +19,9 @@ jobs:
     - uses: actions/checkout@master
     - uses: wei/git-sync@master
       with:
-        source_repo: "https://bluesoulceviriekibiuser:279da1bb89382fbf86d241bc7122c1d6d91c6c24github.com/bluesoulceviriekibi/website.git"
+        source_repo: "https://bluesoulceviriekibiuser:${{ secrets.TOKEN }}@github.com/bluesoulceviriekibi/website.git"
         source_branch: "refs/remotes/source/*"
-        destination_repo: "https://bluesoulceviriekibiuser:279da1bb89382fbf86d241bc7122c1d6d91c6c24github.com/bluesoulceviriekibiuser/bsce-website.git"
+        destination_repo: "https://bluesoulceviriekibiuser:${{ secrets.TOKEN }}@github.com/bluesoulceviriekibiuser/bsce-website.git"
         destination_branch: "refs/heads/*"
 
     # Runs a single command using the runners shell
