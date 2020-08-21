@@ -20,6 +20,6 @@ if args.base_url:
         index["url"] = args.base_url + "/" + "/".join(tokens)
 
 client = SearchClient.create(args.app_id, args.admin_api_key)
-index.clear_objects()
 index = client.init_index(args.index_name)
+index.clear_objects()
 index.save_objects(indices)
