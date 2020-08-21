@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-index_file="public/index.js"
+index_file="./public/index.js"
 app_id="$ALGOLIA_APP_ID"
 admin_api_key="$ALGOLIA_ADMIN_API_KEY"
 index_name="bluesoulceviriekibi"
