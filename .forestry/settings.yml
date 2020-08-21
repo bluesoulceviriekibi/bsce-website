@@ -54,6 +54,6 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server --minify --ignoreCache --disableFastRender -D -E -F
-    --renderToDisk -d public
+  instant_preview_command: hugo server --minify --ignoreCache --disableFastRender
+    -D -E -F --renderToDisk -d public
 version: 0.74.3

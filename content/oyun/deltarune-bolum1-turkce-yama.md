@@ -17,7 +17,8 @@ aliases:
 
 ---
 <!--more-->
-## Deltarune Hakkında  
+
+## Deltarune Hakkında
 
 _Karanlık Daha Karanlık Daha Da Karanlık..._  
 _Karanlık Büyümeye Devam Ediyor..._
@@ -28,7 +29,7 @@ _Çok..._
 _Çok..._  
 _İlginç..._  
 _Görünüyor..._  
-_Siz ikiniz Ne Düşünüyorsunuz?_  
+_Siz ikiniz Ne Düşünüyorsunuz?_
 
 _ŞİMDİ SANA BİRKAÇ SORU SORACAĞIM._  
 _SONRA, CEVAPLARINI KULLANARAK_  
@@ -51,9 +52,9 @@ _DELTARUNE!_
 **Yapımcı: Toby Fox**  
 **Yayınlanma Tarihi: 31 EKİM 2018**
 
----
+***
 
-## Yamayı Hazırlayanlar  
+## Yamayı Hazırlayanlar
 
 Yama Yöneticisi
 
@@ -104,18 +105,19 @@ Paketleme ve Yayınlama
 
 * Ömer Akgöz (34)
 
----
+***
 
-## `!!! UYARI !!!`  
+## `!!! UYARI !!!`
 
 `Hareketli ve parlak görseller içerebilir.`  
-`Sadece [UNDERTALE'ı](https://undertale.com) bitirmiş olanlar içindir.`  
+`Sadece [UNDERTALE'ı](https://undertale.com) bitirmiş olanlar içindir.`
 
----
+***
 
-## İndirme Linkleri  
+## İndirme Linkleri
 
-* Yama sürümü: v2.6 - 2019.04.02
+Yama sürümü: v2.6 - 2019.04.02
+
 * [Windows için Yükleyici (Oyun ve Yama - 82 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  
   MD5: E35B4FB8B231823277D6832D6BD511ED
 * [Windows için Yama (Sadece Yama - 9 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_BlueSoul_Ceviri_Ekibi.zip)  
