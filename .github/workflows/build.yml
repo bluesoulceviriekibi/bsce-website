@@ -20,9 +20,9 @@ jobs:
     - uses: wei/git-sync@master
       with:
         source_repo: "https://bluesoulceviriekibiuser:${{ secrets.TOKEN }}@github.com/bluesoulceviriekibi/website.git"
-        source_branch: "refs/remotes/source/*"
+        source_branch: "master"
         destination_repo: "https://bluesoulceviriekibiuser:${{ secrets.TOKEN }}@github.com/bluesoulceviriekibiuser/bsce-website.git"
-        destination_branch: "refs/heads/*"
+        destination_branch: "master"
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
