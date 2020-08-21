@@ -15,5 +15,4 @@ aliases: []
 [![Görüntülenmeler](https://img.shields.io/youtube/views/nRZ4Qs_d11o?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/nRZ4Qs_d11o)
 [![Beğeniler](https://img.shields.io/youtube/likes/nRZ4Qs_d11o?label=Be%C4%9Feniler&style=social)](https://youtu.be/nRZ4Qs_d11o)
 [![Yorumlar](https://img.shields.io/youtube/comments/nRZ4Qs_d11o?label=Yorumlar&style=social)](https://youtu.be/nRZ4Qs_d11o)  
-[![Yorumlar](https://img.shields.io/youtube/comments/{{ .Params.youtube }}?label=Yorumlar&style=social)](https://youtu.be/{{ .Params.youtube }})  
 <!--more-->

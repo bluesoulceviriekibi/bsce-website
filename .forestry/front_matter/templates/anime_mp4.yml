@@ -1,5 +1,5 @@
 ---
-label: Video (MP4)
+label: Anime (MP4)
 hide_body: false
 display_field: title
 fields:
@@ -10,7 +10,7 @@ fields:
     required: true
     min: 
     max: 
-  default: Yeni MP4 Video Çevirisi
+  default: Yeni MP4 Anime Çevirisi
 - type: datetime
   name: date
   label: Tarih
@@ -21,7 +21,7 @@ fields:
 - name: ceviriler
   type: tag_list
   default:
-  - Video
+  - Anime
   label: Çeviriler
   hidden: true
 - name: etiketler
