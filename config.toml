@@ -140,3 +140,8 @@ disqusShortname = "bluesoulceviriekibi"
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]
   page = [ "HTML" ]
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
