@@ -28,7 +28,7 @@ En yakın zamanda bitirip yayınlamak için sabırsızlanıyoruz :)
 Yamanın güncel durumunu bu sayfadan kontrol edebilirsiniz.  
 Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 
-[![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928853/website/assets/dwellers-empty-path-turkce-yama_ss1_cg29fp.png)](https://www.youtube.com/watch?v=QrwxUqSQTxA "Dweller's Empty Path")
+<iframe width="635" height="315" src="https://www.youtube.com/embed/QrwxUqSQTxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Dweller's Empty Path Türkçe Oynanış](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
 

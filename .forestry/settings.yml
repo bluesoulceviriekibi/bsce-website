@@ -32,8 +32,8 @@ sections:
   - anime_iframe
   - anime_mp4
 - type: directory
-  path: content/yazi
-  label: Yazı
+  path: content/duyuru
+  label: Duyuru
   create: all
   match: "**/*"
   exclude: _index*

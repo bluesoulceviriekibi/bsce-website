@@ -1,5 +1,5 @@
 ---
-label: Yazı
+label: Duyuru
 hide_body: false
 display_field: title
 fields:
@@ -10,7 +10,7 @@ fields:
     required: true
     min: 
     max: 
-  default: Yeni Yazı
+  default: Yeni Duyuru
 - type: datetime
   name: date
   label: Tarih
