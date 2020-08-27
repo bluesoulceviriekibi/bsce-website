@@ -29,8 +29,9 @@ sections:
   match: "**/*"
   exclude: _index*
   templates:
-  - anime_iframe
+  - anime_thumbnail
   - anime_mp4
+  - anime_iframe
 - type: directory
   path: content/duyuru
   label: Duyuru
