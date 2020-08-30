@@ -1,5 +1,5 @@
 ---
-title: Dweller's Empty Path için Türkçe Yama Çalışmalarına Başladık!
+title: Dweller's Empty Path Türkçe Yama (Yapım Aşamasında)
 date: 2020-07-12T18:40:00.000+03:00
 ceviriler:
 - Oyun
@@ -40,11 +40,11 @@ Müzik:
 * [Toby Fox](https://twitter.com/tobyfox) - Melodiler/Akorlar
 * [Temmie Chang](https://twitter.com/tuyoki) - Melodiler/Akorlar
 
-Çeviri durumu: %12  
-Kontrol durumu: %0
+Çeviri durumu: %40    
+Kontrol durumu: %0  
 
-Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)
+Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)  
 
-Aşağıdan bize yorum bırakabilirsiniz.  
-Sağlıcakla kalın ve kendinize dikkat edin <3  
+Aşağıdan bize yorum bırakabilirsiniz.    
+Sağlıcakla kalın ve kendinize dikkat edin <3    
 Yeniden görüşmek üzere...
