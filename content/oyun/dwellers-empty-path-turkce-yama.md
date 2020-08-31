@@ -16,6 +16,7 @@ featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597
 aliases:
 - "/dwellers-empty-path-turkce-yama-durumu"
 - "/yazi/dwellers-empty-path-turkce-yama-duyurusu-1"
+- "/yazi/dwellers-empty-path-turkce-yama-duyurusu"
 
 ---
 <!--more-->
@@ -32,19 +33,19 @@ Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 
 ![Dweller's Empty Path Türkçe Oynanış](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
 
-Çıkış Tarihi: 2020.07.10  
-Yapımcı: Temmie Chang  
-Müzik:
+**Çıkış Tarihi:** 2020.07.10  
+**Yapımcı:** Temmie Chang  
+**Müzik:**
 
 * [Camellia](https://twitter.com/cametek) - Yapım ve Düzenleme + Melodiler/Akorlar
 * [Toby Fox](https://twitter.com/tobyfox) - Melodiler/Akorlar
 * [Temmie Chang](https://twitter.com/tuyoki) - Melodiler/Akorlar
 
-Çeviri durumu: %40    
-Kontrol durumu: %0  
+**Çeviri durumu: %40  
+Kontrol durumu: %0**
 
-Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)  
+Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)
 
-Aşağıdan bize yorum bırakabilirsiniz.    
-Sağlıcakla kalın ve kendinize dikkat edin <3    
+Aşağıdan bize yorum bırakabilirsiniz.  
+Sağlıcakla kalın ve kendinize dikkat edin <3  
 Yeniden görüşmek üzere...
