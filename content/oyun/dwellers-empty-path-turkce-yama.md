@@ -17,6 +17,7 @@ aliases:
 - "/dwellers-empty-path-turkce-yama-durumu"
 - "/yazi/dwellers-empty-path-turkce-yama-duyurusu-1"
 - "/yazi/dwellers-empty-path-turkce-yama-duyurusu"
+draft: true
 
 ---
 <!--more-->
