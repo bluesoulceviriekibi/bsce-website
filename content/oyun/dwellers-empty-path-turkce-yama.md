@@ -1,6 +1,6 @@
 ---
 title: Dweller's Empty Path Türkçe Yama (Yapım Aşamasında)
-date: 2020-09-04T18:40:00+03:00
+date: 2020-09-04T12:45:21Z
 ceviriler:
 - Oyun
 etiketler:
