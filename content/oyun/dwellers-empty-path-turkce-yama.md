@@ -41,8 +41,8 @@ Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 * [Toby Fox](https://twitter.com/tobyfox) - Melodiler/Akorlar
 * [Temmie Chang](https://twitter.com/tuyoki) - Melodiler/Akorlar
 
-**Çeviri durumu: %50  
-Kontrol durumu: %0**
+**Çeviri durumu: %50**  
+**Kontrol durumu: %0**
 
 Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)
 
