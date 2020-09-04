@@ -122,3 +122,5 @@ Yama sürümü: v2.6 - 2019.04.02
   MD5: E35B4FB8B231823277D6832D6BD511ED
 * [Windows için Yama (Sadece Yama - 9 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_BlueSoul_Ceviri_Ekibi.zip)  
   MD5: 9125B4150C869AF5A4C8A3B3CED15C4C
+
+Yeni yama ve mobil hakkında bilgi için[ buraya tıklayınız.](/duyuru/deltarune-final-yama-durumu)
