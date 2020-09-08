@@ -4,6 +4,8 @@ date: 2020-07-08T16:39:31.000+03:00
 excludeFromTopNav: false
 link: ''
 target: ''
+aliases:
+- "/hakkimizda"
 
 ---
 Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları sizde seversiniz diye kar amacı gütmeden gönüllü olarak sizler için çeviriyoruz.
