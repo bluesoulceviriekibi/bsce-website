@@ -133,3 +133,5 @@ Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve oy
 
 Android kurulumuna [buradan](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu") ulaşabilirsiniz.  
 Linux ve macOS sürümleri de birkaç gün içerisinde eklenecektir.
+
+**ÖNEMLİ NOT:** Android'de oyun yeni dosya açma yetisine sahip değil, dolayısıyla sadece kendi içinde gelen boş kayıt dosyalarını kullanabiliyor. Eğer kayıt dosyasını silip yerine yeni dosya açıp oynamaya çalışırsanız ilk kısmı geçtikten sonra oyun size **FATAL ERROR** hatası verecektir.
