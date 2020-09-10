@@ -1,6 +1,6 @@
 ---
 title: "Deltarune - You Can Always Come Home Türkçe Cover - CalyRV"
-date: 2020-02-08T22:26:06+03:00
+date: 2020-02-08T22:26:06Z
 draft: false
 
 ceviriler: ["Video"]

@@ -1,6 +1,6 @@
 ---
 title: The Aftermath Türkçe Yama
-date: 2020-04-10T17:07:49.000+03:00
+date: 2020-04-10T17:07:49Z
 ceviriler:
 - Oyun
 etiketler:

@@ -1,6 +1,6 @@
 ---
 title: "Lemonade Mouth - More Than A Band - Türkçe Çeviri"
-date: 2020-01-10T20:40:32+03:00
+date: 2020-01-10T20:40:32Z
 draft: false
 
 ceviriler: ["Video"]

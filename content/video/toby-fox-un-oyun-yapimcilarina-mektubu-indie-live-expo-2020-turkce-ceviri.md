@@ -1,6 +1,6 @@
 ---
 title: Toby Fox'un Oyun Yapımcılarına Mektubu - INDIE Live Expo 2020 - Türkçe Çeviri
-date: 2020-06-25T22:33:28.000+03:00
+date: 2020-06-25T22:33:28Z
 ceviriler:
 - Video
 etiketler:

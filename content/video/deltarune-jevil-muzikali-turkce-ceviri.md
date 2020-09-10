@@ -1,6 +1,6 @@
 ---
 title: "Jevil The Musical / Jevil Müzikali - Türkçe Çeviri"
-date: 2018-12-17T16:18:52+03:00
+date: 2018-12-17T16:18:52Z
 draft: false
 
 ceviriler: ["Video"]

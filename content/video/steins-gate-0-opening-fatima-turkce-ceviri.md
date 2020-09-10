@@ -1,6 +1,6 @@
 ---
 title: "STEINS;GATE 0 OP - FATIMA - Türkçe Çeviri"
-date: 2018-12-01T16:11:10+03:00
+date: 2018-12-01T16:11:10Z
 draft: false
 
 ceviriler: ["Video"]

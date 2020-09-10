@@ -1,6 +1,6 @@
 ---
 title: Steins;Gate 0 Last Game - Türkçe Çeviri
-date: 2019-11-13T23:13:33.000+03:00
+date: 2019-11-13T23:13:33Z
 ceviriler:
 - Video
 etiketler:

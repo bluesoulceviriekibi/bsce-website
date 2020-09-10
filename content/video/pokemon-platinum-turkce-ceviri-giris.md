@@ -1,6 +1,6 @@
 ---
 title: "Pokémon Platinum Türkçe Çeviri - Giriş"
-date: 2020-01-06T20:38:19+03:00
+date: 2020-01-06T20:38:19Z
 draft: false
 
 ceviriler: ["Video"]

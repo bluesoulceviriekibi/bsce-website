@@ -1,6 +1,6 @@
 ---
 title: "Sword Art Online Opening - LiSA: Crossing Field / Türkçe Çeviri"
-date: 2019-12-28T20:35:15+03:00
+date: 2019-12-28T20:35:15Z
 draft: false
 
 ceviriler: ["Video"]

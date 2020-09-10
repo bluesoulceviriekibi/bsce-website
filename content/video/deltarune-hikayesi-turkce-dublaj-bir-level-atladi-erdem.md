@@ -1,6 +1,6 @@
 ---
 title: "Deltarune Hikayesi - Türkçe Dublaj (Bir Level Atladı / Erdem)"
-date: 2019-06-05T18:54:58+03:00
+date: 2019-06-05T18:54:58Z
 draft: false
 
 ceviriler: ["Video"]

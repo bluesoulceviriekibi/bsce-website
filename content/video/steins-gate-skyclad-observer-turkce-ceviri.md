@@ -1,6 +1,6 @@
 ---
 title: "Steins;Gate - Skyclad Observer / Türkçe Çeviri (Romaji + English + Türkçe)"
-date: 2019-09-28T19:02:25+03:00
+date: 2019-09-28T19:02:25Z
 draft: false
 
 ceviriler: ["Video"]

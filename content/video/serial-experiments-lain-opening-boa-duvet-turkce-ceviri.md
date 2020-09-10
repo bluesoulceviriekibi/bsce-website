@@ -1,6 +1,6 @@
 ---
 title: "Serial Experiments Lain Opening - Boa Duvet - Türkçe Çeviri"
-date: 2020-06-11T22:29:37+03:00
+date: 2020-06-11T22:29:37Z
 draft: false
 
 ceviriler: ["Video"]

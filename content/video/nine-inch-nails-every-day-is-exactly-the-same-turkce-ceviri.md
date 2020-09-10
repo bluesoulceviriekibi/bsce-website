@@ -1,6 +1,6 @@
 ---
 title: "Nine Inch Nails - Every Day Is Exactly The Same / Türkçe Çeviri"
-date: 2020-02-04T20:51:19+03:00
+date: 2020-02-04T20:51:19Z
 draft: false
 
 ceviriler: ["Video"]

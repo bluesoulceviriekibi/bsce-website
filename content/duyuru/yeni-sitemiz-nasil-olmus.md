@@ -1,6 +1,6 @@
 ---
 title: "Yeni Sitemiz Nasıl Olmuş?"
-date: 2020-07-10T01:41:17+03:00
+date: 2020-07-10T01:41:17Z
 draft: false
 
 etiketler: ["BSÇE", "Site", "Soru"]

@@ -1,6 +1,6 @@
 ---
 title: "Dweller's Empty Path TÜRKÇE - Açılış"
-date: 2020-07-11T15:30:00+03:00
+date: 2020-07-11T15:30:00Z
 draft: false
 
 ceviriler: ["Video"]

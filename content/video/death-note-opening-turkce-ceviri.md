@@ -1,6 +1,6 @@
 ---
 title: "Death Note Opening - Türkçe Çeviri"
-date: 2018-11-30T15:31:56+03:00
+date: 2018-11-30T15:31:56Z
 draft: false
 
 ceviriler: ["Video"]

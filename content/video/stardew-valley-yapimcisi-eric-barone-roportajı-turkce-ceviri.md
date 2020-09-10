@@ -1,6 +1,6 @@
 ---
 title: "Stardew Valley yapımcısı Eric Barone röportajı - Türkçe Çeviri"
-date: 2020-07-02T22:39:20+03:00
+date: 2020-07-02T22:39:20Z
 draft: false
 
 ceviriler: ["Video"]
