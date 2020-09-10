@@ -1,6 +1,6 @@
 ---
 title: 'Deltarune: Bölüm 1 Türkçe Yama'
-date: 2018-10-31T17:05:59.000+03:00
+date: 2020-09-10T23:11:00+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -16,6 +16,7 @@ aliases:
 - "/ceviri/deltarune"
 
 ---
+Final yama ve android desteği geldi!  
 <!--more-->
 
 ## Deltarune Hakkında
@@ -71,7 +72,7 @@ Yama Yöneticisi
 * Gökhan Perçem
 * Habibegu
 * İbrahim Özobuz
-* Ömer Akgöz (34)
+* omerakgoz34
 * Reigo
 * Salih Güdücü
 * Ulaş Göksingöl
@@ -81,7 +82,7 @@ Kalite Kontrol
 * Ali Meriç Uslu
 * Gökhan Perçem
 * Léars
-* Ömer Akgöz (34)
+* omerakgoz34
 * Ulaş Tanıl
 * Yamocuk
 
@@ -103,7 +104,7 @@ Kalite Kontrol
 
 Paketleme ve Yayınlama
 
-* Ömer Akgöz (34)
+* omerakgoz34
 
 ***
 
@@ -116,11 +117,19 @@ Paketleme ve Yayınlama
 
 ## İndirme Linkleri
 
-Yama sürümü: v2.6 - 2019.04.02
+Yama sürümü: v3.0.0 - 2020.09.10
 
-* [Windows için Yükleyici (Oyun ve Yama - 82 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  
-  MD5: E35B4FB8B231823277D6832D6BD511ED
-* [Windows için Yama (Sadece Yama - 9 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v2.6/Deltarune-TR_v2.6_BlueSoul_Ceviri_Ekibi.zip)  
-  MD5: 9125B4150C869AF5A4C8A3B3CED15C4C
+* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.exe "Windows için Yükleyici")  
+  MD5: 259a6d57f333dc8c20f8bb2df9db72cf
+* [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
+  MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
+* [Android için APK (Oyun ve Yama - 74 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Android_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.apk "Android için APK")  
+  MD5: 3bc50fd9bae9a3cffa2fd15cf34fe7a0  
+  [Android için GamePad APK (yedek - 1.1 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/GamePad_1.7.apk "Android için GamePad APK")  
+  MD5: 27e21fb6112d5f8b6104864bc3fdbd65
 
-Yeni yama ve mobil hakkında bilgi için[ buraya tıklayınız.](/duyuru/deltarune-final-yama-durumu)
+Yamada çokça geliştirmeler yaptık.  
+Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve oyunun sonunda sizi çok güzel bir süpriz bekliyor ;)
+
+Android kurulumuna [buradan](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu") ulaşabilirsiniz.  
+Linux ve macOS sürümleri de birkaç gün içerisinde eklenecektir.
