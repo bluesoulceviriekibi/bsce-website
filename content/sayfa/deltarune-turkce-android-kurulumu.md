@@ -61,4 +61,6 @@ Oyunu oynayacağınız zaman GamePad uygulamasını açıp **"Set Current Input 
 Oynadıktan sonra klavyeyi eski haline getirmek için yine **"Set Current Input Method"** butonuna basıp normal klavye uygulamasını seçip GamePad uygulamasını kapatabilirsiniz.  
 Eğer GamePad uygulamasının bildirimi sistem ayarlarında Uygulamalar menüsü altından GamePad uygulamasını bulup **"Durdurmaya zorla"** seçeneğine basıp uygulamayı tamamen kapatabilirsiniz.
 
+**ÖNEMLİ NOT:** Android'de oyun yeni dosya açma yetisine sahip değil, dolayısıyla sadece kendi içinde gelen boş kayıt dosyalarını kullanabiliyor. Eğer kayıt dosyasını silip yerine yeni dosya açıp oynamaya çalışırsanız ilk kısmı geçtikten sonra oyun size **FATAL ERROR** hatası verecektir.
+
 **Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya discord sunucumuzdan yardım alabilirsiniz.**
