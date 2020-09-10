@@ -1,6 +1,6 @@
 ---
 title: 'Deltarune: Bölüm 1 Türkçe Yama'
-date: 2020-09-10T23:11:00Z
+date: 2020-09-10T23:27:00+03:00
 ceviriler:
 - Oyun
 etiketler:
