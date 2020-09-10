@@ -34,5 +34,3 @@ fields:
     maxSize: 64
   label: Kapak Resmi
   description: Başlığın hemen üstünde görünen standart kapak resmidir.
-pages:
-- content/duyuru/deltarune-final-yama-durumu.md
