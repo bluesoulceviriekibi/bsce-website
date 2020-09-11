@@ -16,7 +16,7 @@ aliases:
 - "/ceviri/deltarune"
 
 ---
-Final yama ve android desteği geldi!  
+Final Yama ve Android APK eklendi!  
 <!--more-->
 
 ## Deltarune Hakkında
@@ -124,7 +124,7 @@ Yama sürümü: v3.0.0 - 2020.09.10
 * [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
   MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
 * [Android için APK (Oyun ve Yama - 74 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Android_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.apk "Android için APK")  
-  MD5: 3bc50fd9bae9a3cffa2fd15cf34fe7a0  
+  MD5: 812371b036b2fa7663f6ba162c619524  
   [Android için GamePad APK (yedek - 1.1 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/GamePad_1.7.apk "Android için GamePad APK")  
   MD5: 27e21fb6112d5f8b6104864bc3fdbd65
 
@@ -133,4 +133,5 @@ Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve oy
 
 Android kurulumuna [buradan](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu") ulaşabilirsiniz.  
 Linux ve macOS sürümleri de birkaç gün içerisinde eklenecektir.  
+  
 **ÖNEMLİ NOT:** Android'de oyun yeni dosya açma yetisine sahip değil, dolayısıyla sadece kendi içinde gelen boş kayıt dosyalarını kullanabiliyor. Eğer kayıt dosyasını silip yerine yeni dosya açıp oynamaya çalışırsanız ilk kısmı geçtikten sonra oyun size **FATAL ERROR** hatası verecektir.
