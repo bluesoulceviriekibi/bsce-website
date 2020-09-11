@@ -110,8 +110,8 @@ Paketleme ve Yayınlama
 
 ## `!!! UYARI !!!`
 
-`Hareketli ve parlak görseller içerebilir.`  
-`Sadece [UNDERTALE'ı](https://undertale.com) bitirmiş olanlar içindir.`
+Hareketli ve parlak görseller içerebilir.
+Sadece [UNDERTALE](https://undertale.com)'ı bitirmiş olanlar içindir.
 
 ***
 
