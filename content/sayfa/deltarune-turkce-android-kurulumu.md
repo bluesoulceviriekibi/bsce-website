@@ -16,7 +16,7 @@ title = "Deltarune Türkçe Android Kurulumu"
 * **1.2 GHz** veya daha hızlı bir işlemci
 * **200 MB** veya daha fazla boş depolama alanı.
 
-İndirme linklerine [buraya](https://bluesoulceviriekibi.net/oyun/deltarune-bolum1-turkce-yama "apk indirme linkleri") tıklayarak ulaşabilirsiniz.
+**İndirme linklerine** [**buraya**](https://bluesoulceviriekibi.net/oyun/deltarune-bolum1-turkce-yama "apk indirme linkleri") **tıklayarak ulaşabilirsiniz.**
 
 ## Kurulum
 
