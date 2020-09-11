@@ -1,6 +1,6 @@
 ---
 title: 'Deltarune: Bölüm 1 Türkçe Yama'
-date: 2020-09-10T23:27:00+03:00
+date: 2020-09-11T10:07:00+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -117,7 +117,7 @@ Sadece [UNDERTALE](https://undertale.com)'ı bitirmiş olanlar içindir.
 
 ## İndirme Linkleri
 
-Yama sürümü: v3.0.0 - 2020.09.10
+Yama sürümü: v3.0.0 - 2020.09.11
 
 * [Windows için Yükleyici (Oyun ve Yama - 62 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.exe "Windows için Yükleyici")  
   MD5: 259a6d57f333dc8c20f8bb2df9db72cf
@@ -132,6 +132,6 @@ Yamada çokça geliştirmeler yaptık.
 Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve oyunun sonunda sizi çok güzel bir süpriz bekliyor ;)
 
 Android kurulumuna [buradan](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu") ulaşabilirsiniz.  
-Linux ve macOS sürümleri de birkaç gün içerisinde eklenecektir.  
-  
+Linux ve macOS sürümleri de birkaç gün içerisinde eklenecektir.
+
 **ÖNEMLİ NOT:** Android'de oyun yeni dosya açma yetisine sahip değil, dolayısıyla sadece kendi içinde gelen boş kayıt dosyalarını kullanabiliyor. Eğer kayıt dosyasını silip yerine yeni dosya açıp oynamaya çalışırsanız ilk kısmı geçtikten sonra oyun size **FATAL ERROR** hatası verecektir.
