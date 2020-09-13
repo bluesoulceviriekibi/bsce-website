@@ -35,7 +35,7 @@
                 <strong>{{ i18n "socialMedia" }}</strong>
 
                 {{ range .Site.Params.socialMediaLinks }}
-                <a href="{{ .link }}" target="_blank"><i class="{{ .icon }}"></i></a>
+                <a href="{{ .link }}" target="_blank" rel="noreferrer"><i class="{{ .icon }}"></i></a>
                 {{ end }}
             </div>
             {{ end }}
@@ -61,7 +61,7 @@
 <div class="credits">
     <div class="container">
         <div class="copyright">
-            <a href="{{ .Site.Params.copyrightUrl | default "https://github.com/Lednerb" }}" target="_blank">
+            <a href="{{ .Site.Params.copyrightUrl | default "https://github.com/Lednerb" }}" target="_blank" rel="noreferrer">
                 &copy;
                 {{ if .Site.Params.copyrightUseCurrentYear }}
                 {{ now.Year }}
@@ -77,7 +77,7 @@
         </div>
         <div class="author">
             <a href="{{ .Site.Params.creditsUrl | default "https://github.com/Lednerb/bilberry-hugo-theme" }}"
-                target="_blank">{{ .Site.Params.creditsText | default "Bilberry Hugo Theme" }}</a>
+                target="_blank" rel="noreferrer">{{ .Site.Params.creditsText | default "Bilberry Hugo Theme" }}</a>
         </div>
     </div>
 </div>
