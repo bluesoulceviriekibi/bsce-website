@@ -88,6 +88,8 @@
     {{ end }}
 
     <link rel="stylesheet" href="{{ "theme.css" | absURL }}">
+    <link rel="preload" href="theme.css" as="style">
+    <link rel="preload" href="theme.js" as="script">
 
     {{ partial "twitter-card" . }}
 
@@ -98,7 +100,7 @@
     {{ end }}
 
     {{ template "_internal/google_analytics_async.html" . }}
-    <script data-ad-client="ca-pub-6714443713333752" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script data-ad-client="ca-pub-6714443713333752" defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
     <script>
