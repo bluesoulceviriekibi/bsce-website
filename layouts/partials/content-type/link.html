@@ -1,4 +1,4 @@
-<a class="bubble" href="{{ .Params.link }}" target="_blank">
+<a class="bubble" href="{{ .Params.link }}" target="_blank" rel="noreferrer">
     <i class="fas fa-fw {{ or .Params.icon "fa-link" }}"></i>
 </a>
 
@@ -6,7 +6,7 @@
     {{ with .Params.featuredImage }}
     <img src="{{ . }}" class="featured-image" alt="">
     {{ end }}
-    <a href="{{ .Params.link }}" target="_blank">
+    <a href="{{ .Params.link }}" target="_blank" rel="noreferrer">
         <h4>{{ .Title }}</h4>
         {{ .Content }}
     </a>
