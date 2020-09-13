@@ -57,11 +57,11 @@ _DELTARUNE!_
 
 ## Yamayı Hazırlayanlar
 
-###### Yama Yöneticisi
+**Yama Yöneticisi**
 
 * Hasan Hüseyin Şahin
 
-###### Çeviri
+**Çeviri**
 
 * Ahmet Emir
 * Asriel Dreemurr
@@ -77,7 +77,7 @@ _DELTARUNE!_
 * Salih Güdücü
 * Ulaş Göksingöl
 
-###### Kalite Kontrol
+**Kalite Kontrol**
 
 * Ali Meriç Uslu
 * Gökhan Perçem
@@ -86,7 +86,7 @@ _DELTARUNE!_
 * Ulaş Tanıl
 * Yamocuk
 
-###### Özel Teşekkürler
+**Özel Teşekkürler**
 
 * Fylean#5647
 * 🎄 Natale 🎄#2568
@@ -102,7 +102,7 @@ _DELTARUNE!_
 * Emre Ege
 * Yusuf.
 
-###### Paketleme ve Yayınlama
+**Paketleme ve Yayınlama**
 
 * omerakgoz34
 
@@ -123,17 +123,14 @@ Yama sürümü: v3.0.0 - 2020.09.14
   MD5: 259a6d57f333dc8c20f8bb2df9db72cf  
   [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
   MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
-
 * [Android için APK (Oyun ve Yama - 74 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Android_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.apk "Android için APK")  
   MD5: 812371b036b2fa7663f6ba162c619524  
   [Android için GamePad APK (yedek - 1.1 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/GamePad_1.7.apk "Android için GamePad APK")  
   MD5: 27e21fb6112d5f8b6104864bc3fdbd65
-
 * [Linux için Yükleyici (Oyun ve Yama - 66 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Linux_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Linux için Yükleyici")  
   MD5: f824698abf80dc934b36820e9cb83448  
   [Linux için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Linux_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Linux için Yama")  
   MD5: d3e1268b33caa16898127cf3eb7bb22b
-
 * _macOS için Yükleyici (Oyun ve Yama - ? MB)_  
   Yakında...  
   _macOS için Yama (Sadece Yama - ? MB)_  
