@@ -18,6 +18,5 @@ Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğim
 
 <iframe class="discord center" src="https://discordapp.com/widget?id=490540966286065674&theme=dark" width="640" height="500" allowtransparency="true" frameborder="0"></iframe>
 
-E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)
-
+E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)  
 Site geliştiricisi: [omerakgoz34#3434](mailto:omerakgoz34@gmail.com)
