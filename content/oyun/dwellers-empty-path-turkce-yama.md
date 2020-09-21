@@ -1,6 +1,6 @@
 ---
 title: Dweller's Empty Path Türkçe Yama (Yapım Aşamasında)
-date: 2020-09-13T23:48:21+03:00
+date: 2020-09-13T23:48:21.000+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -41,7 +41,7 @@ Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 * [Toby Fox](https://twitter.com/tobyfox) - Melodiler/Akorlar
 * [Temmie Chang](https://twitter.com/tuyoki) - Melodiler/Akorlar
 
-**Çeviri durumu: %51**  
+**Çeviri durumu: %65**  
 **Kontrol durumu: %0**
 
 Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)
