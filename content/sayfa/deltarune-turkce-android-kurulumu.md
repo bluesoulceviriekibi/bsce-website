@@ -1,6 +1,6 @@
 +++
 aliases = []
-date = 2020-09-11T07:07:10Z
+date = 2020-09-24T15:57:10Z
 excludeFromTopNav = true
 link = ""
 target = ""
