@@ -1,6 +1,6 @@
 ---
 title: The Aftermath Türkçe Yama
-date: 2020-04-10T17:07:49Z
+date: 2020-04-10T17:07:49.000+00:00
 ceviriler:
 - Oyun
 etiketler:
@@ -9,6 +9,7 @@ etiketler:
 - 2D
 - Pixel
 - Sonsuz
+- Windows
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/the-aftermath-turkce-yama_f5dkyp.png
 aliases:
 - "/ceviri/the_aftermath"
