@@ -24,14 +24,12 @@ title = "Deltarune Türkçe Windows Kurulumu"
   MD5: 259a6d57f333dc8c20f8bb2df9db72cf
 * [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
   MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
-
-**Visual C++ 2015-2019 indirme linkleri için** [**buraya tıklayın**](https://support.microsoft.com/tr-tr/help/2977003/the-latest-supported-visual-c-downloads)
+* Visual C++ 2015-2019  
+  [x64 (64-bit)](https://aka.ms/vs/16/release/vc_redist.x64.exe "MSVC 2019 64-bit") --- [x86 (32-bit)](https://aka.ms/vs/16/release/vc_redist.x86.exe "MSVC 2019 32-bit")
 
 ## Yükleyiciyle Kurulum
 
-1. Yüklemeye başlamadan önce yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32bit windows kullananların x86 olan paketi, 64bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
-
-   ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600962317/website/assets/deltarune_windows_kurulum_ss6_eiozlq.png)
+1. Yüklemeye başlamadan önce yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32-bit windows kullananların x86 olan paketi, 64-bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
 2. İndirdiğiniz yükleyici dosyasına sağ-tıklayıp yönetici olarak çalıştırınız.
 
    ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600959246/website/assets/deltarune_windows_kurulum_ss1_x9vzfw.png)
@@ -51,9 +49,7 @@ title = "Deltarune Türkçe Windows Kurulumu"
 
 ## Elle Kurulum
 
-1. Yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32bit windows kullananların x86 olan paketi, 64bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
-
-   ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600962317/website/assets/deltarune_windows_kurulum_ss6_eiozlq.png)
+1. Yüklemeye başlamadan önce yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32-bit windows kullananların x86 olan paketi, 64-bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
 2. İndirdiğiniz yama ZIP dosyasına çift tıklayarak açınız. Açtığınızda karşınıza "lang", "mus" ve "data.win" dosyaları çıkması gerekmektedir.
 
    ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600962489/website/assets/deltarune_windows_kurulum_ss7_awxrsb.png)
