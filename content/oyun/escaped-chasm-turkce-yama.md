@@ -1,16 +1,16 @@
 ---
 title: Escaped Chasm Türkçe Yama
-date: 2019-06-03T17:07:49Z
+date: 2019-06-03T17:07:49.000+00:00
 ceviriler:
 - Oyun
 etiketler:
 - Escaped Chasm
 - Temmie Chang
-- PC
 - 2D
 - Pixel
 - Hikaye
 - RPG
+- Windows
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597958208/website/assets/escaped-chasm-turkce-yama_peb8n3.png
 aliases:
 - "/ceviri/escaped_chasm"
@@ -21,6 +21,8 @@ aliases:
 ## Escaped Chasm Hakkında
 
 Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
+
+<iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/lq8iiOThLyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Yapımcı: Temmie Chang**  
 **Oyun içi müzikler: Toby Fox**
