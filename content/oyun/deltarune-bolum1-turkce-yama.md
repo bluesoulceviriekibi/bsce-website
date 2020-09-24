@@ -111,7 +111,7 @@ _DELTARUNE!_
 ## !!! UYARI !!!
 
 Hareketli ve parlak görseller içerir.  
-Sadece [UNDERTALE](https://undertale.com)'ı bitirmiş olanlar içindir.
+Sadece [UNDERTALE](https://undertale.com)'ın iyi sonunu ve kötü sonunu bitirmiş olanlar içindir.
 
 ***
 
@@ -142,8 +142,6 @@ Yama sürümü: v3.0.0 - 2020.09.14
 * [Android](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
 * _Linux_ (gelecek)
 * _macOS_ (yakında)
-
-### ÖNEMLİ NOT
 
 Yamada çokça geliştirmeler yaptık.  
 Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir süpriz bekliyor ;)_**
