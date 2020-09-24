@@ -16,7 +16,7 @@ Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğim
 
 [![Instagram](https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=ffffff&label=Instagram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=purple&colorB=123b97)](https://instagram.com/bluesoulceviriekibi)
 
-<iframe class="discord center" src="https://discordapp.com/widget?id=490540966286065674&theme=dark" allowtransparency="true" frameborder="0"></iframe>
+<iframe class="discord center" src="https://discordapp.com/widget?id=490540966286065674&theme=dark" allowtransparency="true" frameborder="0" style="weight: 500px; height: auto;"></iframe>
 
 E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)  
 Site geliştiricisi: [omerakgoz34#3434](mailto:omerakgoz34@gmail.com)
