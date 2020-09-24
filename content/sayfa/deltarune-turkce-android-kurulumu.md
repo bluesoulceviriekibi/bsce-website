@@ -18,6 +18,8 @@ title = "Deltarune Türkçe Android Kurulumu"
 * **1.2 GHz** veya daha hızlı bir işlemci
 * **200 MB** veya daha fazla boş depolama alanı.
 
+## İndirme Linkleri
+
 * [Android için APK (Oyun ve Yama - 74 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Android_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.apk "Android için APK")  
   MD5: 812371b036b2fa7663f6ba162c619524
 * [Android için GamePad APK (yedek - 1.1 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/GamePad_1.7.apk "Android için GamePad APK")  

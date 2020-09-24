@@ -118,11 +118,9 @@ Sadece [UNDERTALE](https://undertale.com)'ın iyi sonunu ve kötü sonunu bitirm
 
 ***
 
-## İndirme Linkleri
-
 Yama sürümü: v3.0.0 - 2020.09.14
 
-### Yükleme Rehberleri
+### Kurulum Rehberleri
 
 * [Windows](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")

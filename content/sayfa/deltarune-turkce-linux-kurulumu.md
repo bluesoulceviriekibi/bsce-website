@@ -18,6 +18,8 @@ title = "Deltarune Türkçe Linux Kurulumu"
 * **1.8 GHz** veya daha hızlı bir işlemci
 * **200 MB** veya daha fazla boş depolama alanı.
 
+## İndirme Linkleri
+
 * [Linux için Yükleyici (Oyun ve Yama - 66 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Linux_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Linux için Yükleyici")  
   MD5: f824698abf80dc934b36820e9cb83448
 * [Linux için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Linux_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Linux için Yama")  
@@ -37,10 +39,8 @@ title = "Deltarune Türkçe Linux Kurulumu"
 
 1. Oyunun dosyalarını siliniz.
 2. Masaüstünüzde kısayol duruyorsa onu da siliniz.
-3. Uygulama menüsündeki kısayolu kaldırmak için ise
-
-   **rm \~/.local/share/applications/deltarune-tr.desktop**
-
+3. Uygulama menüsündeki kısayolu kaldırmak için ise  
+   **rm \~/.local/share/applications/deltarune-tr.desktop**  
    komutunu çalıştırmanız yeterlidir. Kaldırması işte bu kadar basit :)
 
 **Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/sayfa/hakkimizda) **yardım alabilirsiniz.**
