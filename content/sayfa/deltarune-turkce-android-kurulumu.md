@@ -9,6 +9,8 @@ title = "Deltarune Türkçe Android Kurulumu"
 +++
 <!--more-->
 
+<iframe src="https://www.youtube.com/embed/24YOPCb6Zrc?start=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Sistem Gereksinimleri
 
 * **Android 4.1** veya üstü
