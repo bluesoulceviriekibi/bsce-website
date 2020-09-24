@@ -16,7 +16,7 @@ aliases:
 - "/ceviri/deltarune"
 
 ---
-Final Yama ve Android APK eklendi!  
+Windows, Android ve Linux için Final Türkçe Yama eklendi!  
 <!--more-->
 
 ## Deltarune Hakkında
