@@ -7,7 +7,6 @@ etiketler:
 - Dwellers Empty Path
 - Temmie Chang
 - Toby Fox
-- PC
 - 2D
 - Pixel
 - Hikaye
