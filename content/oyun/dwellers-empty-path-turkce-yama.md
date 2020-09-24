@@ -12,6 +12,7 @@ etiketler:
 - Pixel
 - Hikaye
 - RPG
+- Windows
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928851/website/assets/dwellers-empty-path-turkce-yama_tr3fxc.png
 aliases:
 - "/dwellers-empty-path-turkce-yama-durumu"
@@ -29,7 +30,7 @@ En yakın zamanda bitirip yayınlamak için sabırsızlanıyoruz :)
 Yamanın güncel durumunu bu sayfadan kontrol edebilirsiniz.  
 Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 
-<iframe width="635" height="315" src="https://www.youtube.com/embed/QrwxUqSQTxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/QrwxUqSQTxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Dweller's Empty Path Türkçe Oynanış](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
 
