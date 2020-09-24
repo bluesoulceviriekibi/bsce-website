@@ -25,7 +25,7 @@ title = "Deltarune Türkçe Windows Kurulumu"
 * [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
   MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
 
-**Visual C++ 2015-2019 indirme linkleri için** [**buraya tıklayın**](https://support.microsoft.com/tr-tr/help/2977003/the-latest-supported-visual-c-downloads "Visual C++ 2015-2019 indirme linkleri")
+**Visual C++ 2015-2019 indirme linkleri için** [**buraya tıklayın**](https://support.microsoft.com/tr-tr/help/2977003/the-latest-supported-visual-c-downloads)
 
 ## Yükleyiciyle Kurulum
 

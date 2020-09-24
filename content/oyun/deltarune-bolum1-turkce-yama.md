@@ -114,7 +114,7 @@ _DELTARUNE!_
 ## !!! UYARI !!!
 
 Hareketli ve parlak görseller içerir.  
-Sadece [UNDERTALE](https://undertale.com)'ın iyi sonunu ve kötü sonunu bitirmiş olanlar içindir.
+Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitirmiş olanlar içindir.
 
 ***
 
@@ -122,9 +122,9 @@ Yama sürümü: v3.0.0 - 2020.09.14
 
 ### Kurulum Rehberleri
 
-* [Windows](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
-* [Android](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
-* [Linux](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-linux-kurulumu "Deltarune Türkçe Linux Kurulumu")
+* [Windows](/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
+* [Android](/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
+* [Linux](/sayfa/deltarune-turkce-linux-kurulumu "Deltarune Türkçe Linux Kurulumu")
 * _macOS_ (yakında...)
 
 Yamada çokça geliştirmeler yaptık.  
