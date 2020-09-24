@@ -12,6 +12,7 @@ etiketler:
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/the-aftermath-turkce-yama_f5dkyp.png
 aliases:
 - "/ceviri/the_aftermath"
+- "/ceviri/the_aftermath.html"
 
 ---
 <!--more-->

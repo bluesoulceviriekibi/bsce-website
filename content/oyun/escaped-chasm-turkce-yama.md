@@ -14,6 +14,7 @@ etiketler:
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597958208/website/assets/escaped-chasm-turkce-yama_peb8n3.png
 aliases:
 - "/ceviri/escaped_chasm"
+- "/ceviri/escaped_chasm.html"
 
 ---
 <!--more-->

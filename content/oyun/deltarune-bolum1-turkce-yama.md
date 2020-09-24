@@ -17,6 +17,7 @@ etiketler:
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png
 aliases:
 - "/ceviri/deltarune"
+- "/ceviri/deltarune.html"
 
 ---
 Windows, Android ve Linux için Final Türkçe Yama eklendi!  
