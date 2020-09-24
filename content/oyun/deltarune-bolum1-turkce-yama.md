@@ -6,7 +6,6 @@ ceviriler:
 etiketler:
 - Deltarune
 - Toby Fox
-- PC
 - 2D
 - Pixel
 - Hikaye
