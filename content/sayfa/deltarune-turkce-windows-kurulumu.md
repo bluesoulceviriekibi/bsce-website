@@ -18,7 +18,11 @@ title = "Deltarune Türkçe Windows Kurulumu"
 * **1.8 GHz** veya daha hızlı bir işlemci
 * **200 MB** veya daha fazla boş depolama alanı.
 
-**Deltarune indirme linkleri için** [**buraya tıklayın**](https://bluesoulceviriekibi.net/oyun/deltarune-bolum1-turkce-yama "apk indirme linkleri")  
+* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.exe "Windows için Yükleyici")  
+  MD5: 259a6d57f333dc8c20f8bb2df9db72cf
+* [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
+  MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
+
 **Visual C++ 2015-2019 indirme linkleri için** [**buraya tıklayın**](https://support.microsoft.com/tr-tr/help/2977003/the-latest-supported-visual-c-downloads "Visual C++ 2015-2019 indirme linkleri")
 
 ## Yükleyiciyle Kurulum

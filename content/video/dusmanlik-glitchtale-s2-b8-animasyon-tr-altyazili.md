@@ -16,3 +16,5 @@ aliases: []
 [![Beğeniler](https://img.shields.io/youtube/likes/nRZ4Qs_d11o?label=Be%C4%9Feniler&style=social)](https://youtu.be/nRZ4Qs_d11o)
 [![Yorumlar](https://img.shields.io/youtube/comments/nRZ4Qs_d11o?label=Yorumlar&style=social)](https://youtu.be/nRZ4Qs_d11o)  
 <!--more-->
+
+Yeni bölüm çıktığı zaman onlar da çevirilip sitemize eklenecektir :)

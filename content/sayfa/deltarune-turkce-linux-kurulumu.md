@@ -18,7 +18,10 @@ title = "Deltarune Türkçe Linux Kurulumu"
 * **1.8 GHz** veya daha hızlı bir işlemci
 * **200 MB** veya daha fazla boş depolama alanı.
 
-**Deltarune indirme linkleri için** [**buraya tıklayın**](https://bluesoulceviriekibi.net/oyun/deltarune-bolum1-turkce-yama "apk indirme linkleri")
+* [Linux için Yükleyici (Oyun ve Yama - 66 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Linux_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Linux için Yükleyici")  
+  MD5: f824698abf80dc934b36820e9cb83448
+* [Linux için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Linux_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Linux için Yama")  
+  MD5: d3e1268b33caa16898127cf3eb7bb22b
 
 ## Kurulum
 
