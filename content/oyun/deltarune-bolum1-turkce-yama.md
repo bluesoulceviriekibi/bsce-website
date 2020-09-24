@@ -1,6 +1,6 @@
 ---
 title: Deltarune Bölüm 1 Türkçe Yama
-date: 2020-09-24T18:57:00+03:00
+date: 2020-09-24T22:51:00+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -11,6 +11,10 @@ etiketler:
 - Pixel
 - Hikaye
 - RPG
+- Windows
+- Linux
+- Android
+- macOS
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png
 aliases:
 - "/ceviri/deltarune"
@@ -140,8 +144,8 @@ Yama sürümü: v3.0.0 - 2020.09.14
 
 * [Windows](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
-* _Linux_ (gelecek)
-* _macOS_ (yakında)
+* [Linux](https://bluesoulceviriekibi.net/sayfa/deltarune-turkce-linux-kurulumu "Deltarune Türkçe Linux Kurulumu")
+* _macOS_ (yakında...)
 
 Yamada çokça geliştirmeler yaptık.  
 Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir süpriz bekliyor ;)_**
