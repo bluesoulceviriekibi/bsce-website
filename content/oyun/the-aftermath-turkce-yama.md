@@ -5,7 +5,6 @@ ceviriler:
 - Oyun
 etiketler:
 - The Aftermath
-- PC
 - 2D
 - Pixel
 - Sonsuz
