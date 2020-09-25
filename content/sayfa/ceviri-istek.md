@@ -1,6 +1,6 @@
 +++
 aliases = ["/ceviri_istek"]
-date = 2020-07-08T16:38:31Z
+date = 2020-07-08T13:00:00Z
 excludeFromTopNav = false
 link = ""
 target = ""

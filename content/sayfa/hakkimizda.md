@@ -1,9 +1,9 @@
 ---
 title: Hakkımızda
-date: 2020-07-08T16:39:31.000+00:00
+date: 2020-07-08T14:00:00Z
 excludeFromTopNav: false
-link: ''
-target: ''
+link: ""
+target: ""
 aliases:
 - "/hakkimizda"
 
