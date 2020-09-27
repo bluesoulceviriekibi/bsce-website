@@ -1,6 +1,6 @@
 ---
 title: Deltarune Bölüm 1 Türkçe Yama
-date: 2020-09-24T22:51:00+03:00
+date: 2020-09-24T22:51:00.000+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -13,7 +13,6 @@ etiketler:
 - Windows
 - Linux
 - Android
-- macOS
 featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png
 aliases:
 - "/ceviri/deltarune"
