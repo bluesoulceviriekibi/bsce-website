@@ -1,11 +1,12 @@
 ---
 title: Hakkımızda
-date: 2020-07-08T12:00:00Z
+date: 2020-07-08T12:00:00.000+00:00
 excludeFromTopNav: false
-link: ""
-target: ""
+link: ''
+target: ''
 aliases:
 - "/hakkimizda"
+- "/duyuru/yeni-sitemiz-nasil-olmus"
 
 ---
 Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları sizde seversiniz diye kar amacı gütmeden gönüllü olarak sizler için çeviriyoruz.
