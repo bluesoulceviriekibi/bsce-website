@@ -19,7 +19,7 @@ aliases:
 - "/ceviri/deltarune.html"
 
 ---
-Windows, Android ve Linux için Final Türkçe Yama eklendi!  
+Windows, Android, Linux ve macOS için Final Türkçe Yama eklendi!  
 <!--more-->
 
 ## Deltarune Hakkında
