@@ -2,7 +2,7 @@
 aliases = []
 ceviriler = ["Video"]
 date = 2020-10-25T12:21:13Z
-etiketler = ["Cyberpunk", "Oyun", "3D"]
+etiketler = ["Cyberpunk", "Oyun", "3D", "Aksiyon", "RPG"]
 title = "Cyberpunk 2077 - What You're Looking For (Aradığın Şey) Türkçe Çeviri"
 youtube = "M2RRO5SnvNM"
 
