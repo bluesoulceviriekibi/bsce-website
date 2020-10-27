@@ -1,6 +1,6 @@
 ---
 title: Hakkımızda
-date: 2020-07-08T12:00:00.000+00:00
+date: 2020-07-08T12:00:00Z
 excludeFromTopNav: false
 link: ""
 target: ""
@@ -12,6 +12,10 @@ aliases:
 
 ---
 Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları sizde seversiniz diye kar amacı gütmeden gönüllü olarak sizler için çeviriyoruz.
+
+## Çeviri Durumu
+
+Trello Panomuz: https://trello.com/b/wrYPw7iq
 
 ## Sosyal Medya Linklerimiz
 
