@@ -14,6 +14,7 @@ youtube = "Db3q4doKwSo"
 <!--more-->
 
 oyun için heyecanlıyız ama oynayacak bilgisayar yok. teşekkürler.
+Orijinal video: https://www.youtube.com/watch?v=6a8f1TbYb2w
 
 BlueSoul E-Posta: bluesoulceviriekibi@gmail.com
 BlueSoul Discord: https://discord.gg/VKB7ECZ
