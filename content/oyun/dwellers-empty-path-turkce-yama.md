@@ -41,8 +41,7 @@ Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 * [Toby Fox](https://twitter.com/tobyfox) - Melodiler/Akorlar
 * [Temmie Chang](https://twitter.com/tuyoki) - Melodiler/Akorlar
 
-**Çeviri durumu: %65**  
-**Kontrol durumu: %0**
+**Çeviri durumuna** [**Trello**](https://trello.com/c/7Xs8S48z/56-dwellers-empty-path "Türkçe yama durumu") **panosundan bakabilirsiniz.**
 
 Sayfanın [linkini](.) paylaşırsanız seven diğer insanların da haberi olur böylelikle :)
 
