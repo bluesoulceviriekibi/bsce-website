@@ -1,12 +1,5 @@
-node_modules
-package_lock.json
 .git*
-.env
 .cache
-dist
-build
-bin
 public
 resources
 bilberry-hugo-theme
-yarn.lock
