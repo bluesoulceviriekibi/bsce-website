@@ -1,6 +1,6 @@
 ---
 title: Deltarune Bölüm 1 Türkçe Yama
-date: 2020-10-10T12:36:00+03:00
+date: 2020-10-10T12:36:00.000+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -120,7 +120,7 @@ Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitir
 
 Yama sürümü: v3.0.0 - 2020.09.14
 
-### Kurulum Rehberleri
+### İndirme ve Kurulum
 
 * [Windows](/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
