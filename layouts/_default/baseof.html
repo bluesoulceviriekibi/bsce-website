@@ -1,31 +1,31 @@
 {{ if eq .Type "gallery" }}
-    {{ $image := (index (.Resources.ByType "image") 0 ) }}
-    {{ $imageUrl := "" }}
+{{ $image := (index (.Resources.ByType "image") 0 ) }}
+{{ $imageUrl := "" }}
 
-    {{ if and (.Site.Params.resizeImages | default true) (.Params.resizeImages | default true) }}
-        {{ $imageUrl = ($image.Fill "700x350 q95").Permalink }}
-    {{ else }}
-        {{ $imageUrl = $image.Permalink }}
-    {{ end }}
+{{ if and (.Site.Params.resizeImages | default true) (.Params.resizeImages | default true) }}
+{{ $imageUrl = ($image.Fill "700x350 q95").Permalink }}
+{{ else }}
+{{ $imageUrl = $image.Permalink }}
+{{ end }}
 
-    {{ .Scratch.Set "image" $imageUrl }}
+{{ .Scratch.Set "image" $imageUrl }}
 
 {{ else if .Resources.GetMatch "featuredImage.*" }}
-    {{ $imageUrl := "" }}
+{{ $imageUrl := "" }}
 
-    {{ if and (.Site.Params.resizeImages | default true) (.Params.resizeImages | default true) }}
-         {{ $imageUrl = ((.Resources.GetMatch "featuredImage.*").Fill "700x350 q95").Permalink }}
-    {{ else }}
-        {{ $imageUrl = (.Resources.GetMatch "featuredImage.*").Permalink }}
-    {{ end }}
-
-    {{ .Scratch.Set "image" $imageUrl }}
-{{ else if .Params.featuredImage }}
-  {{ .Scratch.Set "image" (.Params.featuredImage | absURL) }}
-{{ else if .Params.mp4videoImage }}
-  {{ .Scratch.Set "image" (.Params.mp4videoImage | absURL) }}
+{{ if and (.Site.Params.resizeImages | default true) (.Params.resizeImages | default true) }}
+{{ $imageUrl = ((.Resources.GetMatch "featuredImage.*").Fill "700x350 q95").Permalink }}
 {{ else }}
-  {{ .Scratch.Set "image" (printf "/images/favicons/android-chrome-96x96.png") }}
+{{ $imageUrl = (.Resources.GetMatch "featuredImage.*").Permalink }}
+{{ end }}
+
+{{ .Scratch.Set "image" $imageUrl }}
+{{ else if .Params.featuredImage }}
+{{ .Scratch.Set "image" (.Params.featuredImage | absURL) }}
+{{ else if .Params.mp4videoImage }}
+{{ .Scratch.Set "image" (.Params.mp4videoImage | absURL) }}
+{{ else }}
+{{ .Scratch.Set "image" (printf "/images/favicons/android-chrome-384x384.png") }}
 {{ end }}
 
 {{- if ne .Description "" -}}
@@ -56,11 +56,11 @@
     {{ hugo.Generator }}
     <title>
         {{ block "title" . }}
-           {{ if .Scratch.Get "title" }}
-               {{ .Scratch.Get "title" }} &vert; {{ .Site.Title }}
-           {{ else }}
-               {{ .Site.Title }}
-           {{ end }}
+        {{ if .Scratch.Get "title" }}
+        {{ .Scratch.Get "title" }} &vert; {{ .Site.Title }}
+        {{ else }}
+        {{ .Site.Title }}
+        {{ end }}
         {{ end }}
     </title>
     <meta name="description" content="{{ .Scratch.Get "description" }}">
@@ -101,18 +101,21 @@
     {{ end }}
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-KKG3FMF');</script>
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KKG3FMF');</script>
     <!-- End Google Tag Manager -->
 </head>
 
 <body class="bilberry-hugo-theme">
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKG3FMF"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKG3FMF" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
     {{ partial "topnav" . }}
