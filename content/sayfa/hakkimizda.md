@@ -1,9 +1,9 @@
 ---
 title: Hakkımızda
-date: 2020-07-08T12:00:00Z
+date: 2020-07-08T12:00:00.000+00:00
 excludeFromTopNav: false
-link: ""
-target: ""
+link: ''
+target: ''
 aliases:
 - "/hakkimizda"
 - "/sayfa"
@@ -26,7 +26,7 @@ Trello Panomuz: https://trello.com/b/wrYPw7iq
 ## İletişim
 
 E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)  
-Site geliştiricisi: [omerakgoz34#3434](mailto:omerakgoz34@gmail.com) (Discord ve E-Posta)
+Site geliştiricisi: @omerakgoz34
 
 ## Yasal Uyarı
 
