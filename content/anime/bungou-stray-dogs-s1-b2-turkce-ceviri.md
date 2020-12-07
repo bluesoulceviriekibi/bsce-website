@@ -2,12 +2,11 @@
 aliases = []
 ceviriler = ["Anime"]
 date = 2020-12-07T19:18:27Z
-draft = true
 etiketler = ["Bungou Stray Dogs"]
-iframe = "https://drive.google.com/file/d/1l_2vp942KFokHd_eb6IUEePEAy6DZwSO/preview"
+iframe = "https://mega.nz/embed/qypCmRJL#CvLpbCeKXq3O_TS2rLKlud70bK5Z3NlM43pmOq1mPHk"
 title = "Bungou Stray Dogs S1 B2 Türkçe Çeviri"
 
 +++
-[https://www.turkanime.net/video/bungou-stray-dogs-2-bolum](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "https://www.turkanime.net/video/bungou-stray-dogs-2-bolum")
+Alternatif linkler: [turkanime.net/video/bungou-stray-dogs-2-bolum](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "https://www.turkanime.net/video/bungou-stray-dogs-2-bolum")
 
 Çeviren: Yoshi
