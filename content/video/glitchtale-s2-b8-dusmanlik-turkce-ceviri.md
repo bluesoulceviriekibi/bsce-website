@@ -4,11 +4,12 @@ date: 2020-07-22T17:19:26.000+00:00
 ceviriler:
 - Video
 etiketler:
-- UNDERTALE
 - Glitchtale
+- UNDERTALE
 - Dizi
-- 2D Animasyon
-iframe: https://drive.google.com/file/d/1YjLdL7Aoika_TjxQh_SAOLfC0ResXkM2/preview
+- Animasyon
+- 2D
+iframe: https://mega.nz/embed/xZAFVIbA#nGszHONQkrHY3Sq8Z_1S2ppyMz0fFcIIAf5AvAkyD1Y
 aliases:
 - "/video/dusmanlik-glitchtale-s2-b8-animasyon-tr-altyazili"
 
@@ -18,4 +19,8 @@ aliases:
 [![Yorumlar](https://img.shields.io/youtube/comments/nRZ4Qs_d11o?label=Yorumlar&style=social)](https://youtu.be/nRZ4Qs_d11o)  
 <!--more-->
 
-Yeni bölüm çıktığı zaman onlar da çevirilip sitemize eklenecektir :)
+Glitchtale dizisi [Camila Cuevas](https://www.youtube.com/c/CamilaCuevas "Camila'nın YouTube kanalı") tarafından yapılmıştır.
+
+Video kasmaları veya yavaş internet için alternatif link: [Google Drive](https://drive.google.com/file/d/1YjLdL7Aoika_TjxQh_SAOLfC0ResXkM2/preview "Google Drive ile izleyin")
+
+Yeni bölüm çıktığı zaman onlar da çevrilip sitemize eklenecektir :)
