@@ -1,6 +1,6 @@
 ---
-title: Düşmanlık - Glitchtale S2 B8 - ANİMASYON - Türkçe Altyazılı
-date: 2020-07-22T17:19:26.000Z
+title: Glitchtale S2 B8 "Düşmanlık" Türkçe Çeviri
+date: 2020-07-22T17:19:26.000+00:00
 ceviriler:
 - Video
 etiketler:
