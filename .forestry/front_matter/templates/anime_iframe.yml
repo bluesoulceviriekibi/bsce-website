@@ -44,6 +44,7 @@ fields:
   label: iframe video
   description: iframe videosunun linkini buraya koyunuz
 pages:
+- content/anime/attack-on-titan-s4-b1.md
 - content/anime/bungou-stray-dogs-s1-b1-turkce-ceviri.md
 - content/anime/bungou-stray-dogs-s1-b2-turkce-ceviri.md
 - content/anime/tate-no-yuusha-no-nariagari-s1-b1-turkce-ceviri.md
