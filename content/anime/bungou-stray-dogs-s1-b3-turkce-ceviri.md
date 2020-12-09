@@ -1,16 +1,14 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2020-12-07T19:18:27Z
-draft = true
+date = 2020-12-09T16:49:27Z
 etiketler = ["Bungou Stray Dogs"]
-iframe = "https://mega.nz/embed/qypCmRJL#CvLpbCeKXq3O_TS2rLKlud70bK5Z3NlM43pmOq1mPHk"
+iframe = "https://mega.nz/embed/O6QVGKjT#FgfcUD1R3_h_pb6LRrTtYELkVNrCdvyB0pkFjuSmBKg"
 title = "Bungou Stray Dogs S1 B3 Türkçe Çeviri"
 
 +++
 <!--more-->
 
 ## TurkAnime Linki
-[turkanime.net/video/bungou-stray-dogs-2-bolum](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "TurkAnime Linki")  
-  
-Çeviren: Yoshi
+
+[turkanime.net/video/bungou-stray-dogs-3-bolum](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "TurkAnime Linki")
