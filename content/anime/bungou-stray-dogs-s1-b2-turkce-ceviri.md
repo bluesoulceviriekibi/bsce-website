@@ -7,6 +7,9 @@ iframe = "https://mega.nz/embed/qypCmRJL#CvLpbCeKXq3O_TS2rLKlud70bK5Z3NlM43pmOq1
 title = "Bungou Stray Dogs S1 B2 Türkçe Çeviri"
 
 +++
-Video kasmaları veya yavaş internet için alternatif link: [turkanime.net](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "https://www.turkanime.net/video/bungou-stray-dogs-2-bolum")
+<!--more-->
 
+## TurkAnime Linki
+[turkanime.net/video/bungou-stray-dogs-2-bolum](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "TurkAnime Linki")  
+  
 Çeviren: Yoshi

@@ -7,4 +7,7 @@ iframe = "https://mega.nz/embed/f24yEKwD#8TapGVgOMwk1PjrKAaXTncmsh30Gmju_svqEzhq
 title = "Tate no Yuusha no Nariagari S1 B2 Türkçe Çeviri"
 
 +++
-Video kasmaları veya yavaş internet için alternatif link: [turkanime.net](https://www.turkanime.net/video/tate-no-yuusha-no-nariagari-2-bolum "https://www.turkanime.net/video/tate-no-yuusha-no-nariagari-2-bolum")
+<!--more-->
+
+## TurkAnime Linki
+[turkanime.net/video/tate-no-yuusha-no-nariagari-2-bolum](https://www.turkanime.net/video/tate-no-yuusha-no-nariagari-2-bolum "TurkAnime Linki")
