@@ -11,4 +11,4 @@ title = "Bungou Stray Dogs S1 B3 Türkçe Çeviri"
 
 ## TurkAnime Linki
 
-[turkanime.net/video/bungou-stray-dogs-3-bolum](https://www.turkanime.net/video/bungou-stray-dogs-2-bolum "TurkAnime Linki")
+[turkanime.net/video/bungou-stray-dogs-3-bolum](https://www.turkanime.net/video/bungou-stray-dogs-3-bolum "TurkAnime Linki")
