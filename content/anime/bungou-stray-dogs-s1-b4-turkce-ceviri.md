@@ -2,7 +2,6 @@
 aliases = []
 ceviriler = ["Anime"]
 date = 2020-12-11T10:07:27Z
-draft = true
 etiketler = ["Bungou Stray Dogs"]
 iframe = "https://mega.nz/embed/2igzlAJQ#1Tqw2Fq_UTvG5KbhPW3itQ5bNjdzuJASYM8UPLPn0q0"
 title = "Bungou Stray Dogs S1 B4 Türkçe Çeviri"
