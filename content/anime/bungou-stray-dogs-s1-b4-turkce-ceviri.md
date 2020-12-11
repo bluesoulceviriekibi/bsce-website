@@ -1,10 +1,10 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2020-12-09T16:49:27Z
+date = 2020-12-11T10:07:27Z
 draft = true
 etiketler = ["Bungou Stray Dogs"]
-iframe = "https://mega.nz/embed/O6QVGKjT#FgfcUD1R3_h_pb6LRrTtYELkVNrCdvyB0pkFjuSmBKg"
+iframe = "https://mega.nz/embed/2igzlAJQ#1Tqw2Fq_UTvG5KbhPW3itQ5bNjdzuJASYM8UPLPn0q0"
 title = "Bungou Stray Dogs S1 B4 Türkçe Çeviri"
 
 +++
@@ -12,4 +12,8 @@ title = "Bungou Stray Dogs S1 B4 Türkçe Çeviri"
 
 ## TurkAnime Linki
 
-[turkanime.net/video/bungou-stray-dogs-3-bolum](https://www.turkanime.net/video/bungou-stray-dogs-3-bolum "TurkAnime Linki")
+[turkanime.net/video/bungou-stray-dogs-4-bolum](https://www.turkanime.net/video/bungou-stray-dogs-4-bolum "TurkAnime Linki")
+
+Çevirmen: Yoshie  
+Encode: Penfilicious  
+Upload: omerakgoz34
