@@ -1,10 +1,9 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2020-12-11T10:07:27Z
-draft = true
-etiketler = ["Bungou Stray Dogs"]
-iframe = "https://mega.nz/embed/2igzlAJQ#1Tqw2Fq_UTvG5KbhPW3itQ5bNjdzuJASYM8UPLPn0q0"
+date = 2020-12-14T15:00:27Z
+etiketler = ["BanG Dream!"]
+iframe = "https://mega.nz/embed/n7pGSJxB#JUSgP7ZRmelXLTXxGLB0rfdU5zWoXob8UgLcPsMnKqc"
 title = "BanG Dream! S1 B1 Türkçe Çeviri"
 
 +++
@@ -12,8 +11,4 @@ title = "BanG Dream! S1 B1 Türkçe Çeviri"
 
 ## TurkAnime Linki
 
-[turkanime.net/video/bungou-stray-dogs-4-bolum](https://www.turkanime.net/video/bungou-stray-dogs-4-bolum "TurkAnime Linki")
-
-Çevirmen: Yoshie  
-Encode: Penfilicious  
-Upload: omerakgoz34
+[turkanime.net/video/bang-dream-1-bolum](https://www.turkanime.net/video/bang-dream-1-bolum "TurkAnime Linki")
