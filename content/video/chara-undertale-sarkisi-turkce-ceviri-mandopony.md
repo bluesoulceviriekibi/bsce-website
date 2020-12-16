@@ -1,8 +1,7 @@
 +++
 aliases = []
 ceviriler = ["Video"]
-date = 2020-12-16T10:00:40Z
-draft = true
+date = 2020-12-16T09:00:40Z
 etiketler = ["UNDERTALE", "Şarkı", "Chara", "MandoPony"]
 title = "\"Chara\" ► UNDERTALE ŞARKISI TÜRKÇE ÇEVİRİ - [MandoPony]"
 youtube = "xFx5bIOxLtM"
@@ -13,6 +12,14 @@ youtube = "xFx5bIOxLtM"
 [![Yorumlar](https://img.shields.io/youtube/comments/xFx5bIOxLtM?label=Yorumlar&style=social)](https://youtu.be/xFx5bIOxLtM)
 
 <!--more-->
+
+* MandoPony'nin yaptığı bu harika şarkıyı sizler için baştan Türkçe hale gitirdik. Umarız beğenirsiniz.
+* Hazırlayan: omerakgoz34
+* Web sitemiz: https://bluesoulceviriekibi.net
+* Discord sunucumuz: https://discord.com/invite/5FMfzrfz
+
+► Şarkının orijinali: https://youtube.com/watch?v=QM3hpHE28hw
+► MandoPony'nin kanalı: https://youtube.com/c/MandoPony
 
 ## Şarkının Sözleri
 
