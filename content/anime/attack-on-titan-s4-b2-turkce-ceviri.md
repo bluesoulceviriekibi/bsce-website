@@ -1,7 +1,7 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2020-12-08T10:51:47Z
+date = 2020-12-18T08:49:47Z
 etiketler = ["Attack on Titan"]
 iframe = "https://mega.nz/embed/7nxxCKbK#W2omGxCjyhkrHtJZZSxbgUG0AH5VFGQe7sPnWQLINeE"
 title = "Attack on Titan S4 B2 Türkçe Çeviri"
