@@ -14,7 +14,7 @@ youtube = "xFx5bIOxLtM"
 <!--more-->
 
 * MandoPony'nin yaptığı bu harika şarkıyı sizler için baştan Türkçe hale getirdik. Umarız beğenirsiniz.
-* Hazırlayan: omerakgoz34
+* Hazırlayan: omerakgoz34 ve Fylean
 * Discord sunucumuz: https://discord.com/invite/5FMfzrfz
 
 ► Şarkının orijinali: https://youtube.com/watch?v=QM3hpHE28hw  
