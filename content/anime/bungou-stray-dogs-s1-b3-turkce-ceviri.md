@@ -9,6 +9,10 @@ title = "Bungou Stray Dogs S1 B3 Türkçe Çeviri"
 +++
 <!--more-->
 
+Çevirmen: Yoshie  
+Encoder: Léarsai  
+Uploader: HasanH
+
 ## TurkAnime Linki
 
 [turkanime.net/video/bungou-stray-dogs-3-bolum](https://www.turkanime.net/video/bungou-stray-dogs-3-bolum "TurkAnime Linki")
