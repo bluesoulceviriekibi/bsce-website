@@ -9,5 +9,10 @@ title = "Attack on Titan S4 B1 Türkçe Çeviri"
 +++
 <!--more-->
 
+Çevirmen: Yoshie  
+Encoder: Léarsai  
+Uploader: xCyclonus
+
 ## TurkAnime Linki
+
 [turkanime.net/video/shingeki-no-kyojin-the-final-season-1-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-1-bolum "TurkAnime Linki")
