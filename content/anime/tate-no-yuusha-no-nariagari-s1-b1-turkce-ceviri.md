@@ -9,5 +9,10 @@ title = "Tate no Yuusha no Nariagari S1 B1 Türkçe Çeviri"
 +++
 <!--more-->
 
+Çevirmen: Tarık "Fatalem"  
+Encoder: xCyclonus  
+Uploader: xCyclonus
+
 ## TurkAnime Linki
+
 [turkanime.net/video/tate-no-yuusha-no-nariagari-1-bolum](https://www.turkanime.net/video/tate-no-yuusha-no-nariagari-1-bolum "TurkAnime Linki")
