@@ -9,6 +9,10 @@ title = "Attack on Titan S4 B3 Türkçe Çeviri"
 +++
 <!--more-->
 
+Çevirmen: Yoshie  
+Encoder: Penfilicious  
+Uploader xCyclonus
+
 ## TurkAnime Linki
 
 [turkanime.net/video/shingeki-no-kyojin-the-final-season-3-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-3-bolum "TurkAnime Linki")
