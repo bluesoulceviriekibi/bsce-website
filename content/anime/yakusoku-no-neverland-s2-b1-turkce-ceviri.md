@@ -1,19 +1,18 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2020-12-30T09:15:47Z
-draft = true
-etiketler = ["Attack on Titan"]
-iframe = "https://mega.nz/embed/m6IzXIqZ#SKyG0ajR7LvIIgY9dKwVyl-h4Y7fiCLmE3CfImJik7A"
+date = 2021-01-08T09:15:47Z
+etiketler = ["Yakusoku No Neverland"]
+iframe = "https://mega.nz/embed/PjACCbxZ#j1sUApi8-J3O7yyw2mfWsKys012MNuJsi4V6djrt5P8"
 title = "Yakusoku No Neverland S2 B1 Türkçe Çeviri"
 
 +++
 <!--more-->
 
-Çevirmen: Yoshie  
-Encoder: Penfilicious  
-Uploader xCyclonus
+Çevirmen: Léarsai  
+Encoder: xCyclonus  
+Uploader: xCyclonus & HasanH
 
 ## TurkAnime Linki
 
-[turkanime.net/video/shingeki-no-kyojin-the-final-season-4-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-4-bolum "TurkAnime Linki")
+[turkanime.net/video/yakusoku-no-neverland-2nd-season-1-bolum](https://www.turkanime.net/video/yakusoku-no-neverland-2nd-season-1-bolum "TurkAnime Linki")
