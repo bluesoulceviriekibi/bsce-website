@@ -1,7 +1,7 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2021-01-08T09:15:47Z
+date = 2021-01-07T21:05:47Z
 etiketler = ["Yakusoku No Neverland"]
 iframe = "https://mega.nz/embed/PjACCbxZ#j1sUApi8-J3O7yyw2mfWsKys012MNuJsi4V6djrt5P8"
 title = "Yakusoku No Neverland S2 B1 Türkçe Çeviri"
