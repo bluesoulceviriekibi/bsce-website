@@ -17,11 +17,11 @@ Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğim
 
 Trello Panomuz: https://trello.com/b/wrYPw7iq
 
-## Sosyal Medya Linklerimiz
-
-[![YouTube](https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=ffffff&label=YouTube&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=ff0000&colorB=123b97)](https://www.youtube.com/c/BlueSoul%C3%87eviriEkibi)  
-[![Instagram](https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=ffffff&label=Instagram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=purple&colorB=123b97)](https://instagram.com/bluesoulceviriekibi)  
-<iframe src="https://discordapp.com/widget?id=490540966286065674&theme=dark" allowtransparency="true" frameborder="0" style="width:100%;height:350px"></iframe>
+## Sosyal Medya
+[![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=ffffff&label=Discord&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=7289da&colorB=123b97)](https://discord.gg/geD67dzX)  
+[![Telegram](https://img.shields.io/static/v1?style=flat&logo=telegram&logoColor=ffffff&label=Telegram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=0088cc&colorB=123b97)](https://t.me/bluesoulceviriekibi)  
+[![YouTube](https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=ffffff&label=YouTube&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=ff0000&colorB=123b97)](https://youtube.com/c/BlueSoulÇeviriEkibi)  
+[![Instagram](https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=ffffff&label=Instagram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=purple&colorB=123b97)](https://instagram.com/bluesoulceviriekibi)
 
 ## İletişim
 
