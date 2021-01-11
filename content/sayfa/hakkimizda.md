@@ -26,7 +26,7 @@ Trello Panomuz: https://trello.com/b/wrYPw7iq
 
 ## İletişim
 
-Ekip işlerini Discord üzerinden yapmaktayız. Eğer ekibe katılmak isterseniz sizi Discord sunucumuza bekleriz :)
+Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız. Eğer ekibe katılmak isterseniz sizi Discord sunucumuza bekleriz :)
 
 E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)  
 Site geliştiricisi: @omerakgoz34
