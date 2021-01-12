@@ -9,11 +9,10 @@ on:
     branches: [ master ]
 
 jobs:
-  algolia:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
         with:
           submodules: true
           fetch-depth: 0
@@ -36,8 +35,14 @@ jobs:
 
       - name: Build Site
         run: hugo --gc --minify --ignoreCache --cleanDestinationDir
+      
+      - name: Deploy Site
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
 
-      - name: Upload Algolia Index
+      - name: Update Algolia Index
         run: |
           chmod +x upload_aloglia_index.sh
           ./upload_aloglia_index.sh
