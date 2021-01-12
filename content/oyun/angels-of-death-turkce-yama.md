@@ -18,7 +18,7 @@ Uzunca bir süredir Angels of Death oyununun türkçe yaması üzerinde çalış
 **Çıkış Tarihi:** 2016.12.20  
 **Yapımcı:** Hoshikuzu KRNKRN (Makoto Sanada)
 
-**Çeviri durumuna** [**buradan**](/sayfa/ceviri-durum-istek "Çeviri Durumu") **ulaşabilirsiniz.**
+**Çeviri durumuna** [**çeviri durum panomuzdan**](/sayfa/ceviri-durum-istek "Çeviri Durum Panosu") **ulaşabilirsiniz.**
 
 Bu sayfanın [_linkini_](/oyun/angels-of-death-turkce-yama "Angels of Death Türkçe Yama") arkadaşlarınızla paylaşmayı unutmayınız. Böylelikle seven diğer insanların da haberi olur :)
 
