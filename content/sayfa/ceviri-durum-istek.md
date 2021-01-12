@@ -7,13 +7,13 @@ target = ""
 title = "Çeviri Durum / İstek"
 
 +++
-Eğer çevirmemizi istediğiniz bir şey varsa aşağıdaki yorum bölümünden bize söyleyebilirsiniz :)  
+Eğer çevirmemizi istediğiniz bir şey varsa aşağıdaki yorum bölümünden bize söyleyebilirsiniz :)
 
-## Çeviri Durumu
+### Çeviri Durum Panosu
 
-Trello Panomuz: https://trello.com/b/wrYPw7iq
+[trello.com/b/wrYPw7iq/bsçe-çevirileri](https://trello.com/b/wrYPw7iq/bs%C3%A7e-%C3%A7evirileri "Çeviri Durum Panosu")
 
-## NOT
+### NOT
 
 Farklı sebeplerden ötürü istediğiniz her çeviriyi yapamayabiliriz veya kısa sürede bitiremeyebiliriz.  
 Lütfen anlayış gösterin ve çevirinin yapılması için ısrar etmeyin.
