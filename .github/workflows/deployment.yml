@@ -9,20 +9,6 @@ on:
     branches: [ master ]
 
 jobs:
-  mirror:
-    runs-on: ubuntu-latest
-    steps:
-    
-    - uses: actions/checkout@master
-
-    - name: Mirror Repo
-      uses: wei/git-sync@master
-      with:
-        source_repo: "https://omerakgoz34:${{ secrets.TOKEN }}@github.com/bluesoulceviriekibi/website.git"
-        source_branch: "master"
-        destination_repo: "https://omerakgoz34:${{ secrets.TOKEN }}@github.com/omerakgoz34/bsce-website.git"
-        destination_branch: "master"
-
   algolia:
     runs-on: ubuntu-latest
     steps:
@@ -35,7 +21,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.74.3"
+          hugo-version: "0.79.0"
           extended: true
           
       - name: Setup Python
@@ -49,7 +35,7 @@ jobs:
           pip install --upgrade "algoliasearch>=2.0,<3.0"
 
       - name: Build Site
-        run: hugo --minify --ignoreCache
+        run: hugo --gc --minify --ignoreCache --cleanDestinationDir
 
       - name: Upload Algolia Index
         run: |
