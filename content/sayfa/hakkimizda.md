@@ -13,10 +13,6 @@ aliases:
 ---
 Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları sizde seversiniz diye kar amacı gütmeden gönüllü olarak sizler için çeviriyoruz.
 
-## Çeviri Durumu
-
-Trello Panomuz: https://trello.com/b/wrYPw7iq
-
 ## Sosyal Medya
 
 [![Discord](https://img.shields.io/static/v1?style=flat&logo=discord&logoColor=ffffff&label=Discord&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=7289da&colorB=123b97)](https://discord.gg/geD67dzX)  
