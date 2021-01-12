@@ -1,19 +1,18 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2020-12-30T09:15:47Z
-draft = true
+date = 2021-01-12T04:15:47Z
 etiketler = ["Attack on Titan"]
-iframe = "https://mega.nz/embed/m6IzXIqZ#SKyG0ajR7LvIIgY9dKwVyl-h4Y7fiCLmE3CfImJik7A"
+iframe = "https://mega.nz/embed/GvxWjKiK#lDN0kgQB0B_WVvAQuY0C9RiaRs7rIZ1LxULyqMFVOho"
 title = "Attack on Titan S4 B5 Türkçe Çeviri"
 
 +++
 <!--more-->
 
 Çevirmen: Yoshie  
-Encoder: Penfilicious  
-Uploader xCyclonus
+Encoder: xCyclonus  
+Uploader HasanH ve xCyclonus
 
 ## TurkAnime Linki
 
-[turkanime.net/video/shingeki-no-kyojin-the-final-season-4-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-4-bolum "TurkAnime Linki")
+[turkanime.net/video/shingeki-no-kyojin-the-final-season-5-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-5-bolum "TurkAnime Linki")
