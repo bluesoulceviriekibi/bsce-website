@@ -1,6 +1,6 @@
 ---
 title: Hakkımızda
-date: 2020-07-08T12:00:00.000+00:00
+date: 2018-01-01T15:00:00+03:00
 excludeFromTopNav: false
 link: ''
 target: ''
