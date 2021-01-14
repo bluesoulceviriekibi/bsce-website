@@ -1,13 +1,10 @@
 ---
-title: "Çeviriler"
-date: 2020-07-08T14:00:00Z
-draft: false
+title: Çeviriler
+date: 2018-01-01T17:00:00+03:00
 excludeFromTopNav: false
-
-aliases: ["/ceviri"]
-
-# set the link if you want to redirect the user.
+aliases:
+- "/ceviri"
 link: "/ceviriler"
-# set the html target parameter if you want to change default behavior
-target: "_self"
+target: _self
+
 ---
