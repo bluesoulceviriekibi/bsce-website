@@ -11,7 +11,7 @@ aliases:
 - "/sayfa/yeni-sitemiz-nasil-olmus"
 
 ---
-Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları sizde seversiniz diye kar amacı gütmeden gönüllü olarak sizler için çeviriyoruz.
+Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları siz de seversiniz diyerekten sizler için çeviriyoruz.
 
 ## Sosyal Medya
 
