@@ -36,12 +36,6 @@ jobs:
       - name: Build Site
         run: hugo --gc --minify --ignoreCache --cleanDestinationDir
       
-      - name: Deploy Site
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
-
       - name: Update Algolia Index
         run: |
           chmod +x upload_aloglia_index.sh
@@ -49,3 +43,9 @@ jobs:
         env:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+      
+      - name: Deploy Site
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
