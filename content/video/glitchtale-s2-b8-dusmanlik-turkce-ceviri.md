@@ -9,7 +9,7 @@ etiketler:
 - Dizi
 - Animasyon
 - 2D
-iframe: https://mega.nz/embed/xZAFVIbA#nGszHONQkrHY3Sq8Z_1S2ppyMz0fFcIIAf5AvAkyD1Y
+iframe: https://drive.google.com/file/d/1YjLdL7Aoika_TjxQh_SAOLfC0ResXkM2/preview
 aliases:
 - "/video/dusmanlik-glitchtale-s2-b8-animasyon-tr-altyazili"
 
