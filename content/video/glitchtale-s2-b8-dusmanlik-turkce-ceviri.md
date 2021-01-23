@@ -21,6 +21,4 @@ aliases:
 
 Glitchtale dizisi [Camila Cuevas](https://www.youtube.com/c/CamilaCuevas "Camila'nın YouTube kanalı") tarafından yapılmıştır.
 
-Video kasmaları veya yavaş internet için alternatif link: [Google Drive](https://drive.google.com/file/d/1YjLdL7Aoika_TjxQh_SAOLfC0ResXkM2/preview "Google Drive ile izleyin")
-
 Yeni bölüm çıktığı zaman onlar da çevrilip sitemize eklenecektir :)
