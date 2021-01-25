@@ -1,6 +1,6 @@
 ---
 title: Hakkımızda
-date: 2018-01-01T15:00:00+03:00
+date: 2018-01-01T15:00:00.000+03:00
 excludeFromTopNav: false
 link: ''
 target: ''
@@ -27,8 +27,10 @@ Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız
 E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)  
 Site geliştiricisi: @omerakgoz34
 
+## Bilgilendirme
+
+MEGA tarayıcı eklentisi kullanıyorsanız bazen MEGA'ya yüklenen videoları oynatma konusunda sıkıntı çıkarabiliyor. Böyle bir sorun yaşarsanız sayfayı gizli sekmede açmayı deneyebilir veya eklentiyi devre dışı bırakabilirsiniz.
+
 ## Yasal Uyarı
 
 İçeriklerimizi izinsiz paylaşmayınız. Paylaşım durumunda ya izin alınması ya da sitemizin linkinin konulması gerekmektedir.
-
-Site hakkındaki geri bildirimlerinizi de aşağıdaki yorumlar kısmına yazabilirsiniz.
