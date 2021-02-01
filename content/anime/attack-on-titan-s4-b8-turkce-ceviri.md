@@ -1,10 +1,10 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2021-01-26T11:17:47Z
+date = 2021-02-01T13:54:47Z
 draft = true
 etiketler = ["Attack on Titan"]
-iframe = "https://mega.nz/embed/Gu5mGA6A#Dkd82bkzv_LOAw-CBt5eiu4aXvQUp2yfaVeVxCxkgxA"
+iframe = "https://mega.nz/embed/juojzCCR#AZ4mBfV0owUa7i8FdFtGDLJOpMqCCaVwPQkukAvT2YU"
 title = "Attack on Titan S4 B8 Türkçe Çeviri"
 
 +++
@@ -16,4 +16,4 @@ Uploader omerakgoz34
 
 ## TurkAnime Linki
 
-[turkanime.net/video/shingeki-no-kyojin-the-final-season-7-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-7-bolum "TurkAnime Linki")
+[turkanime.net/video/shingeki-no-kyojin-the-final-season-8-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-8-bolum "TurkAnime Linki")
