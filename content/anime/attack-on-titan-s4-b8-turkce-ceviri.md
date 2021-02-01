@@ -2,7 +2,6 @@
 aliases = []
 ceviriler = ["Anime"]
 date = 2021-02-01T13:54:47Z
-draft = true
 etiketler = ["Attack on Titan"]
 iframe = "https://mega.nz/embed/juojzCCR#AZ4mBfV0owUa7i8FdFtGDLJOpMqCCaVwPQkukAvT2YU"
 title = "Attack on Titan S4 B8 Türkçe Çeviri"
