@@ -13,6 +13,11 @@ title = "Attack on Titan S4 B8 Türkçe Çeviri"
 Encoder: omerakgoz34  
 Uploader omerakgoz34
 
-## TurkAnime Linki
+## Alternatif Linkler
 
-[turkanime.net/video/shingeki-no-kyojin-the-final-season-8-bolum](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-8-bolum "TurkAnime Linki")
+[TurkAnime](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-8-bolum "TurkAnime Linki")
+
+[Google Drive](https://drive.google.com/file/d/1GGU4ASc3oOQ29P33icsY8EyxJ3sz11mO/preview "Google Drive Linki")  
+[Fembed](https://www.fembed.com/v/znlxkhj15lqm074 "Fembed Linki")  
+[Sibnet](https://video.sibnet.ru/video4222237 "Sibnet Linki")  
+[MyStream](https://mystream.to/watch/91rgsgmjdhm2 "MyStream Linki")
