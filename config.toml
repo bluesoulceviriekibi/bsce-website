@@ -114,6 +114,7 @@ disqusShortname = "bluesoulceviriekibi"
     socialMediaLinks = [
       { link = "https://youtube.com/c/BlueSoulÇeviriEkibi", icon = "fab fa-youtube" },
       { link = "https://discord.gg/ZjvWWhU", icon = "fab fa-discord" },
+      { link = "https://t.me/bluesoulceviriekibi", icon = "fab fa-telegram" },
       { link = "https://instagram.com/bluesoulceviriekibi", icon = "fab fa-instagram"}
     ]
 
