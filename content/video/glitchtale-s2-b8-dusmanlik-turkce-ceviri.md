@@ -9,7 +9,7 @@ etiketler:
 - Dizi
 - Animasyon
 - 2D
-iframe: https://drive.google.com/file/d/1YjLdL7Aoika_TjxQh_SAOLfC0ResXkM2/preview
+iframe: https://drive.google.com/file/d/1JWoeWL7NacmSLEjuD81uRZhRXKDxgMPz/preview
 aliases:
 - "/video/dusmanlik-glitchtale-s2-b8-animasyon-tr-altyazili"
 
@@ -19,8 +19,8 @@ aliases:
 [![Yorumlar](https://img.shields.io/youtube/comments/nRZ4Qs_d11o?label=Yorumlar&style=social)](https://youtu.be/nRZ4Qs_d11o)  
 <!--more-->
 
-Glitchtale dizisi [Camila Cuevas](https://www.youtube.com/c/CamilaCuevas "Camila'nın YouTube kanalı") tarafından yapılmıştır.
-
 [MEGA Yedek Link](https://mega.nz/embed/UVpW3BjR#x9W7qDr7wkoyitp-TD0yUdNEWpwl8MzOzNhKLQlnxtU) (site belki videoyu açamayabilir ama indirip izleyebilirsiniz)
+
+Glitchtale dizisi [Camila Cuevas](https://www.youtube.com/c/CamilaCuevas "Camila'nın YouTube kanalı") tarafından yapılmıştır.
 
 Yeni bölüm çıktığı zaman onlar da çevrilip sitemize eklenecektir :)
