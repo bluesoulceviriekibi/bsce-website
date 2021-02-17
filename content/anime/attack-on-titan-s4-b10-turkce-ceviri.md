@@ -1,10 +1,9 @@
 +++
 aliases = []
 ceviriler = ["Anime"]
-date = 2021-02-08T18:14:47Z
-draft = true
+date = 2021-02-17T13:31:47Z
 etiketler = ["Attack on Titan"]
-iframe = "https://mega.nz/embed/C3hFUQ4b#aPwfUn38XEV7KnEt-7KPI8MNSEeKYhqW9XUqhw6IF84"
+iframe = "https://mega.nz/embed/QZJAgBwT#b07ZDQRW5TjBenJA16EsCqtW2tnF7NAMq9UqurkuDUc"
 title = "Attack on Titan S4 B10 Türkçe Çeviri"
 
 +++
@@ -16,9 +15,9 @@ Uploader omerakgoz34
 
 ## Alternatif Linkler
 
-[TurkAnime](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-9-bolum "TurkAnime Linki")
+[TurkAnime](https://www.turkanime.net/video/shingeki-no-kyojin-the-final-season-10-bolum "TurkAnime Linki")
 
-[Google Drive](https://drive.google.com/file/d/1xmjZOmX_CCB5FiGHwweN9sI12kCxClr_/preview "Google Drive Linki")  
-[Sibnet](https://video.sibnet.ru/video4228110 "Sibnet Linki")  
-[Fembed](https://www.fembed.com/v/lr578uneyl3ln1j "Fembed Linki")  
-[MyStream](https://mystream.to/watch/kp8z25qqevtv "MyStream Linki")
+[Google Drive](https://drive.google.com/file/d/1RPcyARAE97NTwwwvWi9C2nwgtfS5LYSG/preview "Google Drive Linki")  
+[Sibnet](https://video.sibnet.ru/video4234757 "Sibnet Linki")  
+[Fembed](https://www.fembed.com/v/5xr-kudew-gjqwx "Fembed Linki")  
+[MyStream](https://mystream.to/watch/kymp65uv68jh "MyStream Linki")
