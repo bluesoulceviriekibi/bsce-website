@@ -11,7 +11,7 @@ title = "Attack on Titan S4 B9 Türkçe Çeviri"
 
 Çevirmen: Yoshie  
 Encoder: omerakgoz34  
-Uploader omerakgoz34
+Uploader: omerakgoz34
 
 ## Alternatif Linkler
 

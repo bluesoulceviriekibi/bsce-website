@@ -11,7 +11,7 @@ title = "Attack on Titan S4 B4 Türkçe Çeviri"
 
 Çevirmen: Yoshie  
 Encoder: Penfilicious  
-Uploader xCyclonus
+Uploader: xCyclonus
 
 ## TurkAnime Linki
 
