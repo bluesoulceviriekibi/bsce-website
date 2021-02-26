@@ -96,11 +96,11 @@ disqusShortname = "bluesoulceviriekibi"
 
     # How many articles should be displayed at latest posts in the footer?
     # Set to -1 to hide the 'Latest Posts' column
-    amountLatestPostsInFooter = 9
+    amountLatestPostsInFooter = 10
 
     # How many categories should be displayed in the footer section?
     # Set to -1 to hide the 'Categories' column
-    amountCategoriesInFooter = 8
+    amountCategoriesInFooter = 10
 
     # show a language chooser in the footer
     showFooterLanguageChooser = false
