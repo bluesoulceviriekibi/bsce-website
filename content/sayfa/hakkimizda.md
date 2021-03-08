@@ -1,6 +1,6 @@
 ---
 title: Hakkımızda
-date: 2018-01-01T15:00:00.000+03:00
+date: 2018-01-01T14:00:00+03:00
 excludeFromTopNav: false
 link: ''
 target: ''
