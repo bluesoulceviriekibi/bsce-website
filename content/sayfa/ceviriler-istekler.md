@@ -1,5 +1,5 @@
 +++
-aliases = ["/ceviri_istek", "/sayfa/ceviri-durum-istek", "/ceviri", "/sayfa/ceviri", "/ceviriler", "/sayfa/ceviriler"]
+aliases = ["/ceviri_istek", "/sayfa/ceviri-durum-istek", "/ceviri", "/sayfa/ceviri", "/ceviriler", "/sayfa/ceviriler", "/ceviri-durum-istek"]
 date = 2018-01-01T13:00:00Z
 excludeFromTopNav = false
 link = ""
