@@ -4,7 +4,7 @@ date = 2018-01-01T13:00:00Z
 excludeFromTopNav = false
 link = ""
 target = ""
-title = "Çeviriler ve İstek"
+title = "Çeviriler ve İstekler"
 
 +++
 ## Çeviriler
