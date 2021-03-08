@@ -1,12 +1,20 @@
 +++
-aliases = ["/ceviri_istek", "/sayfa/ceviri-durum-istek"]
+aliases = ["/ceviri_istek", "/sayfa/ceviri-durum-istek", "/ceviri", "/sayfa/ceviri", "/ceviriler", "/sayfa/ceviriler"]
 date = 2018-01-01T13:00:00Z
 excludeFromTopNav = false
 link = ""
 target = ""
-title = "Çeviri Durum / İstek"
+title = "Çeviriler ve İstek"
 
 +++
+## Çeviriler
+
+* [Oyunlar](/ceviriler/oyun "Oyun Çevirileri")
+* [Animeler](/ceviriler/anime "Anime Çevirileri")
+* [Videolar](/ceviriler/video "Video Çevirileri")
+
+## Çeviri İstek
+
 Eğer çevirmemizi istediğiniz bir şey varsa aşağıdaki yorum bölümünden bize söyleyebilirsiniz. Lütfen istekte bulunmadan önce aşağıdaki çeviri durum panosundaki istek listesinde istediğiniz şeyin ekli olup olmadığını kontrol ediniz.
 
 👉 [Çeviri Durum Panosu](https://trello.com/b/wrYPw7iq/%C3%A7eviri-durum-panosu "Çeviri Durum Panosu") 👈
