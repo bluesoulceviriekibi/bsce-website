@@ -17,6 +17,6 @@ title = "Çeviriler ve İstekler"
 
 Eğer çevirmemizi istediğiniz bir şey varsa aşağıdaki yorum bölümünden bize söyleyebilirsiniz. Lütfen istekte bulunmadan önce aşağıdaki çeviri durum panosundaki istek listesinde istediğiniz şeyin ekli olup olmadığını kontrol ediniz.
 
-👉 [Çeviri Durum Panosu](https://trello.com/b/wrYPw7iq/%C3%A7eviri-durum-panosu "Çeviri Durum Panosu") 👈
+👉 [Çeviri Durum Panosu](/ceviri-panosu "Çeviri Durum Panosu") 👈
 
 Farklı sebeplerden ötürü istediğiniz her çeviriyi yapamayabiliriz veya kısa sürede bitiremeyebiliriz. Gönüllü olarak çalışan bir ekip olduğumuz için lütfen anlayış gösteriniz.
