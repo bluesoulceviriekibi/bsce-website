@@ -58,6 +58,7 @@ fields:
   description: Bu seçenek linkin nasıl açılacağını belirler.<br>self = link tıklandığında
     aynı pencerede açılır.<br>blank = link tıklandığında yeni pencerede açılır.
 pages:
+- content/sayfa/ceviri-panosu.md
 - content/sayfa/deltarune-turkce-android-kurulumu.md
 - content/sayfa/deltarune-turkce-linux-kurulumu.md
 - content/sayfa/deltarune-turkce-windows-kurulumu.md
