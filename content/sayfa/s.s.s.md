@@ -1,15 +1,17 @@
 +++
-aliases = ["/ceviri_istek", "/sayfa/ceviri-istek"]
-date = 2018-01-01T13:00:00Z
-draft = true
+aliases = []
+date = 2018-01-01T12:00:00Z
 excludeFromTopNav = false
 link = ""
 target = ""
 title = "S.S.S."
 
 +++
-Eğer çevirmemizi istediğiniz bir şey varsa aşağıdaki yorum bölümünden bize söyleyebilirsiniz. Lütfen istekte bulunmadan önce aşağıdaki çeviri durum panosundaki istek listesinde istediğiniz şeyin ekli olup olmadığını kontrol ediniz.
+# Sıkça Sorulan Sorular
 
-👉 [Çeviri Durum Panosu](https://trello.com/b/wrYPw7iq/%C3%A7eviri-durum-panosu "Çeviri Durum Panosu") 👈
+* **Deltarune'un 2. bölümünü de çevirecek misiniz?**
 
-Farklı sebeplerden ötürü istediğiniz her çeviriyi yapamayabiliriz veya kısa sürede bitiremeyebiliriz. Gönüllü olarak çalışan bir ekip olduğumuz için lütfen anlayış gösteriniz.
+  Evet, çıktığı zaman bütün bölümleri çevirmeye çalışacağız.
+* **Deltarune 2. bölüm ne zaman çıkacak?**
+
+  Net bir tarih yok henüz ama Toby Fox'un söylediklerine göre muhtemelen kalan bütün bölümler aynı anda yayımlanacak.
