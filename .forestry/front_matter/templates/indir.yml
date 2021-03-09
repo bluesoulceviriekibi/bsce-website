@@ -6,11 +6,13 @@ fields:
 - name: title
   type: text
   config:
-    required: false
+    required: true
     min: 
   label: Başlık
   default: İndirme başlatılıyor...
-  hidden: true
+  hidden: false
+  description: Önce indirme linkinin adını yazıp kaydedin ve sonra "İndirme başlatılıyor..."
+    yazıp yayımlayın.
 - name: date
   type: datetime
   label: Tarih
