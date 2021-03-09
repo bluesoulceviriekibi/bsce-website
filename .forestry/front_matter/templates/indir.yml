@@ -6,10 +6,11 @@ fields:
 - name: title
   type: text
   config:
-    required: true
+    required: false
     min: 
   label: Başlık
-  default: Yeni İndirme Linki
+  default: İndirme başlatılıyor...
+  hidden: true
 - name: date
   type: datetime
   label: Tarih
