@@ -48,6 +48,14 @@ sections:
   exclude: _index*
   templates:
   - sayfa
+- type: directory
+  path: content/indir
+  label: İndirme Linki
+  create: all
+  match: "**/*"
+  exclude: _index*
+  templates:
+  - indir
 upload_dir: website/assets
 public_path: https://res.cloudinary.com/bluesoulceviriekibi/image/upload
 front_matter_path: ''

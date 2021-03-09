@@ -1,0 +1,52 @@
+---
+label: İndirme Linki
+hide_body: false
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    min: 
+  label: Başlık
+  default: Yeni İndirme Linki
+- name: date
+  type: datetime
+  label: Tarih
+  description: ''
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: aliases
+  type: tag_list
+  default: []
+  label: Kısayollar
+  description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
+    /ceviri/deltarune'
+- name: link
+  type: text
+  config:
+    required: false
+  label: Link
+  description: Eğer bu sayfayı bir link kısayolu olarak kullanmak istiyorsanız buraya
+    linki girebilirsiniz.
+- name: target
+  type: select
+  default: _blank
+  config:
+    required: false
+    options:
+    - _self
+    - _blank
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Link Hedefi
+  hidden: false
+  description: Bu seçenek linkin nasıl açılacağını belirler.<br>self = link tıklandığında
+    aynı pencerede açılır.<br>blank = link tıklandığında yeni pencerede açılır.

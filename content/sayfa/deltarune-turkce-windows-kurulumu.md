@@ -20,12 +20,10 @@ title = "Deltarune Türkçe Windows Kurulumu"
 
 ## İndirme Linkleri
 
-* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yukleyici_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.exe "Windows için Yükleyici")  
-  MD5: 259a6d57f333dc8c20f8bb2df9db72cf
-* [Windows için Yama (Sadece Yama - 10 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/deltarune_v3.0.0/Deltarune_Turkce_Windows_Yama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip "Windows için Yama")  
-  MD5: 73d5aaa7bcc49a081214c8cd6a59dc9a
+* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](/indir/deltarune-b1-windows-yukleyici "Windows için Yükleyici")  
+* [Windows için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-windows-yama "Windows için Yama")  
 * Visual C++ 2015-2019  
-  [x64 (64-bit)](https://aka.ms/vs/16/release/vc_redist.x64.exe "MSVC 2019 64-bit") --- [x86 (32-bit)](https://aka.ms/vs/16/release/vc_redist.x86.exe "MSVC 2019 32-bit")
+  [x64 (64-bit)](/indir/vc-redist-x64.exe "MSVC 2019 64-bit") --- [x86 (32-bit)](/indir/vc-redist-x86.exe "MSVC 2019 32-bit")
 
 ## Yükleyiciyle Kurulum
 

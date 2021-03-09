@@ -62,5 +62,4 @@ Paketleme ve Yayınlama
 
 Yama sürümü: v1 - 2020.04.10
 
-* [Windows için Yükleyici (Oyun ve Yama - 9 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/the_aftermath/The_Aftermath_Turkce_Oto-Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  
-  MD5: 8c83a1477ef92592129b7112a7599521
+* [Windows için Yükleyici (Oyun ve Yama - 9 MB)](/indir/the-aftermath-windows-yukleyici "The Aftermath Windows")  

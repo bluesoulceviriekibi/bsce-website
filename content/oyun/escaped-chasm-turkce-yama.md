@@ -79,5 +79,4 @@ Paketleme ve Yayınlama
 
 Yama sürümü: v2 - 2020.04.13
 
-* [Windows için Yükleyici (Oyun ve Yama - 110 MB)](https://github.com/bluesoulceviriekibi/cdn/releases/download/escaped_chasm_v2/Escaped_Chasm_Turkce_v2_Yukleyici_BlueSoul_Ceviri_Ekibi.exe)  
-  MD5: 324b6cb6955e06cfb06d5125b01d718f
+* [Windows için Yükleyici (Oyun ve Yama - 110 MB)](/indir/escaped-chasm-windows-yukleyici "Escaped Chasm Windows")  
