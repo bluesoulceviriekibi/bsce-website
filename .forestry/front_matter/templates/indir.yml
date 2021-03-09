@@ -51,5 +51,3 @@ fields:
   hidden: false
   description: Bu seçenek linkin nasıl açılacağını belirler.<br>self = link tıklandığında
     aynı pencerede açılır.<br>blank = link tıklandığında yeni pencerede açılır.
-pages:
-- content/indir/i-ndirme-baslatiliyor.md
