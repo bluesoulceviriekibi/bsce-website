@@ -9,10 +9,9 @@ fields:
     required: true
     min: 
   label: Başlık
-  default: İndirme başlatılıyor...
+  default: Yeni İndirme Linki
   hidden: false
-  description: Önce indirme linkinin adını yazıp kaydedin ve sonra "İndirme başlatılıyor..."
-    yazıp yayımlayın.
+  description: ''
 - name: date
   type: datetime
   label: Tarih
