@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 {{ $allNonExcludedPages := where .Site.RegularPages "Params.excludefromindex" "==" nil }}
-{{ $allNonExcludedPagesNotTypePage := (where .Site.RegularPages "Type" "ne" "sayfa" | intersect $allNonExcludedPages) }}
+{{ $allNonExcludedPagesNotTypePage := (where (where .Site.RegularPages "Type" "ne" "sayfa" | intersect $allNonExcludedPages) "Type" "ne" "sayfa" | intersect $allNonExcludedPages) }}
 {{ $paginator := .Paginate $allNonExcludedPagesNotTypePage (index .Site.Params "paginate" | default 7) }}
 
     {{ if .Site.Params.pinnedPost }}

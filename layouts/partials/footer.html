@@ -6,7 +6,7 @@
         <div class="recent-posts">
             <a href="{{ "/" | relLangURL }}"><strong>{{ i18n "latestPosts" }}</strong></a>
             <ul>
-                {{ range where (where (first (.Site.Params.amountLatestPostsInFooter | default 7) .Site.Pages.ByPublishDate.Reverse) ".Kind" "page") ".Type" "ne" "sayfa" }}
+                {{ range where (where (where (first (.Site.Params.amountLatestPostsInFooter | default 7) .Site.Pages.ByPublishDate.Reverse) ".Kind" "page") ".Type" "ne" "sayfa") ".Type" "ne" "indir" }}
                 <li>
                     <a href="{{ .Permalink }}">{{ .Title }}</a>
                 </li>

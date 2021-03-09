@@ -1,6 +1,6 @@
 {{ define "main" }}
-    {{ $paginator := .Paginate (where .Data.Pages "Type" "ne" "sayfa") (index .Site.Params "paginate" | default 7) }}
-    {{ range  where .Paginator.Pages "Type" "ne" "sayfa" }}
+    {{ $paginator := .Paginate (where (where .Data.Pages "Type" "ne" "sayfa") "Type" "ne" "indir") (index .Site.Params "paginate" | default 7) }}
+    {{ range where (where .Paginator.Pages "Type" "ne" "sayfa") "Type" "ne" "sayfa" }}
         {{ .Scratch.Set "singlePage" false }} <!-- RESET singlePage variable -->
         <div class="article-wrapper u-cf">
             {{  if (fileExists (print "layouts/partials/content-type/" .Type ".html")) }}

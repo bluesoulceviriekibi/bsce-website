@@ -12,27 +12,15 @@
     {{- $.Scratch.Add "index" (dict "url" (print "/etiketler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-tag" "type" "etiket" "objectID" (print "/etiketler/" $name | absURL) ) -}}
 {{- end -}}
 
-{{- range where .Site.RegularPages "Type" "not in" (slice "sayfa" "json") -}}
+{{- range where (where .Site.RegularPages "Type" "not in" (slice "sayfa" "json")) "Type" "not in" (slice "indir" "json") -}}
     {{-  $iconClass := "fa-file" -}}
 
     {{- if eq .Type "anime" -}}
         {{- $iconClass = "fa-video" -}}
-    {{- else if eq .Type "duyuru" -}}
-        {{- $iconClass = "fa-bullhorn" -}}
-    {{- else if eq .Type "galeri" -}}
-        {{- $iconClass = "fa-camera" -}}
-    {{- else if eq .Type "link" -}}
-        {{- $iconClass = "fa-link" -}}
     {{- else if eq .Type "oyun" -}}
         {{- $iconClass = "fa-gamepad" -}}
-    {{- else if eq .Type "resim" -}}
-        {{- $iconClass = "fa-camera" -}}
-    {{- else if eq .Type "ses" -}}
-        {{- $iconClass = "fa-music" -}}
     {{- else if eq .Type "video" -}}
         {{- $iconClass = "fa-video" -}}
-    {{- else if eq .Type "yazi" -}}
-        {{- $iconClass = "fa-pencil-alt" -}}
     {{- end -}}
 
     {{- range .Translations -}}
