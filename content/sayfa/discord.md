@@ -1,10 +1,9 @@
 +++
-aliases = ["/ceviri-panosu"]
+aliases = ["/discord-davet-linki", "/discord", "/discord-sunucusu"]
 date = 2021-03-08T21:20:49Z
-draft = true
 excludeFromTopNav = true
-link = "https://trello.com/b/wrYPw7iq/%C3%A7eviri-durum-panosu"
+link = "https://discord.gg/ZjvWWhU"
 target = "_self"
-title = "Discord Davet Linki"
+title = "Discord Sunucusu Davet Linki"
 
 +++
