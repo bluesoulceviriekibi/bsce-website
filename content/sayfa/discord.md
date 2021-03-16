@@ -7,3 +7,6 @@ target = "_self"
 title = "Discord Sunucusu Davet Linki"
 
 +++
+Davet linkine yönlendiriliyorsunuz...
+
+Hala yönlendirilmediyseniz [buraya](https://discord.gg/ZjvWWhU "Discord Sunucusu Davet Linki") tıklayınız.
