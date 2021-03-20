@@ -20,10 +20,10 @@ title = "Deltarune Türkçe Windows Kurulumu"
 
 ## İndirme Linkleri
 
-* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](/indir/deltarune-b1-windows-yukleyici "Windows için Yükleyici")  
-* [Windows için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-windows-yama "Windows için Yama")  
+* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](/indir/deltarune-b1-windows-yukleyici "Windows için Yükleyici")
+* [Windows için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-windows-yama "Windows için Yama")
 * Visual C++ 2015-2019  
-  [x64 (64-bit)](/indir/vc-redist-x64.exe "MSVC 2019 64-bit") --- [x86 (32-bit)](/indir/vc-redist-x86.exe "MSVC 2019 32-bit")
+  [x64 (64-bit)](/indir/vc-redist-x64 "MSVC 2019 64-bit") --- [x86 (32-bit)](/indir/vc-redist-x86 "MSVC 2019 32-bit")
 
 ## Yükleyiciyle Kurulum
 
