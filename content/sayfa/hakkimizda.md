@@ -24,8 +24,8 @@ Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğim
 
 Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız. Eğer ekibe katılmak isterseniz sizi Discord sunucumuza bekleriz :)
 
-E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com)  
-Site geliştiricisi: @omerakgoz34
+E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com) (@bluesoulceviriekibi)  
+Site geliştiricisi: [omerakgoz34@gmail.com](mailto:omerakgoz34@gmail.com) (@omerakgoz34)
 
 ## Bilgilendirme
 
