@@ -1,7 +1,6 @@
 +++
 aliases = []
 date = 2021-04-07T22:12:47Z
-draft = true
 excludeFromTopNav = true
 link = ""
 target = ""
