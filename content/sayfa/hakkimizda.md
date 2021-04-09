@@ -29,7 +29,7 @@ Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız
 
 ## 💲Bağış ;)
 
-* **CoinBase**: @bluesoulceviriekibi
+* **CoinBase Wallet**: @bluesoulceviriekibi
 * [**Kripto Para Adreslerimiz**](/sayfa/kripto-para-adreslerimiz "Adreslerimize ulaşmak için tıklayınız")
 
 ## 📢 Bilgilendirme
