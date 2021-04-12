@@ -15,6 +15,7 @@ featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597
 aliases:
 - "/ceviri/escaped_chasm"
 - "/ceviri/escaped_chasm.html"
+- "/escaped_chasm"
 
 ---
 <!--more-->
@@ -79,4 +80,4 @@ Paketleme ve Yayınlama
 
 Yama sürümü: v2 - 2020.04.13
 
-* [Windows için Yükleyici (Oyun ve Yama - 110 MB)](/indir/escaped-chasm-windows-yukleyici "Escaped Chasm Windows")  
+* [Windows için Yükleyici (Oyun ve Yama - 110 MB)](/indir/escaped-chasm-windows-yukleyici "Escaped Chasm Windows")
