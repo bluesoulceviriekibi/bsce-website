@@ -24,7 +24,7 @@ aliases:
 
 Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir kız hakkında küçük bir RPGMaker oyunu.
 
-<iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/lq8iiOThLyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/jhOxWtVw1yQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Yapımcı: Temmie Chang**  
 **Oyun içi müzikler: Toby Fox**
