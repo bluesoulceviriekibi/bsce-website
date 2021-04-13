@@ -56,7 +56,7 @@ Ekstra Medya
 
 Paketleme ve Yayınlama
 
-* Ömer Akgöz (34)
+* omerakgoz34
 
 ***
 
@@ -64,7 +64,7 @@ Paketleme ve Yayınlama
 
 1. Ayarlardan sürekli koşmayı kapatın(OFF), aksi taktirde ilerlerken oyun çökebilir. (yamadan kaynaklı değildir)
 2. Oyun dosyalarında Extra / GUIDE(REHBER) klasöründe oyunun nasıl oynanacağı ve farklı sonların nasıl yapılacağı hakkında resimli rehber bulunmaktadır.
-3. Oyunu, "Program Files" gibi yönetici izini isteyen klasörlere yüklemeyiniz. Aksi taktirde oyun ilerlemeyi ve ayarları kaydederken hata verebilir.
+3. Oyunu, "Program Files" gibi yönetici izini isteyen klasörlere yüklemeyiniz. Aksi taktirde oyun ilerlemeyi ve ayarları kaydederken hata verebilir. _C:\\Users\\KullanıcıAdı\\AppData\\Local\\Programs\\EscapedChasm_ gibi sizin kullanıcı klasörünüzün içindeki bir yere yükleyebilirsiniz.
 4. Oyundaki animasyonlar, ara sahneler bazen oyunun donmasına/çökmesine sebep olabilir. (yamadan kaynaklı degildir)
 
 ***
