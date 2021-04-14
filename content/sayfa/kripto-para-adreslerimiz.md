@@ -7,14 +7,7 @@ target = ""
 title = "Kripto Para Adreslerimiz"
 
 +++
-* **ETH**: 0xf29DE5d14Ff9c533be4a1D3F33EAC287A4dEBF77
-* **BTC**: bc1qv280rec45ysfqynudxswe6g5ql2xqv067x00dg
-
-  14Tvv31mytEcG7fw3sBSNkxDyAUCpEa5e2
-* **DOGE**: DSFEhZ8V5BZY3A5PGzeNX3ou7NpovWXGna
-* **USDC**: 0xf29DE5d14Ff9c533be4a1D3F33EAC287A4dEBF77
-* **BCH**: bitcoincash:qrnyxgxxsp4tmhknrq5klyem48r6zzka6ghuw0v0gy
-
-  14Tvv31mytEcG7fw3sBSNkxDyAUCpEa5e2
-* **UNI**: 0xf29DE5d14Ff9c533be4a1D3F33EAC287A4dEBF77
-* **XRP**: rwqhZveNkXMHCJF2L9XSoX7puuVkdFAvDE
+* **Ethereum**: 0x4F8FC2e7aDc4C70c78cfe5487FaD5633A2aC8108
+* **Bitcoin**: bc1qnc0k3qr85vuma0v55ddngtqdfhq74l7xssrdhk
+* **Dogecoin**: D8xvrm8T9N7Phej98xfAwbfjHu3Jxmjmtz
+* **Litecoin**: ltc1qhnu6a0mklauc44r0e2pned8cpvtrcha20elu3r
