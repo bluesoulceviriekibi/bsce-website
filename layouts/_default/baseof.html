@@ -89,8 +89,8 @@
     {{ end }}
 
     <link rel="stylesheet" href="{{ "theme.css" | absURL }}">
-    <link rel="preload" href="theme.css" as="style">
-    <link rel="preload" href="theme.js" as="script">
+    <link rel="preload" href="{{ "theme.css" | absURL }}" as="style">
+    <link rel="preload" href="{{ "theme.js" | absURL }}" as="script">
 
     {{ partial "twitter-card" . }}
 
