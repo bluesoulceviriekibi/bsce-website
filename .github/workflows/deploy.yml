@@ -7,6 +7,7 @@ on:
     branches: [ master ]
   create:
     branches: [ master ]
+  workflow_dispatch:
 
 jobs:
   deploy:
