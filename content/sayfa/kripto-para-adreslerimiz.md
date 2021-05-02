@@ -13,4 +13,4 @@ title = "Kripto Para Adreslerimiz"
 * **Bitcoin Cash**: qrf89ruhk4f4pftxfq30d3c8rezd2wegrcj22ahr7j
 * **Dogecoin**: DTXfioCjh8yRBPdJ1WHW3YzygYddXvyiMS
 * **Litecoin**: ltc1qwz0fv5dlmfsg4ck6kasfpszl5zgke2c4f5ffwj
-* **XRP**: radrXhJbnw9Q3Rmsbk3rz5dMpB3HS3FDsf
+* **Ripple**: radrXhJbnw9Q3Rmsbk3rz5dMpB3HS3FDsf
