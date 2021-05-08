@@ -24,3 +24,6 @@ title = "S.S.S."
 * **İndirilen dosyalarda VİRÜS var mıdır?**
 
   Hayır, kesinlikle virüs yoktur. Hala endişe duyuyorsanız [VirusTotal](https://virustotal.com "VirusTotal") sitesinden indirdiğiniz dosyaları taratabilirsiniz. Eğer 15 üstünde virüs oyu almadıysa ve Bitdefender, Kaspersky gibi önde gelen anti-virüs programları tarafından virüs olarak algılanmadıysa endişelenmenize hiç gerek yok demektir.
+* **Videolar neden açılmıyor?**
+
+  MEGA tarayıcı eklentisi kullanıyorsanız bazen MEGA'ya yüklenen videoları oynatma konusunda sıkıntı çıkarabiliyor. Böyle bir sorun yaşarsanız sayfayı gizli sekmede açmayı deneyebilir veya eklentiyi devre dışı bırakabilirsiniz.
