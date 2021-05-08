@@ -27,8 +27,8 @@ Tek hakim SENsin.
 
 ![The Aftermath Türkçe Oynanış](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png "The Aftermath Türkçe Oynanış")
 
-**Yapımcı: Tselmek**  
-**Müzik ve Sesler: zminusone**
+**Yapımcı:** [**Tselmek**](https://tselmek.itch.io/the-aftermath)  
+**Müzik ve Sesler:** [**zminusone**](https://soundcloud.com/zminusone)
 
 ***
 
@@ -43,18 +43,18 @@ Yama Yöneticisi
 * Kutay Akbaba
 * Hasan Hüseyin Şahin
 * Gökhan Perçem
-* Ömer Akgöz (34)
+* omerakgoz34
 
 Kalite Kontrol
 
 * Kutay Akbaba
 * Hasan Hüseyin Şahin
 * Gökhan Perçem
-* Ömer Akgöz (34)
+* omerakgoz34
 
-Paketleme ve Yayınlama
+Paketleme ve Yayımlama
 
-* Ömer Akgöz (34)
+* omerakgoz34
 
 ***
 
@@ -62,4 +62,4 @@ Paketleme ve Yayınlama
 
 Yama sürümü: v1 - 2020.04.10
 
-* [Windows için Yükleyici (Oyun ve Yama - 9 MB)](/indir/the-aftermath-windows-yukleyici "The Aftermath Windows")  
+* [Windows için Yükleyici (Oyun ve Yama - 9 MB)](/indir/the-aftermath-windows-yukleyici "The Aftermath Windows")
