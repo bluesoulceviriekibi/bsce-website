@@ -37,4 +37,4 @@ MEGA tarayıcı eklentisi kullanıyorsanız bazen MEGA'ya yüklenen videoları o
 
 ## ⚖️ Yasal Uyarı
 
-İçeriklerimizi izinsiz paylaşmayınız. Paylaşım durumunda ya izin alınması ya da sitemizin linkinin konulması gerekmektedir.
+İçeriklerimizi lütfen izinsiz paylaşmayınız. Paylaşım durumunda ismimizin eklenmesi veya sitemizin linkinin konulması gerekmektedir.
