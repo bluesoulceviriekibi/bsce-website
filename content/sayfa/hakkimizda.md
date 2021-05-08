@@ -31,10 +31,6 @@ Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız
 
 * [**Kripto Para Adreslerimiz**](/sayfa/kripto-para-adreslerimiz "Adreslerimize ulaşmak için tıklayınız")
 
-## 📢 Bilgilendirme
-
-MEGA tarayıcı eklentisi kullanıyorsanız bazen MEGA'ya yüklenen videoları oynatma konusunda sıkıntı çıkarabiliyor. Böyle bir sorun yaşarsanız sayfayı gizli sekmede açmayı deneyebilir veya eklentiyi devre dışı bırakabilirsiniz.
-
 ## ⚖️ Yasal Uyarı
 
 İçeriklerimizi lütfen izinsiz paylaşmayınız. Paylaşım durumunda ismimizin eklenmesi veya sitemizin linkinin konulması gerekmektedir.
