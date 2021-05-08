@@ -26,8 +26,8 @@ Rüyalarında başka bir dünya ile bağlantısı olduğunu gören yalnız bir k
 
 <iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/jhOxWtVw1yQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Yapımcı: Temmie Chang**  
-**Oyun içi müzikler: Toby Fox**
+**Yapımcı: [Temmie Chang](https://tuyoki.itch.io/escaped-chasm)**  
+**Oyun içi müzikler: [Toby Fox](https://twitter.com/tobyfox)**
 
 ***
 
@@ -54,7 +54,7 @@ Ekstra Medya
 * Gökhan Perçem
 * Mehmet Kutlualp Makas
 
-Paketleme ve Yayınlama
+Paketleme ve Yayımlama
 
 * omerakgoz34
 
