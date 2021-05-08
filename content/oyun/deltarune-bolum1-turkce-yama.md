@@ -33,7 +33,7 @@ _Çok..._
 _Çok..._  
 _İlginç..._  
 _Görünüyor..._  
-_Siz ikiniz Ne Düşünüyorsunuz?_
+_Siz İkiniz Ne Düşünüyorsunuz?_
 
 _ŞİMDİ SANA BİRKAÇ SORU SORACAĞIM._  
 _SONRA, CEVAPLARINI KULLANARAK_  
@@ -54,7 +54,7 @@ _GÖSTER KENDİNİ!_
 _DELTARUNE!_
 
 **Yapımcı: Toby Fox**  
-**Yayınlanma Tarihi: 31 EKİM 2018**
+**Yayımlanma Tarihi: 31 EKİM 2018**
 
 ***
 
@@ -84,7 +84,7 @@ _DELTARUNE!_
 
 * Ali Meriç Uslu
 * Gökhan Perçem
-* Léars
+* Léarsai
 * omerakgoz34
 * Ulaş Tanıl
 * Yamocuk
@@ -105,7 +105,7 @@ _DELTARUNE!_
 * Emre Ege
 * Yusuf.
 
-**Paketleme ve Yayınlama**
+**Paketleme ve Yayımlama**
 
 * omerakgoz34
 
