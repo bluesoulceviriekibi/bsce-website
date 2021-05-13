@@ -7,8 +7,6 @@ target = ""
 title = "Sorular"
 
 +++
-# Sıkça Sorulan Sorular
-
 * **Deltarune'un 2. bölümünü de çevirecek misiniz?**
 
   Evet, çıktığı zaman bütün bölümleri çevirmeye çalışacağız.
