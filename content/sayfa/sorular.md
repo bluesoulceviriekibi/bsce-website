@@ -4,7 +4,7 @@ date = 2018-01-01T12:00:00Z
 excludeFromTopNav = false
 link = ""
 target = ""
-title = "S.S.S."
+title = "Sorular"
 
 +++
 # Sıkça Sorulan Sorular
