@@ -13,24 +13,26 @@ aliases:
 ---
 **_Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları siz de seversiniz diyerekten sizler için çeviriyoruz._**
 
-## 📣 Sosyal Medya
+## 📣Sosyal Medya
 
 [![YouTube](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&label=YouTube&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=ff0000&colorB=123b97)](https://youtube.com/c/BlueSoulÇeviriEkibi)  
 [![Discord](https://img.shields.io/static/v1?style=for-the-badge&logo=discord&logoColor=ffffff&label=Discord&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=7289da&colorB=123b97)](https://bluesoulceviriekibi.net/discord)  
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&logoColor=ffffff&label=Telegram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=0088cc&colorB=123b97)](https://t.me/bluesoulceviriekibi)  
 [![Instagram](https://img.shields.io/static/v1?style=for-the-badge&logo=instagram&logoColor=ffffff&label=Instagram&message=BlueSoul%20%C3%87eviri%20Ekibi&colorA=purple&colorB=123b97)](https://instagram.com/bluesoulceviriekibi)
 
-## 📬 İletişim
+## 📬İletişim
 
 E-Posta adresimiz: [bluesoulceviriekibi@gmail.com](mailto:bluesoulceviriekibi@gmail.com) (@bluesoulceviriekibi)  
 Site geliştiricisi: [omerakgoz34@gmail.com](mailto:omerakgoz34@gmail.com) (@omerakgoz34)
 
 Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız. Eğer ekibe katılmak isterseniz sizi Discord sunucumuza bekleriz :)
 
-## 💲Bağış ;)
+## 💖Destek
 
-* [**Kripto Para Adreslerimiz**](/sayfa/kripto-para-adreslerimiz "Adreslerimize ulaşmak için tıklayınız")
+Reklam engelleyici kullanıyorsanız sitemiz için kapatabilir veya [**kripto para adreslerimize**](/sayfa/kripto-para-adreslerimiz "Adreslerimize ulaşmak için tıklayınız") bağış gönderebilirsiniz ;)
 
-## ⚖️ Yasal Uyarı
+## ⚖️Yasal Uyarı
 
-İçeriklerimizi lütfen izinsiz paylaşmayınız. Paylaşım durumunda ismimizin eklenmesi veya sitemizin linkinin konulması gerekmektedir.
+İçeriklerimizi paylaşırken ismimizin eklenmesi veya sitemizin linkinin konulması gerekmektedir.  
+Çevirilerimizi ve yamalarımızı izin almadan başka şeylerde kullanmayınız.  
+Lütfen 💖
