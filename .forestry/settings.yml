@@ -59,7 +59,7 @@ sections:
 upload_dir: website/assets
 public_path: https://res.cloudinary.com/bluesoulceviriekibi/image/upload
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
