@@ -1,6 +1,6 @@
 +++
 aliases = ["/ceviri-panosu"]
-date = 2021-03-08T21:20:49Z
+date = 2018-12-02T14:00:00+03:00
 excludeFromTopNav = true
 link = "https://trello.com/b/wrYPw7iq/çeviri-durum-panosu"
 target = "_self"

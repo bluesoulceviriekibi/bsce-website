@@ -1,6 +1,6 @@
 +++
 aliases = ["/ceviri_istek", "/sayfa/ceviri-durum-istek", "/ceviri", "/sayfa/ceviri", "/ceviriler", "/sayfa/ceviriler", "/ceviri-durum-istek"]
-date = 2018-01-01T13:00:00Z
+date = 2018-12-02T16:00:00+03:00
 excludeFromTopNav = false
 link = ""
 target = ""

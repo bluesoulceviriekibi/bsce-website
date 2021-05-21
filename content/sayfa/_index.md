@@ -1,6 +1,6 @@
 ---
 title: "Boş Sayfa"
-date: 2020-07-08T14:00:00Z
+date: 2018-12-02T14:00:00+03:00
 draft: false
 excludeFromTopNav: true
 
