@@ -1,6 +1,6 @@
 +++
 aliases = ["/sayfa/s.s.s", "/s.s.s", "/sss", "/faq"]
-date = 2018-01-01T12:00:00Z
+date = 2018-12-02T12:00:00Z
 excludeFromTopNav = false
 link = ""
 target = ""
