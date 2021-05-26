@@ -15,7 +15,7 @@ youtube = "xFx5bIOxLtM"
 
 * MandoPony'nin yaptığı bu harika şarkıyı sizler için baştan Türkçe hale getirdik. Umarız beğenirsiniz.
 * Hazırlayan: omerakgoz34 ve Fylean
-* Discord sunucumuz: https://discord.com/invite/5FMfzrfz
+* Discord sunucumuz: [https://bluesoulceviriekibi.net/discord](https://bluesoulceviriekibi.net/discord "BSÇE Discord Sunucusu")
 
 ► Şarkının orijinali: https://youtube.com/watch?v=QM3hpHE28hw  
 ► MandoPony'nin kanalı: https://youtube.com/c/MandoPony
