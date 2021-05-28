@@ -58,4 +58,4 @@ title = "Deltarune Türkçe Windows Kurulumu"
    ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600962811/website/assets/deltarune_windows_kurulum_ss9_olmgsb.png)
 4. Elle kurulum işlemi bitti. Oyunu açıp oynamaya başlayabilirsiniz.
 
-**Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/sayfa/hakkimizda) **yardım alabilirsiniz.**
+**Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/discord "BSÇE Discord Sunucusu") **yardım alabilirsiniz.**
