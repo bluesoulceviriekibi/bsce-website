@@ -20,8 +20,8 @@ title = "Deltarune Türkçe Linux Kurulumu"
 
 ## İndirme Linkleri
 
-* [Linux için Yükleyici (Oyun ve Yama - 66 MB)](/indir/deltarune-b1-linux-yukleyici "Linux için Yükleyici")  
-* [Linux için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-linux-yama "Linux için Yama")  
+* [Linux için Yükleyici (Oyun ve Yama - 66 MB)](/indir/deltarune-b1-linux-yukleyici "Linux için Yükleyici")
+* [Linux için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-linux-yama "Linux için Yama")
 
 ## Kurulum
 
@@ -41,4 +41,4 @@ title = "Deltarune Türkçe Linux Kurulumu"
    **rm \~/.local/share/applications/deltarune-tr.desktop**  
    komutunu çalıştırmanız yeterlidir. Kaldırması işte bu kadar basit :)
 
-**Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/sayfa/hakkimizda) **yardım alabilirsiniz.**
+**Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/discord "BSÇE Discord Sunucusu") **yardım alabilirsiniz.**
