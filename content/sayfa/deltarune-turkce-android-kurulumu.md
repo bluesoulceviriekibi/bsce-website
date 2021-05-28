@@ -20,8 +20,8 @@ title = "Deltarune Türkçe Android Kurulumu"
 
 ## İndirme Linkleri
 
-* [Android için APK (Oyun ve Yama - 74 MB)](/indir/deltarune-b1-android-apk "Android için APK")  
-* [Android için GamePad APK (yedek - 1.1 MB)](/indir/deltarune-b1-android-gamepad "Android için GamePad APK")  
+* [Android için APK (Oyun ve Yama - 74 MB)](/indir/deltarune-b1-android-apk "Android için APK")
+* [Android için GamePad APK (yedek - 1.1 MB)](/indir/deltarune-b1-android-gamepad "Android için GamePad APK")
 
 ## Kurulum
 
@@ -72,4 +72,4 @@ Eğer GamePad uygulamasının bildirimi sistem ayarlarında Uygulamalar menüsü
 
 Android'de oyun yeni dosya açma yetisine sahip değil, dolayısıyla sadece kendi içinde gelen boş kayıt dosyalarını kullanabiliyor. Eğer kayıt dosyasını silip yerine yeni dosya açıp oynamaya çalışırsanız ilk kısmı geçtikten sonra oyun size **FATAL ERROR** hatası verecektir. O yüzden kayıt dosyalarını silmeyin, eğer baştan başalayacak bir kayıt dosyası kalmazsa sistem ayarlarından deltarune'un verilerini temizleyiniz.
 
-**Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/sayfa/hakkimizda) **yardım alabilirsiniz.**
+**Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/discord "BSÇE Discord Sunucusu") **yardım alabilirsiniz.**
