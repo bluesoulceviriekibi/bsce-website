@@ -9,4 +9,4 @@ title = "Telegram Grubu Davet Linki"
 +++
 Davet linkine yönlendiriliyorsunuz...
 
-Hala yönlendirilmediyseniz [buraya](https://t.me/bluesoulceviriekibi "Discord Sunucusu Davet Linki") tıklayınız.
+Hala yönlendirilmediyseniz [buraya](https://t.me/bluesoulceviriekibi "Telegram Grubu Davet Linki") tıklayınız.
