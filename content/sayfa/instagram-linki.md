@@ -1,13 +1,12 @@
 +++
 aliases = ["/telegram"]
 date = 2018-12-02T11:00:00Z
-draft = true
 excludeFromTopNav = true
-link = "https://t.me/bluesoulceviriekibi"
+link = "https://instagram.com/bluesoulceviriekibi"
 target = "_self"
 title = "Instagram Linki"
 
 +++
-Davet linkine yönlendiriliyorsunuz...
+Linke yönlendiriliyorsunuz...
 
-Hala yönlendirilmediyseniz [buraya](https://t.me/bluesoulceviriekibi "Discord Sunucusu Davet Linki") tıklayınız.
+Hala yönlendirilmediyseniz [buraya](https://instagram.com/bluesoulceviriekibi "Instagram Linki") tıklayınız.
