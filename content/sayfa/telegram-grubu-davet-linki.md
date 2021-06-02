@@ -1,13 +1,12 @@
 +++
-aliases = ["/discord-davet-linki", "/discord", "/discord-sunucusu"]
+aliases = ["/telegram"]
 date = 2018-12-02T11:00:00Z
-draft = true
 excludeFromTopNav = true
-link = "https://discord.gg/ZjvWWhU"
+link = "https://t.me/bluesoulceviriekibi"
 target = "_self"
 title = "Telegram Grubu Davet Linki"
 
 +++
 Davet linkine yönlendiriliyorsunuz...
 
-Hala yönlendirilmediyseniz [buraya](https://discord.gg/ZjvWWhU "Discord Sunucusu Davet Linki") tıklayınız.
+Hala yönlendirilmediyseniz [buraya](https://t.me/bluesoulceviriekibi "Discord Sunucusu Davet Linki") tıklayınız.
