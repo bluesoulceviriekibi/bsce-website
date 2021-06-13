@@ -112,10 +112,10 @@ disqusShortname = "bluesoulceviriekibi"
     # all icons https://fontawesome.com/icons?d=gallery&m=free
     # brand icons https://fontawesome.com/icons?d=gallery&s=brands&m=free
     socialMediaLinks = [
-      { link = "https://youtube.com/c/BlueSoulÇeviriEkibi", icon = "fab fa-youtube" },
+      { link = "https://bluesoulceviriekibi.net/youtube", icon = "fab fa-youtube" },
       { link = "https://bluesoulceviriekibi.net/discord", icon = "fab fa-discord" },
-      { link = "https://t.me/bluesoulceviriekibi", icon = "fab fa-telegram" },
-      { link = "https://instagram.com/bluesoulceviriekibi", icon = "fab fa-instagram"},
+      { link = "https://bluesoulceviriekibi.net/telegram", icon = "fab fa-telegram" },
+      { link = "https://bluesoulceviriekibi.net/instagram", icon = "fab fa-instagram"},
       { link = "https://bluesoulceviriekibi.net/index.xml", icon = "fas fa-rss" }
     ]
 
