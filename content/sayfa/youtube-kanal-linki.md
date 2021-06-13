@@ -1,13 +1,13 @@
 +++
-aliases = ["/telegram"]
+aliases = ["/youtube"]
 date = 2018-12-02T11:00:00Z
 draft = true
 excludeFromTopNav = true
-link = "https://t.me/bluesoulceviriekibi"
+link = "https://youtube.com/BlueSoulÇeviriEkibi"
 target = "_self"
 title = "YouTube Kanal Linki"
 
 +++
 Davet linkine yönlendiriliyorsunuz...
 
-Hala yönlendirilmediyseniz [buraya](https://t.me/bluesoulceviriekibi "Telegram Grubu Davet Linki") tıklayınız.
+Hala yönlendirilmediyseniz [buraya](https://youtube.com/BlueSoulÇeviriEkibi "YouTube Kanal Linki") tıklayınız.
