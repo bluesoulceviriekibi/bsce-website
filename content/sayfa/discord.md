@@ -1,6 +1,6 @@
 +++
-aliases = ["/discord-davet-linki", "/discord", "/discord-sunucusu"]
-date = 2018-12-02T14:00:00+03:00
+aliases = ["/discord"]
+date = 2018-12-02T11:00:00Z
 excludeFromTopNav = true
 link = "https://discord.gg/ZjvWWhU"
 target = "_self"
