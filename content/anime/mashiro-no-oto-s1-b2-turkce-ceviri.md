@@ -13,6 +13,10 @@ title = "Mashiro no Oto S1 B2 Türkçe Çeviri"
 Encoder: omerakgoz34  
 Uploader: omerakgoz34
 
-## TurkAnime Linki
+## Alternatif Linkler
 
-[turkanime.net/video/mashiro-no-oto-2-bolum](https://www.turkanime.net/video/mashiro-no-oto-2-bolum "Mashiro no Oto S1 B2 Türkçe Çeviri")
+[TurkAnime](https://www.turkanime.net/video/mashiro-no-oto-2-bolum "TurkAnime Linki")
+
+[Google Drive](https://drive.google.com/file/d/1eJlBoZ2BY0ZrcNbAerZuWv6vwY1LHyTQ/preview "Google Drive Linki")  
+[Sibnet](https://video.sibnet.ru/video4362852 "Sibnet Linki")  
+[Fembed](https://www.fembed.com/v/g4-x5a-lz10d0zp "Fembed Linki")
