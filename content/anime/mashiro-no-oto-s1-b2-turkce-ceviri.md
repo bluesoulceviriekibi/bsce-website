@@ -3,7 +3,7 @@ aliases = []
 ceviriler = ["Anime"]
 date = 2021-07-19T22:25:00Z
 etiketler = ["Mashiro no Oto"]
-iframe = "https://mega.nz/file/z34QTSDL#fsudsGt7yDH8vA0LGfh44wjMPq75wB9fKwuQearxp4o"
+iframe = "https://mega.nz/embed/z34QTSDL#fsudsGt7yDH8vA0LGfh44wjMPq75wB9fKwuQearxp4o"
 title = "Mashiro no Oto S1 B2 Türkçe Çeviri"
 
 +++
