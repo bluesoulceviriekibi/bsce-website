@@ -3,17 +3,17 @@ aliases = []
 ceviriler = ["Anime"]
 date = 2021-01-24T22:19:47Z
 draft = true
-etiketler = ["Yakusoku No Neverland"]
-iframe = "https://mega.nz/embed/mrZWBDYQ#XvfV2dzP5SjZgov0If62leZVCqp8oJZ2PCrfRj_TEh8"
+etiketler = ["Mashiro no Oto"]
+iframe = "https://mega.nz/file/e7Iw2DSD#8diY5Cfqd6UMFTjhgv7_0mhvdXwBOpIVRumSZ1adeek"
 title = "Mashiro no Oto S1 B1 Türkçe Çeviri"
 
 +++
 <!--more-->
 
-Çevirmen: Mr. Meow Meow  
-Encoder: Penfilicious  
-Uploader: HasanH
+Çevirmen: Arhan  
+Encoder: omerakgoz34  
+Uploader: omerakgoz34
 
 ## TurkAnime Linki
 
-[turkanime.net/video/yakusoku-no-neverland-2nd-season-3-bolum](https://www.turkanime.net/video/yakusoku-no-neverland-2nd-season-3-bolum "TurkAnime Linki")
+[turkanime.net/video/mashiro-no-oto-1-bolum](https://www.turkanime.net/video/mashiro-no-oto-1-bolum "Mashiro no Oto S1 B1 Türkçe Çeviri")
