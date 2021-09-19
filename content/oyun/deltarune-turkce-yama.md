@@ -17,6 +17,7 @@ featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597
 aliases:
 - "/ceviri/deltarune"
 - "/ceviri/deltarune.html"
+- "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
 2. Bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok.
