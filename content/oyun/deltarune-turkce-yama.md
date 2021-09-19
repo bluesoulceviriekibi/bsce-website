@@ -20,7 +20,7 @@ aliases:
 - "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
-2\. bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok.  
+2\. bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok. Çeviri durumunu yine bu sayfadan paylaşacağız ilerleyen zamanlarda.  
 <!--more-->
 
 ## Deltarune Hakkında
@@ -119,7 +119,7 @@ Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitir
 
 ***
 
-Yama sürümü: v3.0.0 - 2020.09.14
+Yama sürümü: v3.0.0 - 2020.09.14 (Bölüm 1)
 
 ### İndirme ve Kurulum (Bölüm 1)
 
