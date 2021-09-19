@@ -33,14 +33,6 @@ sections:
   - anime_mp4
   - anime_iframe
 - type: directory
-  path: content/duyuru
-  label: Duyuru
-  create: all
-  match: "**/*"
-  exclude: _index*
-  templates:
-  - yazi
-- type: directory
   path: content/sayfa
   label: Sayfa
   create: all
