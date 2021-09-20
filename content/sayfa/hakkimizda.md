@@ -29,10 +29,10 @@ Ana mekanımız Discord'dur ve ekip işlerini de Discord üzerinden yapmaktayız
 
 ## 💖Destek
 
-Reklam engelleyici kullanıyorsanız sitemiz için kapatabilir veya [**kripto para adreslerimize**](/sayfa/kripto-para-adreslerimiz "Adreslerimize ulaşmak için tıklayınız") bağış gönderebilirsiniz ;)
+Reklam engelleyici kullanıyorsanız sitemiz için kapatabilir ve **1867899760** numaralı Papara hesabımıza bağış gönderebilirsiniz ;)
 
 ## ⚖️Yasal Uyarı
 
-İçeriklerimizi paylaşırken ismimizin eklenmesi veya sitemizin linkinin konulması gerekmektedir.  
+İçeriklerimizi paylaşırken ismimizin eklenmesi ve sitemizin linkinin konulması gerekmektedir.  
 Çevirilerimizi ve yamalarımızı izin almadan başka şeylerde kullanmayınız.  
 Lütfen 💖
