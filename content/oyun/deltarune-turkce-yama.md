@@ -126,7 +126,7 @@ Yama sürümü: v3.0.0 - 2020.09.14 (Bölüm 1)
 * [Windows](/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
 * [Linux](/sayfa/deltarune-turkce-linux-kurulumu "Deltarune Türkçe Linux Kurulumu")
-* [macOS](/indir/deltarune-b1-macos-yama "Deltarune Türkçe macOS") (10 MB sadece yama)
+* [macOS](/indir/deltarune-b1-macos-oyun-yama "Deltarune Türkçe macOS") (Deltarune macOS oyun+yama)
 
 Yamada çokça geliştirmeler yaptık.  
 Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir sürpriz bekliyor ;)_**
