@@ -1,6 +1,6 @@
 ---
 title: Deltarune Bölüm 1 Türkçe Yama (2. bölüm çevirisine başlıyoruz)
-date: 2021-09-18T03:00:00+03:00
+date: 2021-09-18T03:00:00.000+03:00
 ceviriler:
 - Oyun
 etiketler:
@@ -20,7 +20,10 @@ aliases:
 - "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
-2\. bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok. Çeviri durumunu yine bu sayfadan paylaşacağız ilerleyen zamanlarda.  
+2\. bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok. Çeviri durumunu yine bu sayfadan paylaşacağız ilerleyen zamanlarda.
+
+**ŞİMDİKİ YAMA 2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.**
+
 <!--more-->
 
 ## Deltarune Hakkında
@@ -117,11 +120,13 @@ _DELTARUNE!_
 Hareketli ve parlak görseller içerir.  
 Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitirmiş olanlar içindir.
 
+**ŞİMDİKİ YAMA 2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.**
+
 ***
 
-Yama sürümü: v3.0.0 - 2020.09.14 (Bölüm 1)
+Yama sürümü: v3.0.0 - 2020.09.14 (SADECE bölüm 1) **(2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.)**
 
-### İndirme ve Kurulum (Bölüm 1)
+### İndirme ve Kurulum (SADECE bölüm 1) **(2. BÖLÜM İLE UYUMLU DEĞİL.)**
 
 * [Windows](/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
