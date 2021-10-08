@@ -126,7 +126,7 @@ Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitir
 
 Yama sürümü: v3.0.0 - 2020.09.14 (SADECE bölüm 1) **(2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.)**
 
-### İndirme ve Kurulum (SADECE bölüm 1) **(2. BÖLÜM İLE UYUMLU DEĞİL.)**
+### İndirme ve Kurulum (SADECE bölüm 1) **(2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.)**
 
 * [Windows](/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
