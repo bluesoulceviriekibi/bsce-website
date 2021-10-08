@@ -20,6 +20,7 @@ aliases:
 - "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
+[Discord Duyurusu İçin Tıklayınız](https://discord.com/channels/490540966286065674/668843528163426304/889214341746917406 "Discord Duyurusu")  
 2\. bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok. Çeviri durumunu yine bu sayfadan paylaşacağız ilerleyen zamanlarda.
 
 **ŞİMDİKİ YAMA 2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.**
@@ -29,8 +30,7 @@ aliases:
 ## Deltarune Hakkında
 
 _Karanlık Daha Karanlık Daha Da Karanlık..._  
-_Karanlık Büyümeye Devam Ediyor..._
-_Gölgeler Derinleşiyor..._  
+_Karanlık Büyümeye Devam Ediyor..._ _Gölgeler Derinleşiyor..._  
 _Foton Sonuçları Olumsuz..._  
 _Bu Sonraki Deney..._  
 _Çok..._  
