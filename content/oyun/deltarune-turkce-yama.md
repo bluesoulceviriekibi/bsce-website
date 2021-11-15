@@ -1,5 +1,5 @@
 ---
-title: Deltarune Bölüm 1 Türkçe Yama (2. bölüm çevirisine başlıyoruz)
+title: Deltarune Bölüm 1 Türkçe Yama (Bölüm 2 çeviriliyor)
 date: 2021-09-18T03:00:00.000+03:00
 ceviriler:
 - Oyun
@@ -24,10 +24,9 @@ aliases:
 - "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
-[Discord Duyurusu İçin Tıklayınız](https://discord.com/channels/490540966286065674/668843528163426304/889214341746917406 "Discord Duyurusu")  
-2\. bölüm çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok. Çeviri durumunu yine bu sayfadan paylaşacağız ilerleyen zamanlarda.
-
 **ŞİMDİKİ YAMA 2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.**
+
+[Bölüm 2 çeviri durumu için tıklayınız](https://trello.com/c/xKrhfBcR/60-deltarune-b%C3%B6l%C3%BCm-2 "2. bölüm çeviri durumu için tıklayınız")
 
 <!--more-->
 
@@ -139,3 +138,5 @@ Yama sürümü: v3.0.0 - 2020.09.14 (SADECE bölüm 1) **(2. BÖLÜM VE STEAM S�
 
 Yamada çokça geliştirmeler yaptık.  
 Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir sürpriz bekliyor ;)_**
+
+[Bölüm 2 çeviri durumu için tıklayınız](https://trello.com/c/xKrhfBcR/60-deltarune-b%C3%B6l%C3%BCm-2 "2. bölüm çeviri durumu için tıklayınız")
