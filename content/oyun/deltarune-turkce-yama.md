@@ -1,5 +1,5 @@
 ---
-title: Deltarune Bölüm 1 Türkçe Yama (Bölüm 2 çeviriliyor)
+title: Deltarune Bölüm 1 Türkçe Yama (Bölüm 2 çevriliyor)
 date: 2021-09-18T03:00:00.000+03:00
 ceviriler:
 - Oyun
