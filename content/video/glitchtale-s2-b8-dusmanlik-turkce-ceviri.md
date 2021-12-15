@@ -21,6 +21,4 @@ aliases:
 
 [MEGA Yedek Link](https://mega.nz/embed/UVpW3BjR#x9W7qDr7wkoyitp-TD0yUdNEWpwl8MzOzNhKLQlnxtU) (site belki videoyu açamayabilir ama indirip izleyebilirsiniz)
 
-Glitchtale dizisi [Camila Cuevas](https://www.youtube.com/c/CamilaCuevas "Camila'nın YouTube kanalı") tarafından yapılmıştır.
-
-Yeni bölüm çıktığı zaman onlar da çevrilip sitemize eklenecektir :)
+Glitchtale animasyon dizisi [Camila Cuevas](https://www.youtube.com/c/CamilaCuevas "Camila'nın YouTube kanalı") tarafından yapılmıştır.
