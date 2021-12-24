@@ -26,7 +26,7 @@ aliases:
 ---
 **ŞİMDİKİ YAMA 2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.**
 
-[Bölüm 2 çeviri durumu için tıklayınız](https://trello.com/c/xKrhfBcR/60-deltarune-b%C3%B6l%C3%BCm-2 "2. bölüm çeviri durumu için tıklayınız")
+[Bölüm 2 çeviri durumu için tıklayınız](https://trello.com/c/xKrhfBcR/60-deltarune-b%C3%B6l%C3%BCm-2 "2. bölüm çeviri durumu için tıklayınız") (rastgele güncellenmektedir, birkaç gün sonra hala yüzdesi aynı diye çevirmediğimizi sanmayın.)
 
 <!--more-->
 
@@ -139,4 +139,4 @@ Yama sürümü: v3.0.0 - 2020.09.14 (SADECE bölüm 1) **(2. BÖLÜM VE STEAM S�
 Yamada çokça geliştirmeler yaptık.  
 Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir sürpriz bekliyor ;)_**
 
-[Bölüm 2 çeviri durumu için tıklayınız](https://trello.com/c/xKrhfBcR/60-deltarune-b%C3%B6l%C3%BCm-2 "2. bölüm çeviri durumu için tıklayınız")
+[Bölüm 2 çeviri durumu için tıklayınız](https://trello.com/c/xKrhfBcR/60-deltarune-b%C3%B6l%C3%BCm-2 "2. bölüm çeviri durumu için tıklayınız") (rastgele güncellenmektedir, birkaç gün sonra hala yüzdesi aynı diye çevirmediğimizi sanmayın.)
