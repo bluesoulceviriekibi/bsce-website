@@ -114,7 +114,6 @@ disqusShortname = "bluesoulceviriekibi"
     socialMediaLinks = [
       { link = "https://bluesoulceviriekibi.net/youtube", icon = "fab fa-youtube" },
       { link = "https://bluesoulceviriekibi.net/discord", icon = "fab fa-discord" },
-      { link = "https://bluesoulceviriekibi.net/telegram", icon = "fab fa-telegram" },
       { link = "https://bluesoulceviriekibi.net/instagram", icon = "fab fa-instagram"},
       { link = "https://bluesoulceviriekibi.net/index.xml", icon = "fas fa-rss" }
     ]
