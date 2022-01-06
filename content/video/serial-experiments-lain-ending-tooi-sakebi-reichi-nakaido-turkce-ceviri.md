@@ -1,7 +1,6 @@
 +++
 ceviriler = ["Video"]
 date = 2021-11-29T16:11:10Z
-draft = true
 etiketler = ["Serial Experiments Lain", "Anime", "Şarkı", "Bitiş"]
 title = "Serial Experiments Lain Ending // Tooi Sakebi - Reichi Nakaido (Türkçe Çeviri)"
 youtube = "kN2Jwkm_pKg"
