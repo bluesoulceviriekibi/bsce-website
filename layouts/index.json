@@ -7,12 +7,14 @@
 {{- range where (where .Site.RegularPages "Type" "not in" (slice "sayfa" "json")) "Type" "not in" (slice "indir" "json") -}}
     {{-  $iconClass := "fa-file" -}}
 
-    {{- if eq .Type "anime" -}}
-        {{- $iconClass = "fa-video" -}}
-    {{- else if eq .Type "oyun" -}}
+    {{- if eq .Type "oyun" -}}
         {{- $iconClass = "fa-gamepad" -}}
     {{- else if eq .Type "video" -}}
         {{- $iconClass = "fa-video" -}}
+    {{- else if eq .Type "anime" -}}
+        {{- $iconClass = "fa-video" -}}
+    {{- else if eq .Type "yazi" -}}
+        {{- $iconClass = "fa-pen" -}}
     {{- end -}}
 
     {{- range .Translations -}}
