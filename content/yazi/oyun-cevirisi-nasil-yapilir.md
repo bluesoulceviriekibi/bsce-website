@@ -1,7 +1,6 @@
 +++
 aliases = []
 date = 2022-01-24T21:00:00Z
-draft = true
 title = "Oyun Çevirisi Nasıl Yapılır?"
 
 +++
