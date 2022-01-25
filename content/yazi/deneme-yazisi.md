@@ -1,6 +1,7 @@
 +++
 aliases = []
 date = 2022-01-23T16:08:17Z
+draft = true
 title = "DENEME YAZISI"
 
 +++
