@@ -4,18 +4,20 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: ''
 sections:
+- type: heading
+  label: Çeviriler
 - type: directory
   path: content/oyun
-  label: Oyun
-  create: all
+  label: Oyunlar
+  create: documents
   match: "**/*"
   exclude: _index*
   templates:
   - oyun
 - type: directory
   path: content/video
-  label: Video
-  create: all
+  label: Videolar
+  create: documents
   match: "**/*"
   exclude: _index*
   templates:
@@ -24,26 +26,37 @@ sections:
   - video_iframe
 - type: directory
   path: content/anime
-  label: Anime
-  create: all
+  label: Animeler
+  create: documents
   match: "**/*"
   exclude: _index*
   templates:
   - anime_thumbnail
   - anime_mp4
   - anime_iframe
+- type: heading
+  label: Diğer İçerikler
+- type: directory
+  path: content/yazi
+  label: Yazılar
+  create: documents
+  match: "**/*"
+  exclude: _index*
+  new_doc_ext: ".md"
+  templates:
+  - yazi
 - type: directory
   path: content/sayfa
-  label: Sayfa
-  create: all
+  label: Sayfalar
+  create: documents
   match: "**/*"
   exclude: _index*
   templates:
   - sayfa
 - type: directory
   path: content/indir
-  label: İndirme Linki
-  create: all
+  label: İndirme Linkleri
+  create: documents
   match: "**/*"
   exclude: _index*
   templates:
@@ -61,5 +74,6 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server --gc --ignoreCache --disableFastRender -D -e development -w --renderToDisk -d public --cleanDestinationDir
+  instant_preview_command: hugo server --gc --ignoreCache --disableFastRender -D -e
+    development -w --renderToDisk -d public --cleanDestinationDir
 version: 0.92.0
