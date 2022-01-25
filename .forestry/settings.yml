@@ -56,11 +56,10 @@ file_template: ":filename:"
 build:
   preview_env:
   - HUGO_ENV=development
-  - HUGO_VERSION=0.82.1
+  - HUGO_VERSION=0.92.0
   preview_output_directory: public
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo server --gc --ignoreCache --disableFastRender --cleanDestinationDir
-    -w -D --renderToDisk -d public
-version: 0.82.1
+  instant_preview_command: hugo server --gc --ignoreCache --disableFastRender -D -e development -w --renderToDisk -d public --cleanDestinationDir
+version: 0.92.0
