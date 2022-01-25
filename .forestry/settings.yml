@@ -42,7 +42,7 @@ sections:
   create: documents
   match: "**/*"
   exclude: _index*
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - yazi
 - type: directory
