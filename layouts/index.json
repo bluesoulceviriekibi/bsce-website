@@ -1,13 +1,5 @@
 {{- $.Scratch.Add "index" slice -}}
 
-{{- range $name, $taxonomy := .Site.Taxonomies.ceviriler -}}
-    {{- $.Scratch.Add "index" (dict "url" (print "/ceviriler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-folder" "type" "ceviri" "objectID" (print "/ceviriler/" $name | absURL) ) -}}
-{{- end -}}
-
-{{- range $name, $taxonomy := .Site.Taxonomies.yazar -}}
-    {{- $.Scratch.Add "index" (dict "url" (print "/yazar/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-user" "type" "yazar" "objectID" (print "/yazar/" $name | absURL) ) -}}
-{{- end -}}
-
 {{- range $name, $taxonomy := .Site.Taxonomies.etiketler -}}
     {{- $.Scratch.Add "index" (dict "url" (print "/etiketler/" $name | absURL) "title" ($name | humanize) "iconClass" "fa-tag" "type" "etiket" "objectID" (print "/etiketler/" $name | absURL) ) -}}
 {{- end -}}

@@ -1,0 +1,9 @@
+<a class="bubble" href="{{ .Permalink }}">
+    <i class="fas fa-fw {{or .Params.icon "fa-pen" }}"></i>
+</a>
+
+<article class="article">
+    {{ partial "default-content" . }}
+
+    {{ partial "article-footer" . }}
+</article>

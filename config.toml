@@ -121,9 +121,9 @@ disqusShortname = "bluesoulceviriekibi"
     # credits line configuration
     copyrightBy = "BlueSoul Çeviri Ekibi"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2021"
+    copyrightYearOverride = "2022"
     copyrightUrl = "/sayfa/hakkimizda#-yasal-uyarı"
-    creditsText = "Bilberry Theme"
+    creditsText = "Tema: Bilberry Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
@@ -136,7 +136,7 @@ disqusShortname = "bluesoulceviriekibi"
 # don't change anything below
 [taxonomies]
   etiket = "etiketler"
-  ceviri = "ceviriler"
+# ceviri = "ceviriler"
 
 [outputs]
   home = [ "HTML", "JSON", "RSS" ]

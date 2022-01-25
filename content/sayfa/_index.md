@@ -5,7 +5,7 @@ draft: false
 excludeFromTopNav: true
 
 # set the link if you want to redirect the user.
-link: "/sayfa/hakkimizda"
+link: "/"
 # set the html target parameter if you want to change default behavior
 target: "_self"
 ---

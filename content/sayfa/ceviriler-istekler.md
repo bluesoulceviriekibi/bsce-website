@@ -1,17 +1,17 @@
 +++
 aliases = ["/ceviri_istek", "/sayfa/ceviri-durum-istek", "/ceviri", "/sayfa/ceviri", "/ceviriler", "/sayfa/ceviriler", "/ceviri-durum-istek"]
-date = 2018-12-02T16:00:00+03:00
+date = 2018-12-02T17:00:00+03:00
 excludeFromTopNav = false
 link = ""
 target = ""
-title = "Çeviriler ve İstekler"
+title = "Çeviriler"
 
 +++
 ## Çeviriler
 
-* [Oyunlar](/ceviriler/oyun "Oyun Çevirileri")
-* [Animeler](/ceviriler/anime "Anime Çevirileri")
-* [Videolar](/ceviriler/video "Video Çevirileri")
+* [Oyunlar](/oyun "Oyun Çevirileri")
+* [Animeler](/anime "Anime Çevirileri")
+* [Videolar](/video "Video Çevirileri")
 
 ## Çeviri İstek
 

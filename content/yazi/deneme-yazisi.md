@@ -2,11 +2,7 @@
 aliases = []
 date = 2022-01-23T16:08:17Z
 draft = true
-excludeFromTopNav = true
-link = ""
-target = "_blank"
-title = "Yeni Sayfa"
-
+title = "DENEME YAZISI"
 +++
 Merhaba, beni HasanH olarak tanıyor olabilirsiniz. Çevirilerle ilgili gelen sitemler ve sorular beni bu yazıyı yazmaya itti. Oyun çevirisi yapmak istiyorsanız ama nereden başlayacağınızdan emin değilseniz veya sadece bilgi edinmek istiyorsanız umarım bu yazı size katkı sağlar.
 

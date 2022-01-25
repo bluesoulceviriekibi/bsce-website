@@ -7,6 +7,9 @@ target = ""
 title = "Sorular"
 
 +++
+* **İstediğim şeyin çevirisi yok!**
+
+  [Çeviriler](/sayfa/ceviriler-istekler) sayfasından çeviri isteğinde bulunabilirsiniz.
 * **Deltarune Bölüm 2 de çevirecek misiniz?**
 
   Evet çevirisine başlıyoruz ve lütfen bununla alakalı ne zaman gelir gibi sorular sormayınız çünkü bizim de hiçbir fikrimiz yok. Çeviri durumunu [deltarune yama sayfasında](https://bluesoulceviriekibi.net/oyun/deltarune-turkce-yama "deltarune türkçe yama") paylaşacağız ilerleyen zamanlarda.
