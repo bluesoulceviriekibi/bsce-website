@@ -26,4 +26,3 @@ fields:
   label: Kısayollar
   description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
     /ceviri/deltarune'
-pages:
