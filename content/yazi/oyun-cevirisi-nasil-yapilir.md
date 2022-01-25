@@ -6,6 +6,8 @@ title = "Oyun Çevirisi Nasıl Yapılır?"
 +++
 Merhaba, beni HasanH olarak tanıyor olabilirsiniz. Çevirilerle ilgili gelen sitemler ve sorular beni bu yazıyı yazmaya itti. Oyun çevirisi yapmak istiyorsanız ama nereden başlayacağınızdan emin değilseniz veya sadece bilgi edinmek istiyorsanız umarım bu yazı size katkı sağlar.
 
+`<!--more-->`
+
 #### MADDE 1: YETERLİ BİLGİYE SAHİP OL
 
 Öncelikle çevireceğiniz oyun hakkında yeterli bilgiye sahip olmalısınız. Bir süre oynamak ve oyunun ilerleyişinin ne tarzda olduğunu anlamak daha kesin çeviriler yapmanıza olanak sağlayacaktır.
