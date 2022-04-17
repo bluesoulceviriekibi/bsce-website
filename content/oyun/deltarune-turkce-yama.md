@@ -101,8 +101,8 @@ _DELTARUNE!_
 * Natsuo#2442
 * DETERMINATION#9261
 * DaWaeEfe#7364
-* Mert Günhan
-* Can Sungur
+* [Mert Günhan](https://youtube.com/c/MertG%C3%BCnhan "Mert Günhan YouTube Kanalı")
+* [Can Sungur](https://youtube.com/c/CanSungurveYak%C4%B1nEvren "Can Sungur YouTube Kanalı")
 * Emre Ege
 * Yusuf.
 
