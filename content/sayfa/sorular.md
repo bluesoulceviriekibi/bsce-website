@@ -7,6 +7,8 @@ target = ""
 title = "Sorular"
 
 +++
+# Sıkça Sorulan Sorular
+
 * **İstediğim şeyin çevirisi yok!**
 
   [Çeviriler](/sayfa/ceviriler-istekler) sayfasından çeviri isteğinde bulunabilirsiniz.
