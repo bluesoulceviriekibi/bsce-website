@@ -32,4 +32,4 @@ Windows, Linux veya MacOS için:
 
 Android için:
 
-* [Google Play Store indirme sayfası](https://play.google.com/store/apps/dev?id=6234105811740745939)
+* [Google Play Store indirme sayfası](https://play.google.com/store/apps/details?id=com.nomnomnami.hertearsweremylight)
