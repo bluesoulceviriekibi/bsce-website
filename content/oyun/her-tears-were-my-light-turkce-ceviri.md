@@ -16,10 +16,10 @@ Herhangi bir yerde, herhangi bir şey?
 Tam olarak neyi aradığımı bilmesem de, aramaya başladım.  
 Bir dakika, o uzaklardaki ışık da ne?_
 
-**Hikaye ve Çizim:** _NomnomNami_  
-**Arka Planlar:** _Emmit_  
-**Müzik:** [_LydianChord_](https://twitter.com/LydianChord)  
-**Çeviri:** _hasanh ve kivi_
+**Hikaye ve Çizim: _NomnomNami_**  
+**Arka Planlar: _Emmit_**  
+**Müzik:** [**_LydianChord_**](https://twitter.com/LydianChord)  
+**Çeviri: _hasanh ve kivi_**
 
 ***
 
