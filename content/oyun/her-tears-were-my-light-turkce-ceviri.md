@@ -13,7 +13,7 @@ title = "her tears were my light türkçe yama"
 _Karanlık... Karanlık ve hiçlik dört bir yandaydı. Bir noktada düşünmeye başladım...                                                                       Burada bir şeyler olması gerekmiyor mu?  
 Herhangi bir yerde, herhangi bir şey?  
 Tam olarak neyi aradığımı bilmesem de, aramaya başladım.  
-_Bir dakika, o uzaklardaki ışık da ne?
+Bir dakika, o uzaklardaki ışık da ne?_
 
 **Hikaye ve Çizim: NomnomNami  
 Arka Planlar: Emmit  
