@@ -1,5 +1,5 @@
 ---
-title: Dweller's Empty Path Türkçe Yama (Askıda)
+title: Dweller's Empty Path Türkçe Yama (askıda)
 date: 2020-09-13T23:48:21.000+03:00
 ceviriler:
 - Oyun
