@@ -1,11 +1,11 @@
 +++
-title = "Visual C++ 2015-2019 x86"
-link = "https://aka.ms/vs/16/release/vc_redist.x86.exe"
+date = 2022-06-14T21:00:00Z
+link = "https://aka.ms/vs/17/release/vc_redist.x86.exe"
 target = "_self"
+title = "Visual C++ 2015-2022 x86"
 
 +++
 ## İndirme başlatıldı
 
-**Dosya:** vc_redist.x86.exe  
-**Boyut:** 13,6 MB  
-**MD5:** 533067b7bf3dbfeb8c2389d16ad86a61
+**Dosya:** VC_redist.x86.exe  
+**Boyut:** 13,0 MB
