@@ -1,5 +1,5 @@
 ---
-title: Deltarune Bölüm 1 Türkçe Yama (Bölüm 2 çevriliyor)
+title: Deltarune Bölüm 1 Türkçe Yama (Bölüm 2 YOK)
 date: 2021-09-18T03:00:00.000+03:00
 ceviriler:
 - Oyun
@@ -23,6 +23,7 @@ aliases:
 - "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
+**Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. Bölüm 2 henüz çevrilmedi ve ne zaman çevrilir diye sormayın.**
 <!--more-->
 
 ## Deltarune Hakkında
@@ -55,8 +56,8 @@ _ŞİMDİ!_
 _GÖSTER KENDİNİ!_  
 _DELTARUNE!_
 
-**Yapımcı: Toby Fox**  
-**Yayımlanma Tarihi: 31 EKİM 2018**
+**Yapımcı:** [Toby Fox](https://twitter.com/tobyfox "Toby Fox Twitter linki")
+**Yayımlanma Tarihi:** 31 EKİM 2018
 
 ***
 
@@ -115,16 +116,16 @@ _DELTARUNE!_
 
 ## !!! UYARI !!!
 
+**Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. Bölüm 2 henüz çevrilmedi ve ne zaman çevrilir diye sormayın.**
+
 Hareketli ve parlak görseller içerir.  
 Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitirmiş olanlar içindir.
 
-**ŞİMDİKİ YAMA 2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.**
-
 ***
 
-Yama sürümü: v3.0.0 - 2020.09.14 (SADECE bölüm 1) **(2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.)**
+## İndirme ve Kurulum
 
-### İndirme ve Kurulum (SADECE bölüm 1) **(2. BÖLÜM VE STEAM SÜRÜMÜYLE UYUMLU DEĞİL.)**
+Yama sürümü: v3 - 2020.09.14 **(sadece 1. bölümü içerir ve 2. bölüm ile çalışmaz)**
 
 * [Windows](/sayfa/deltarune-turkce-windows-kurulumu "Deltarune Türkçe Windows Kurulumu")
 * [Android](/sayfa/deltarune-turkce-android-kurulumu "Deltarune Türkçe Android Kurulumu")
@@ -132,4 +133,4 @@ Yama sürümü: v3.0.0 - 2020.09.14 (SADECE bölüm 1) **(2. BÖLÜM VE STEAM S�
 * [macOS](/indir/deltarune-b1-macos-oyun-yama "Deltarune Türkçe macOS") (67MB oyun+yama)
 
 Yamada çokça geliştirmeler yaptık.  
-Deltarune'u zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir sürpriz bekliyor ;)_**
+1\. bölümü zaten bitirdiyseniz bile tekrardan oynamanızı tavsiye ederiz ve **_oyunun sonunda sizi çok güzel bir sürpriz bekliyor ;)_**
