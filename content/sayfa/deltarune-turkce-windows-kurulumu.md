@@ -18,14 +18,7 @@ title = "Deltarune Türkçe Windows Kurulumu"
 * **1.8 GHz** veya daha hızlı bir işlemci
 * **200 MB** veya daha fazla boş depolama alanı.
 
-## İndirme Linkleri
-
-* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](/indir/deltarune-b1-windows-yukleyici "Windows için Yükleyici")
-* [Windows için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-windows-yama "Windows için Yama")
-* Visual C++ 2015-2019  
-  [x64 (64-bit)](/indir/vc-redist-x64 "MSVC 2019 64-bit") --- [x86 (32-bit)](/indir/vc-redist-x86 "MSVC 2019 32-bit")
-
-## Yükleyiciyle Kurulum
+## Yükleyici ile Kurulum
 
 1. Yüklemeye başlamadan önce yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32-bit windows kullananların x86 olan paketi, 64-bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
 2. İndirdiğiniz yükleyici dosyasına sağ-tıklayıp yönetici olarak çalıştırınız.
@@ -57,5 +50,16 @@ title = "Deltarune Türkçe Windows Kurulumu"
 
    ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600962811/website/assets/deltarune_windows_kurulum_ss9_olmgsb.png)
 4. Elle kurulum işlemi bitti. Oyunu açıp oynamaya başlayabilirsiniz.
+
+## Olası Hataların Çözümleri
+
+* Eğer yamanın eski sürümünden güncelleme yaptıysanız muhtemelen oyun açılırken "lang load" yazan hata mesajları gösterecektir. Bu sorunun çözümü başlat menüsünden Çalıştır'ı açıp çıkan pencereye "appdata" yazıp enter basmak ve açılan klasörden Local -> DELTARUNE klasörüne girip config.ini dosyasının içindeki "lang=en" yazan yerdeki "en" yazısını "tr" yapıp dosyayı kaydetmektir.
+
+## İndirme Linkleri
+
+* [Windows için Yükleyici (Oyun ve Yama - 62 MB)](/indir/deltarune-b1-windows-yukleyici "Windows için Yükleyici")
+* [Windows için Yama (Sadece Yama - 10 MB)](/indir/deltarune-b1-windows-yama "Windows için Yama")
+* Visual C++ 2015-2022 (ikisinin de kurulması şart)  
+  [x64 (64-bit)](/indir/vc-redist-x64 "MSVC 2022 64-bit") --- [x86 (32-bit)](/indir/vc-redist-x86 "MSVC 2022 32-bit")
 
 **Eğer yardıma ihtiyacınız olursa alttaki yorum kısmından veya** [**discord sunucumuzdan**](https://bluesoulceviriekibi.net/discord "BSÇE Discord Sunucusu") **yardım alabilirsiniz.**
