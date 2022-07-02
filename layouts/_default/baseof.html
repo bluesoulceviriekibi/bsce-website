@@ -112,7 +112,7 @@
     <!-- End Google Tag Manager -->
     
     <!-- Cookies -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{ "cookieconsent.min.css" | absURL }}" />
 </head>
 
 <body class="bilberry-hugo-theme">
@@ -149,7 +149,7 @@
     {{ end }}
     
     <!-- Cookies -->
-    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+    <script src="{{ "cookieconsent.min.js" | absURL }}" data-cfasync="false"></script>
     <script>
         window.cookieconsent.initialise({
           "palette": {
@@ -163,8 +163,8 @@
           "theme": "classic",
           "content": {
             "message": "Hiçbir ödeme yapmadan bize katkıda bulunmak isterseniz reklam engelleyicileri sitemiz için devre dışı bırakabilirsiniz. Sitemiz size özel en uygun reklamları sunmak için \"çerez\" (cookie) kullanır.",
-            "dismiss": "Anlaşıldı",
-            "link": "Çerez de nedir?",
+            "dismiss": "Anladım",
+            "link": "Çerez nedir?",
             "href": "https://support.mozilla.org/tr/kb/cerezler-web-sitelerinin-bilgisayarinizda-depoladi"
           }
         });
