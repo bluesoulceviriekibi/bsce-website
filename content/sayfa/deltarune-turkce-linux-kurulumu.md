@@ -27,10 +27,10 @@ title = "Deltarune Türkçe Linux Kurulumu"
 
 1. İndirdiğiniz yükleyici ZIP dosyasını oyunu kurmak istediğiniz bir klasörün içine çıkartınız. Eğer resimdeki gibi arşivleri çıkartmak için kısayol yoksa terminalden p7zip paketini yükleyip **7z x _dosya.zip_** yazarak içindeki dosyaları çıkartabilirsiniz. **_dosya.zip_** yazan yere indirdiğiniz dosyanın adını yazmayı unutmayınız.
 
-   ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600976060/website/assets/deltarune_linux_kurulum_ss1_zje3vx.png)
+   ![](/media/deltarune_linux_kurulum_ss1_zje3vx.png)
 2. Dosyaları çıkarttıktan sonra **kısayol.sh** yazan dosyayı terminal üzerinden çalıştırınız. Çalıştırma konusunda sorun yaşarsanız **chmod +x kısayol.sh** veya **sh kısayol.sh** komutlarını çalıştırıp tekrar deneyebilirsiniz. Resimdeki gibi hiçbir hata mesajı almazsanız oyunun kısayolu masaüstünüze ve uygulamalar menünüze eklenmiş olacaktır.
 
-   ![](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1600976550/website/assets/deltarune_linux_kurulum_ss2_mvcmdh.png)
+   ![](/media/deltarune_linux_kurulum_ss2_mvcmdh.png)
 3. Kurulum bitmiştir. Uygulama menünüze veya masaüstünüze eklenen kısayoldan oyunu çalıştırıp oynamaya başlayabilirsiniz.
 
 ## Kaldırma

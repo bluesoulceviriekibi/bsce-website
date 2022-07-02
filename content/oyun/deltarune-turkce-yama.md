@@ -16,7 +16,7 @@ etiketler:
 - macOS
 - Bölüm 1
 - Bölüm 2
-featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/deltarune-bolum1-turkce-yama_jynmir.png
+featuredImage: /media/deltarune-bolum1-turkce-yama_jynmir.png
 aliases:
 - "/ceviri/deltarune"
 - "/ceviri/deltarune.html"

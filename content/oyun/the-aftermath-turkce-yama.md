@@ -9,7 +9,7 @@ etiketler:
 - Pixel
 - Sonsuz
 - Windows
-featuredImage: https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928849/website/assets/the-aftermath-turkce-yama_f5dkyp.png
+featuredImage: /media/the-aftermath-turkce-yama_f5dkyp.png
 aliases:
 - "/ceviri/the_aftermath"
 - "/ceviri/the_aftermath.html"
@@ -25,7 +25,7 @@ Kıyamet Günü evrak işleriyle geldi...
 İnsanlar Cennete ya da Cehenneme gitmeli.  
 Tek hakim SENsin.
 
-![The Aftermath Türkçe Oynanış](https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1597928851/website/assets/the-aftermath-turkce-yama_ss1_pyduyz.png "The Aftermath Türkçe Oynanış")
+![The Aftermath Türkçe Oynanış](/media/the-aftermath-turkce-yama_ss1_pyduyz.png "The Aftermath Türkçe Oynanış")
 
 **Yapımcı:** [**Tselmek**](https://tselmek.itch.io/the-aftermath)  
 **Müzik ve Sesler:** [**zminusone**](https://soundcloud.com/zminusone)

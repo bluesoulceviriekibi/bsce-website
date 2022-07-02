@@ -3,7 +3,7 @@ aliases = ["/ceviri/hertearsweremylight", "/ceviri/her-tears-were-my-light", "/c
 ceviriler = ["Oyun"]
 date = 2022-06-06T16:07:36Z
 etiketler = ["her tears were my light", "2D", "Hikaye", "Visual Novel", "Windows", "Android", "Linux", "macOS"]
-featuredImage = "https://res.cloudinary.com/bluesoulceviriekibi/image/upload/v1654532051/website/assets/56_zp6eub.jpg"
+featuredImage = "/media/56_zp6eub.jpg"
 title = "her tears were my light türkçe yama"
 
 +++
