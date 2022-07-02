@@ -61,10 +61,10 @@ sections:
   exclude: _index*
   templates:
   - indir
-upload_dir: website/assets
-public_path: https://res.cloudinary.com/bluesoulceviriekibi/image/upload
+upload_dir: static/media
+public_path: https://bluesoulceviriekibi.net/media
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
