@@ -28,25 +28,25 @@ title = "Deltarune Türkçe Android Kurulumu"
 1. İndirdiğiniz APK dosyasını açıp yüklemeyi başlatın.  
    **Android 7** ve altı bir sürüm kullanıyorsanız sizden bilinmeyen kaynakları açmanızı isteyebilir, eğer **Android 8** ve üstü kullanıyorsanız ise APK dosyasını açtığını uygulamaya göre uygulama yüklemeye izin vermenizi isteyecektir. Bu iki durumdan birisiyle karşılaştığınızda izin verdikten sonra tekrar APK dosyasını açıp yüklemeyi yapabilirsiniz.
 
-   ![](/media/deltarune_kurulum_ss1_ynieo0.jpg)![](/media/deltarune_kurulum_ss2_kpodh5.jpg)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss1_ynieo0.jpg)![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss2_kpodh5.jpg)
 2. [**Buraya**](https://play.google.com/store/apps/details?id=com.fishstix.gameboard&hl=tr_TR "GamePad Google Play Store") tıklayarak **Google Play Store**'dan **GamePad** uygulamasını yüklemelisiniz. Eğer Play Store'dan yükleyemezseniz **yama sayfasında indirmek için link mevcut.**
 
-   ![](/media/deltarune_kurulum_ss3_cjdqkn.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss3_cjdqkn.png)
 
 ## GamePad'i ayarlama
 
 1. GamePad uygulamasını açıp karşınıza çıkan ekrandan **"Configure Input Methods"** yazan butona tıklayın.
 
-   ![](/media/deltarune_kurulum_ss4_t1mv4g.jpg)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss4_t1mv4g.jpg)
 2. Mevcut klavye uygulamaları çıkacaktır karşınıza ve oradan GamePad uygulamasının yanındaki seçeneği aktif ediniz.
 
-   ![](/media/deltarune_kurulum_ss5_j0olbt.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss5_j0olbt.png)
 3. Tekrar GamePad uygulamasının ana ekranına dönünüz ve **"Set Current Input Method"** yazan butona tıklayınız.
 
    Sonra size klavye seçme ekranı gösterecektir, oradan GamePad uygulamasını seçiniz.
 4. **"Go to GamePad Settings"** butonuna tıklayınız ve aşağıdaki gibi yeşil tikle işaretli olan 3 seçeneğin tikini kaldırınız.
 
-   ![](/media/deltarune_kurulum_ss6_kme6wx.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss6_kme6wx.png)
 5. Aşağıdaki gibi **A, B, X ve Y** butonlarının ayarlarını değiştiriniz.  
    **Button A = 3 (PC ESC)**
 
@@ -56,10 +56,10 @@ title = "Deltarune Türkçe Android Kurulumu"
 
    **Button Y = 1 (PC Z)**
 
-   ![](/media/deltarune_kurulum_ss7_feomql.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss7_feomql.png)
 6. Son olarak da aşağıdaki gibi bildirim seçeneğini aktif ediniz.
 
-   ![](/media/deltarune_kurulum_ss8_trughm.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_kurulum_ss8_trughm.png)
 
 ## GamePad kullanımı
 

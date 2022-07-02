@@ -12,7 +12,7 @@ etiketler:
 - Hikaye
 - RPG
 - Windows
-featuredImage: /media/dwellers-empty-path-turkce-yama_tr3fxc.png
+featuredImage: https://bluesoulceviriekibi.net/media/dwellers-empty-path-turkce-yama_tr3fxc.png
 aliases:
 - "/dwellers-empty-path-turkce-yama-durumu"
 - "/yazi/dwellers-empty-path-turkce-yama-duyurusu-1"
@@ -31,7 +31,7 @@ Yama tamamlandığı zaman yine bu sayfadan ulaşabileceksiniz.
 
 <iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/QrwxUqSQTxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Dweller's Empty Path Türkçe Oynanış](/media/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
+![Dweller's Empty Path Türkçe Oynanış](https://bluesoulceviriekibi.net/media/dwellers-empty-path-turkce-yama_ss2_bttm19.png "Dweller's Empty Path Türkçe Oynanış")
 
 **Çıkış Tarihi:** 2020.07.10  
 **Yapımcı:** Temmie Chang  

@@ -11,7 +11,7 @@ etiketler:
 - Hikaye
 - RPG
 - Windows
-featuredImage: /media/escaped-chasm-turkce-yama_peb8n3.png
+featuredImage: https://bluesoulceviriekibi.net/media/escaped-chasm-turkce-yama_peb8n3.png
 aliases:
 - "/ceviri/escaped_chasm"
 - "/ceviri/escaped_chasm.html"

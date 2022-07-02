@@ -23,19 +23,19 @@ title = "Deltarune Türkçe Windows Kurulumu"
 1. Yüklemeye başlamadan önce yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32-bit windows kullananların x86 olan paketi, 64-bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
 2. İndirdiğiniz yükleyici dosyasına sağ-tıklayıp yönetici olarak çalıştırınız.
 
-   ![](/media/deltarune_windows_kurulum_ss1_x9vzfw.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss1_x9vzfw.png)
 3. Kurulum öncesinde yapılması gereken adımları uyguladıysanız "İleri" butonuna basınız.
 
-   ![](/media/deltarune_windows_kurulum_ss2_v49lex.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss2_v49lex.png)
 4. Ekranda yazan bilgilendirmeyi okuyunuz ve şartları kabul ediyorsanız kabul ettim seçeneğini işaretleyip "İleri" butonuna basınız.
 
-   ![](/media/deltarune_windows_kurulum_ss3_qmunn4.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss3_qmunn4.png)
 5. Eğer oyunu başka bir yere yüklemek istiyorsanız "Gözat" butonuna basarak seçebilirsiniz. Sonrasında "Kur" butonuna basınız.
 
-   ![](/media/deltarune_windows_kurulum_ss4_ixyy22.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss4_ixyy22.png)
 6. Kurulum tamamlandıktan sonra aşağıdaki seçeneklerden oyunu ve bilgilendirme metnini açmayı seçebilirsiniz isterseniz. Sorasında "Kapat" butonuna basarak yükleyiciyi kapatabilirsiniz.
 
-   ![](/media/deltarune_windows_kurulum_ss5_fzithg.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss5_fzithg.png)
 7. Yükleyiciyle kurulum işlemi bitti. Oyunu açıp oynamaya başlayabilirsiniz.
 
 ## Elle Kurulum
@@ -43,12 +43,12 @@ title = "Deltarune Türkçe Windows Kurulumu"
 1. Yüklemeye başlamadan önce yukarıdaki linklerden Visual C++ 2015-2019 paketini yüklediğinizden emin olunuz. 32-bit windows kullananların x86 olan paketi, 64-bit windows kullananların ise önce x86 ve sonra da x64 paketini yüklemesi gerekmektedir. Visual C++ yüklendikten sonra bilgisayarınızı yeniden başlatınız. Ve eğer yamanın v2.6 veya daha eski bir sürümü yüklüyse kaldırmayı unutmayınız.
 2. İndirdiğiniz yama ZIP dosyasına çift tıklayarak açınız. Açtığınızda karşınıza "lang", "mus" ve "data.win" dosyaları çıkması gerekmektedir.
 
-   ![](/media/deltarune_windows_kurulum_ss7_awxrsb.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss7_awxrsb.png)
 3. Sonrasında bu 3 dosyayı oyunun kurulu olduğu klasöre sürükleyip bırakınız. Eğer windows size dosyaların zaten var olduğunu söylerse dosyaları değiştirmeyi seçiniz.
 
-   ![](/media/deltarune_windows_kurulum_ss8_whtljn.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss8_whtljn.png)
 
-   ![](/media/deltarune_windows_kurulum_ss9_olmgsb.png)
+   ![](https://bluesoulceviriekibi.net/media/deltarune_windows_kurulum_ss9_olmgsb.png)
 4. Elle kurulum işlemi bitti. Oyunu açıp oynamaya başlayabilirsiniz.
 
 ## Olası Hataların Çözümleri

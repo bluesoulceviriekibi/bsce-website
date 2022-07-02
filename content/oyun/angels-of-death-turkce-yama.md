@@ -3,7 +3,7 @@ aliases = []
 ceviriler = ["Oyun"]
 date = 2021-01-11T12:33:40Z
 etiketler = ["Angels of Death", "2D", "Hikaye", "Windows"]
-featuredImage = "/media/header_mxvcki.jpg"
+featuredImage = "https://bluesoulceviriekibi.net/media/header_mxvcki.jpg"
 title = "Angels of Death Türkçe Yama (askıda)"
 
 +++

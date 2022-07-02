@@ -9,8 +9,8 @@ etiketler:
 - Anime
 aliases:
 - "/ceviri/steins_gate_0_last_game"
-mp4video: /media/steins_gate_0_last_game_turkce_elz2uj.mp4
-mp4videoImage: /media/steins-gate-0-last-game-turkce-ceviri_n8z116.jpg
+mp4video: https://bluesoulceviriekibi.net/media/steins_gate_0_last_game_turkce_elz2uj.mp4
+mp4videoImage: https://bluesoulceviriekibi.net/media/steins-gate-0-last-game-turkce-ceviri_n8z116.jpg
 
 ---
 <!--more-->
