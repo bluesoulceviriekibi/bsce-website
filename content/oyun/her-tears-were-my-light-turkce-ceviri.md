@@ -22,7 +22,7 @@ Bir dakika, o uzaklardaki ışık da ne?_
 
 ***
 
-## Oynayın!
+## Oynayın
 
 Windows, Linux veya MacOS için:
 

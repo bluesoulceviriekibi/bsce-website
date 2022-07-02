@@ -7,7 +7,7 @@ target = ""
 title = "Sorular"
 
 +++
-# Sıkça Sorulan Sorular
+## Sıkça Sorulan Sorular
 
 * **İstediğim şeyin çevirisi yok!**
 

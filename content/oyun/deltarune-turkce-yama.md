@@ -63,11 +63,11 @@ _DELTARUNE!_
 
 ## Yamayı Hazırlayanlar
 
-**Yama Yöneticisi**
+### Yama Yöneticisi
 
 * Hasan Hüseyin Şahin
 
-**Çeviri**
+### Çeviri
 
 * Ahmet Emir
 * Asriel Dreemurr
@@ -83,7 +83,7 @@ _DELTARUNE!_
 * Salih Güdücü
 * Ulaş Göksingöl
 
-**Kalite Kontrol**
+### Kalite Kontrol
 
 * Ali Meriç Uslu
 * Gökhan Perçem
@@ -92,7 +92,7 @@ _DELTARUNE!_
 * Ulaş Tanıl
 * Yamocuk
 
-**Özel Teşekkürler**
+### Özel Teşekkürler
 
 * Fylean#5647
 * 🎄 Natale 🎄#2568
@@ -108,13 +108,13 @@ _DELTARUNE!_
 * Emre Ege
 * Yusuf.
 
-**Paketleme ve Yayımlama**
+### Paketleme ve Yayımlama
 
 * omerakgoz34
 
 ***
 
-## !!! UYARI !!!
+## UYARI
 
 **Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. Bölüm 2 henüz çevrilmedi ve ne zaman çevrilir diye sormayın.**
 

@@ -11,7 +11,7 @@ title = "Angels of Death Türkçe Yama (askıda)"
 
 <iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/JazJmOaMWVc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Herkese Selamlar!
+## Herkese Selamlar
 
 Uzunca bir süredir Angels of Death oyununun türkçe yaması üzerinde çalışmaktayız ve aceleye getirmeden düzgün bir şekilde yapmaya çalışıyoruz. Uzun soluklu ve 4 bölümden oluşan bir oyun olduğundan çeviri durumunu sitede paylaşmaya karar verdik.
 

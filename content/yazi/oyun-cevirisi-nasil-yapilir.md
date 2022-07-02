@@ -36,7 +36,7 @@ Bu maddenin ilk kısmı çok açık, ÇEVİR. Çevirirken size yardımcı olmas�
 Sözlüklerden çıkıp başka bir konuya geçeyim, toplu çeviriler. Eğer birden fazla kişiyle, ekipçe bir çeviri yapacaksanız burada iki yolunuz var demektir. Çevrim içi ve çevrim dışı çeviri. (İsimleri var mı emin değilim, kendim koydum.)
 
 * _Çevirinizi ekibinizle beraber çevrim içi olarak yürütmek istiyorsanız, size göre siteler var._ [**_poedit.net_**](https://poedit.net) _bunlardan biri. Yapmanız gereken tek şey çevrilecek yerleri paylaşmak._
-* _Çevirinizi ekibinizle beraber çevrim dışı olarak yürütmek istiyorsanız, yapmanız gereken tek şey çevrilecek olan dosyayı parçalara ayırmak. Bunun için yine_ [**_Notepad++_**]() _işinizi kolaylaştıracaktır satır sayılarından ötürü. Parçalara ayırdıktan sonra ekip arkadaşlarınıza gönderin ve çeviri maddesini tamamlayın!_
+* _Çevirinizi ekibinizle beraber çevrim dışı olarak yürütmek istiyorsanız, yapmanız gereken tek şey çevrilecek olan dosyayı parçalara ayırmak. Bunun için yine_ [**_Notepad++_**](https://notepad-plus-plus.org) _işinizi kolaylaştıracaktır satır sayılarından ötürü. Parçalara ayırdıktan sonra ekip arkadaşlarınıza gönderin ve çeviri maddesini tamamlayın!_
 
 _Aslında bu kısım tam olarak tamamlanmış sayılmaz, en azından bizim için… Oyunun içerisinde olan görselleri ve sesleri de çevirmek isteyebilirsiniz. Bunlar yine sizin oyun dosyalarının içinde gezinip bulacağınız şeyler. Görselleri ve sesleri çevirmek için yardımcı programlar kullanmalısınız. Görsel düzenleme ve ses kaydetme programları hakkında bilgiyi çeşitli kaynaklardan bulabilirsiniz._
 
