@@ -13,11 +13,10 @@ etiketler:
 youtube: GiodkRKMfb8
 
 ---
+<!--more-->
 [![Görüntülenmeler](https://img.shields.io/youtube/views/GiodkRKMfb8?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/GiodkRKMfb8)
 [![Beğeniler](https://img.shields.io/youtube/likes/GiodkRKMfb8?label=Be%C4%9Feniler&style=social)](https://youtu.be/GiodkRKMfb8)
 [![Yorumlar](https://img.shields.io/youtube/comments/GiodkRKMfb8?label=Yorumlar&style=social)](https://youtu.be/GiodkRKMfb8)  
-
-<!--more-->
 
 YouTube ekibimizin ilk çevirisi! 
 

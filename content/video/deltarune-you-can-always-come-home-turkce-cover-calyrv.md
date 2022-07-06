@@ -14,11 +14,11 @@ etiketler:
 youtube: joqQrZa7COE
 
 ---
+<!--more-->
+
 [![Görüntülenmeler](https://img.shields.io/youtube/views/joqQrZa7COE?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/joqQrZa7COE)
 [![Beğeniler](https://img.shields.io/youtube/likes/joqQrZa7COE?label=Be%C4%9Feniler&style=social)](https://youtu.be/joqQrZa7COE)
-[![Yorumlar](https://img.shields.io/youtube/comments/joqQrZa7COE?label=Yorumlar&style=social)](https://youtu.be/joqQrZa7COE)
-
-<!--more-->
+[![Yorumlar](https://img.shields.io/youtube/comments/joqQrZa7COE?label=Yorumlar&style=social)](https://youtu.be/joqQrZa7COE)  
 
 Bize çok hoş gelen bir OST'nin sözlerini yazdık ve bir video haline getirmeye karar verdik.
 

@@ -14,10 +14,11 @@ aliases:
 - "/video/dusmanlik-glitchtale-s2-b8-animasyon-tr-altyazili"
 
 ---
+<!--more-->
+
 [![Görüntülenmeler](https://img.shields.io/youtube/views/nRZ4Qs_d11o?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/nRZ4Qs_d11o)
 [![Beğeniler](https://img.shields.io/youtube/likes/nRZ4Qs_d11o?label=Be%C4%9Feniler&style=social)](https://youtu.be/nRZ4Qs_d11o)
 [![Yorumlar](https://img.shields.io/youtube/comments/nRZ4Qs_d11o?label=Yorumlar&style=social)](https://youtu.be/nRZ4Qs_d11o)  
-<!--more-->
 
 [MEGA Yedek Link](https://mega.nz/embed/UVpW3BjR#x9W7qDr7wkoyitp-TD0yUdNEWpwl8MzOzNhKLQlnxtU) (site belki videoyu açamayabilir ama indirip izleyebilirsiniz)
 

@@ -14,8 +14,8 @@ mp4video: https://res.cloudinary.com/bluesoulceviriekibi/video/upload/v159795556
 mp4videoImage: ''
 
 ---
+<!--more-->
+
 [![Görüntülenmeler](https://img.shields.io/youtube/views/BUIFF7Hyfdw?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/BUIFF7Hyfdw)
 [![Beğeniler](https://img.shields.io/youtube/likes/BUIFF7Hyfdw?label=Be%C4%9Feniler&style=social)](https://youtu.be/BUIFF7Hyfdw)
-[![Yorumlar](https://img.shields.io/youtube/comments/BUIFF7Hyfdw?label=Yorumlar&style=social)](https://youtu.be/BUIFF7Hyfdw)
-
-<!--more-->
+[![Yorumlar](https://img.shields.io/youtube/comments/BUIFF7Hyfdw?label=Yorumlar&style=social)](https://youtu.be/BUIFF7Hyfdw)  

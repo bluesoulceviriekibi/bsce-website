@@ -10,9 +10,8 @@ etiketler: ["Sword Art Online", "Şarkı", "Açılış"]
 # https://shields.io/category/social
 youtube: "8ZmrVixzBzM"     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 ---
+<!--more-->
 
 [![Görüntülenmeler](https://img.shields.io/youtube/views/8ZmrVixzBzM?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/8ZmrVixzBzM)
 [![Beğeniler](https://img.shields.io/youtube/likes/8ZmrVixzBzM?label=Be%C4%9Feniler&style=social)](https://youtu.be/8ZmrVixzBzM)
 [![Yorumlar](https://img.shields.io/youtube/comments/8ZmrVixzBzM?label=Yorumlar&style=social)](https://youtu.be/8ZmrVixzBzM)  
-
-<!--more-->

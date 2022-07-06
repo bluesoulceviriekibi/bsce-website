@@ -15,11 +15,11 @@ etiketler:
 youtube: yuFCufMabVE
 
 ---
+<!--more-->
+
 [![Görüntülenmeler](https://img.shields.io/youtube/views/yuFCufMabVE?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/yuFCufMabVE)
 [![Beğeniler](https://img.shields.io/youtube/likes/yuFCufMabVE?label=Be%C4%9Feniler&style=social)](https://youtu.be/yuFCufMabVE)
-[![Yorumlar](https://img.shields.io/youtube/comments/yuFCufMabVE?label=Yorumlar&style=social)](https://youtu.be/yuFCufMabVE)
-
-<!--more-->
+[![Yorumlar](https://img.shields.io/youtube/comments/yuFCufMabVE?label=Yorumlar&style=social)](https://youtu.be/yuFCufMabVE)  
 
 Temmie Chang'in 2. oyunu olan "Dweller's Empty Path" oyununu Türkçeye çeviriyoruz!
 

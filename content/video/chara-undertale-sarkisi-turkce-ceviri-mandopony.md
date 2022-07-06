@@ -7,11 +7,10 @@ title = "\"Chara\" ► UNDERTALE ŞARKISI TÜRKÇE ÇEVİRİ - [MandoPony]"
 youtube = "xFx5bIOxLtM"
 
 +++
+<!--more-->
 [![Görüntülenmeler](https://img.shields.io/youtube/views/xFx5bIOxLtM?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/xFx5bIOxLtM)
 [![Beğeniler](https://img.shields.io/youtube/likes/xFx5bIOxLtM?label=Be%C4%9Feniler&style=social)](https://youtu.be/xFx5bIOxLtM)
-[![Yorumlar](https://img.shields.io/youtube/comments/xFx5bIOxLtM?label=Yorumlar&style=social)](https://youtu.be/xFx5bIOxLtM)
-
-<!--more-->
+[![Yorumlar](https://img.shields.io/youtube/comments/xFx5bIOxLtM?label=Yorumlar&style=social)](https://youtu.be/xFx5bIOxLtM)  
 
 * MandoPony'nin yaptığı bu harika şarkıyı sizler için baştan Türkçe hale getirdik. Umarız beğenirsiniz.
 * Hazırlayan: omerakgoz34 ve Fylean

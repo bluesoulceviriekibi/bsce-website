@@ -10,9 +10,8 @@ etiketler: ["Serial Experiments Lain", "Açılış", "Anime"]
 # https://shields.io/category/social
 youtube: "JseuJHO37GI"     # https://www.youtube.com/watch?v=M7IjJiZUutk -> "M7IjJiZUutk"
 ---
+<!--more-->
 
 [![Görüntülenmeler](https://img.shields.io/youtube/views/JseuJHO37GI?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/JseuJHO37GI)
 [![Beğeniler](https://img.shields.io/youtube/likes/JseuJHO37GI?label=Be%C4%9Feniler&style=social)](https://youtu.be/JseuJHO37GI)
 [![Yorumlar](https://img.shields.io/youtube/comments/JseuJHO37GI?label=Yorumlar&style=social)](https://youtu.be/JseuJHO37GI)  
-
-<!--more-->

@@ -13,11 +13,11 @@ etiketler:
 youtube: RQirJrqp0TQ
 
 ---
+<!--more-->
+
 [![Görüntülenmeler](https://img.shields.io/youtube/views/RQirJrqp0TQ?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/RQirJrqp0TQ)
 [![Beğeniler](https://img.shields.io/youtube/likes/RQirJrqp0TQ?label=Be%C4%9Feniler&style=social)](https://youtu.be/RQirJrqp0TQ)
 [![Yorumlar](https://img.shields.io/youtube/comments/RQirJrqp0TQ?label=Yorumlar&style=social)](https://youtu.be/RQirJrqp0TQ)  
-
-<!--more-->
 
 Melike Birler tarafından seslendirilen "Deltarune - Unutma (Don't Forget)" sizlerle! Beğenmenizi umuyoruz. 
 

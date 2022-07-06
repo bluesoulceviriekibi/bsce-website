@@ -13,11 +13,10 @@ etiketler:
 youtube: WIssZIB8AZs
 
 ---
+<!--more-->
 [![Görüntülenmeler](https://img.shields.io/youtube/views/WIssZIB8AZs?label=G%C3%B6r%C3%BCnt%C3%BClenmeler&style=social)](https://youtu.be/WIssZIB8AZs)
 [![Beğeniler](https://img.shields.io/youtube/likes/WIssZIB8AZs?label=Be%C4%9Feniler&style=social)](https://youtu.be/WIssZIB8AZs)
-[![Yorumlar](https://img.shields.io/youtube/comments/WIssZIB8AZs?label=Yorumlar&style=social)](https://youtu.be/WIssZIB8AZs)
-
-<!--more-->
+[![Yorumlar](https://img.shields.io/youtube/comments/WIssZIB8AZs?label=Yorumlar&style=social)](https://youtu.be/WIssZIB8AZs)  
 
 DELTARUNE HİKAYESİ - TÜRKÇE DUBLAJ!
 

@@ -12,6 +12,7 @@ aliases:
 
 ---
 **_Biz BlueSoul Çeviri Ekibi olarak, severek oynadığımız oyunları, izlediğimiz animeleri, dinlediğimiz şarkıları siz de seversiniz diyerekten sizler için çeviriyoruz._**
+<!--more-->
 
 ## 📣Sosyal Medya
 
