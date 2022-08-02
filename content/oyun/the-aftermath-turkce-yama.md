@@ -23,7 +23,7 @@ Tuhaf bir olay dünyadaki tüm canlıların ölümüne neden oldu.
 Kıyamet Günü evrak işleriyle geldi...
 
 İnsanlar Cennete ya da Cehenneme gitmeli.  
-Tek hakim SENsin.
+Tek hakim SENSİN.
 
 ![The Aftermath Türkçe Oynanış](https://bluesoulceviriekibi.net/media/the-aftermath-turkce-yama_ss1_pyduyz.png "The Aftermath Türkçe Oynanış")
 
