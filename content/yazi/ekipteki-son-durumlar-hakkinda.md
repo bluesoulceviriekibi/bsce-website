@@ -1,7 +1,6 @@
 +++
 aliases = []
 date = 2022-08-17T16:29:40Z
-draft = true
 title = "Ekipteki son durumlar hakkında..."
 
 +++
