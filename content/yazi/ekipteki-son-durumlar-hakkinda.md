@@ -48,4 +48,4 @@ Bu ve bundan sonraki çeviriler BSÇE ile ilgili değil, Kivi ve ben üzerinde �
 Kendi türünün parodisi olan bir görsel roman. Bu oyun da korku türünde.
 
 [_My Dream is a Lost Memory,_](https://store.steampowered.com/app/2017890/My_Dream_is_a_Lost_Memory/)  
-10 dakikada biten tatlı bir görsel roman oyunu. Ayrıca, oyunun yapımcısı çekiliş yapmamız için +15 tane kod verdi. Çevirimiz yayımlandığında [discord sunucumuz](https://discord.com/invite/ZjvWWhU) üzerinden çekilişi yapacağız.
+10 dakikada biten tatlı bir görsel roman oyunu. Ayrıca, oyunun yapımcısı çekiliş yapmamız için +15 tane kod verdi. Çevirimiz yayımlandığında [discord sunucumuz](https://bluesoulceviriekibi.net/discord) üzerinden çekilişi yapacağız.
