@@ -26,3 +26,5 @@ fields:
   label: Kısayollar
   description: 'Buraya girilen linkler otomatik olarak bu sayfayı açar.<br>Örnek:
     /ceviri/deltarune'
+pages:
+- content/yazi/ekipteki-son-durumlar-hakkinda.md
