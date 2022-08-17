@@ -8,7 +8,7 @@ Uzun süre sonra tekrar merhaba,
 
 Ekibimizin ve çevirilerimizin gidişatı hakkında birtakım şeylerden bahsedeceğim.
 
-***
+<!--more-->
 
 Konu başlıkları ise şöyle,
 
