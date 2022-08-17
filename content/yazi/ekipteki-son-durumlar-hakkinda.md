@@ -8,6 +8,8 @@ Uzun süre sonra tekrar merhaba,
 
 Ekibimizin ve çevirilerimizin gidişatı hakkında birtakım şeylerden bahsedeceğim.
 
+***
+
 Konu başlıkları ise şöyle,
 
 1- Deltarune ve ekibimizin üzerindeki etkisi
