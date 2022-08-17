@@ -21,19 +21,19 @@ Sizin gelip bana ve ekip arkadaşlarıma karşı yapmış olduğunuz baskılar s
 
 Son zamanlarda aşırı sık gördüğüm yorumlardan ilerleyeyim.
 
-“Sorumluluğu üzerinize aldınız, artık bitirin şu yamayı 1 yıl oldu.”  
+_“Sorumluluğu üzerinize aldınız, artık bitirin şu yamayı 1 yıl oldu.”_  
 Arkadaşlar kimse size “3 ay sonra çeviriyi yayımlıyoruz, bekleyin.” gibi bir söz vermedi. Söylediğim gibi, biz bu işi hobi olarak yapıyoruz ve bizim patronumuz değilsiniz. Oyunda kullanılan cümleler bazen o kadar tuhaf ve zor ki üzerinde düşünmek zorunda kalıyoruz. Size çeviri borcumuz yok. Size hizmet vermek zorunda olan bir devlet değiliz.
 
-“Para kazanmıyoruz diyorsunuz sitenizde reklam var.”  
+_“Para kazanmıyoruz diyorsunuz sitenizde reklam var.”_  
 Sitedeki reklamlar henüz sitenin ücretini bile sağlayamıyor. Sitenin ücretini de cebimizden veriyoruz.
 
-“Siz çeviriyi bitirene kadar biz İngilizce öğrenirdik, daha kısa sürerdi."  
+_“Siz çeviriyi bitirene kadar biz İngilizce öğrenirdik, daha kısa sürerdi."_  
 Öğrenin?
 
-“Siz yapamıyorsanız bana verin ben bitireyim. En fazla 1 haftaya bitiririm.”  
+_“Siz yapamıyorsanız bana verin ben bitireyim. En fazla 1 haftaya bitiririm.”_  
 Son zamanlarda bu yorum da bayağı arttı. Sunucumuza gelip kötü Türkçenizle bu cümleleri söylemeniz sizi ciddiye almamıza engel oluyor. Gerçekten çevirmeye devam edebilecek bir ekip olursa düşünebiliriz. Berbat bir üslupla, tek başınıza gelip “Bana verin şunu 1 haftaya bitireyim, çok yavaşsınız.” derseniz sizi ciddiye alamayız, üzgünüm.
 
-“Bu kadar uzun sürecektiyse keşke hiç başlamasaydınız.”  
+_“Bu kadar uzun sürecektiyse keşke hiç başlamasaydınız.”_  
 Bunu ara ara ben de düşünüyorum. Başka bir ekip daha çeviriyor olsaydı çeviriye onları bırakırdık muhtemelen.
 
 2- Kısaca bilgi vermek istediğim diğer projeler şunlar,
