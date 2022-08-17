@@ -1,6 +1,7 @@
 +++
 aliases = []
 date = 2022-08-17T16:29:40Z
+draft = true
 title = "Ekipteki son durumlar hakkında..."
 
 +++
@@ -12,8 +13,7 @@ Ekibimizin ve çevirilerimizin gidişatı hakkında birtakım şeylerden bahsede
 
 Konu başlıkları ise şöyle,
 
-1- Deltarune ve ekibimizin üzerindeki etkisi
-
+1- Deltarune ve ekibimizin üzerindeki etkisi  
 2- Yakında yayımlanacak olan diğer projeler
 
 1- BlueSoul Çeviri Ekibi gönüllü şekilde çeviri yapan, kendi halinde bir ekiptir. Ben ve ekip arkadaşlarım “hobi” olarak çeviri yapıyoruz ve para kazanmıyoruz. Ekipteki herkesin kendi hayatlarındaki yaşadıkları olaylar, psikolojik değişimleri veya çalıştıkları işler çevirilerin gidişatını etkileyebiliyor.
@@ -31,11 +31,11 @@ Sitedeki reklamlar henüz sitenin ücretini bile sağlayamıyor. Sitenin ücreti
 _“Siz çeviriyi bitirene kadar biz İngilizce öğrenirdik, daha kısa sürerdi."_  
 Öğrenin?
 
-_“Siz yapamıyorsanız bana verin ben bitireyim. En fazla 1 haftaya bitiririm.”  
-_Son zamanlarda bu yorum da bayağı arttı. Sunucumuza gelip kötü Türkçenizle bu cümleleri söylemeniz sizi ciddiye almamıza engel oluyor. Gerçekten çevirmeye devam edebilecek bir ekip olursa düşünebiliriz. Berbat bir üslupla, tek başınıza gelip “Bana verin şunu 1 haftaya bitireyim, çok yavaşsınız.” derseniz sizi ciddiye alamayız, üzgünüm.
+_“Siz yapamıyorsanız bana verin ben bitireyim. En fazla 1 haftaya bitiririm.”_  
+Son zamanlarda bu yorum da bayağı arttı. Sunucumuza gelip kötü Türkçenizle bu cümleleri söylemeniz sizi ciddiye almamıza engel oluyor. Gerçekten çevirmeye devam edebilecek bir ekip olursa düşünebiliriz. Berbat bir üslupla, tek başınıza gelip “Bana verin şunu 1 haftaya bitireyim, çok yavaşsınız.” derseniz sizi ciddiye alamayız, üzgünüm.
 
 _“Bu kadar uzun sürecektiyse keşke hiç başlamasaydınız.”_  
-_Bunu ara ara ben de düşünüyorum. Başka bir ekip daha çeviriyor olsaydı çeviriye onları bırakırdık muhtemelen.
+Bunu ara ara ben de düşünüyorum. Başka bir ekip daha çeviriyor olsaydı çeviriye onları bırakırdık muhtemelen.
 
 2- Kısaca bilgi vermek istediğim diğer projeler şunlar,
 
