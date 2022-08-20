@@ -8,4 +8,4 @@ target = "_self"
 
 **Dosya:** Deltarune_Turkce_macOS_OyunYama_v3.0.0_Final_BlueSoul_Ceviri_Ekibi.zip  
 **Boyut:** 67 MB  
-**MD5:** ...
+**MD5:** C9C8E5A111CE14914B45308C9361B65C
