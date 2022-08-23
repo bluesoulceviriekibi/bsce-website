@@ -2,7 +2,6 @@
 aliases = ["/ceviri/oak-hill", "/ceviri/oakhill", "/ceviri/oak-hill.html", "/ceviri/oakhill.html"]
 ceviriler = ["Oyun"]
 date = 2022-08-23T14:26:38Z
-draft = true
 etiketler = ["2D", "Hikaye", "Oak Hill", "Visual Novel", "Windows", "macOS"]
 featuredImage = "https://bluesoulceviriekibi.net/media/maxresdefault.jpg"
 title = "Oak Hill Türkçe Yama"
