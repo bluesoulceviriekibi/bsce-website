@@ -1,5 +1,5 @@
 +++
-aliases = []
+aliases = ["/ceviri/oak-hill", "/ceviri/oakhill", "/ceviri/oak-hill.html", "/ceviri/oakhill.html"]
 ceviriler = ["Oyun"]
 date = 2022-08-23T14:26:38Z
 draft = true
