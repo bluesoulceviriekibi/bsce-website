@@ -3,7 +3,7 @@ aliases = []
 ceviriler = ["Oyun"]
 date = 2022-08-23T14:26:38Z
 draft = true
-etiketler = []
+etiketler = ["2D", "Hikaye", "Oak Hill", "Visual Novel", "Windows", "macOS"]
 featuredImage = "https://bluesoulceviriekibi.net/media/maxresdefault.jpg"
 title = "Oak Hill Türkçe Yama"
 
