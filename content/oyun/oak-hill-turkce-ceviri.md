@@ -2,14 +2,14 @@
 aliases = ["/ceviri/oak-hill", "/ceviri/oakhill", "/ceviri/oak-hill.html", "/ceviri/oakhill.html"]
 ceviriler = ["Oyun"]
 date = 2022-08-23T14:26:38Z
-etiketler = ["2D", "Hikaye", "Oak Hill", "Visual Novel", "Windows", "macOS"]
+etiketler = ["2D", "Hikaye", "Oak Hill", "Visual Novel", "Windows", "macOS", "Linux"]
 featuredImage = "https://bluesoulceviriekibi.net/media/maxresdefault.jpg"
 title = "Oak Hill Türkçe Yama"
 
 +++
-<!--more-->
-
 En iyi arkadaşı olan Harriet'la vedalaşması için, yaşam ve ölüm arasında kalmış olan Theo'ya yardım edin!
+
+<!--more-->
 
 **Geliştirici:** _Iris Cola_  
 **Çeviri:** _hasanh ve kivi_
