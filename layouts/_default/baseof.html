@@ -47,6 +47,13 @@
 <html class="no-js" lang="{{ .Site.Language.Lang }}">
 
 <head>
+    <!-- Domain Redirect -->
+    <script>
+        if (window.location.hostname.endsWith("bluesoulceviriekibi.net") == false && window.location.hostname.endsWith("forestry.io") == false && window.location.hostname.endsWith("pages.dev") == false) {
+            window.location.replace("https://bluesoulceviriekibi.net");
+        }
+    </script>
+    
     <meta charset="utf-8">
     <meta name="theme-color" content="#0F3280">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -99,25 +106,28 @@
     <link rel="stylesheet" href="{{ . | absURL }}">
     {{ end }}
     {{ end }}
+    
+    
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142633768-3"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
 
-    <!-- Google Tag Manager -->
-    <script>(function (w, d, s, l, i) {
-            w[l] = w[l] || []; w[l].push({
-                'gtm.start':
-                    new Date().getTime(), event: 'gtm.js'
-            }); var f = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-KKG3FMF');</script>
-    <!-- End Google Tag Manager -->
+        gtag('config', 'UA-142633768-3');
+        </script>
+
+    <!-- Google Adsense -->
+    <script data-ad-client="ca-pub-6714443713333752" defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
+    
+    <!-- Cookie -->
+    <link rel="stylesheet" type="text/css" href="/cookieconsent.min.css"/>
 </head>
 
 <body class="bilberry-hugo-theme">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KKG3FMF" height="0" width="0"
-            style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-
     {{ partial "topnav" . }}
 
     {{ partial "header" . }}
@@ -144,6 +154,30 @@
     {{ if and (isset .Site.Params "algolia_search") (eq .Site.Params.algolia_search true) }}
     {{ partial "algolia-search" . }}
     {{ end }}
+    
+    
+    
+    <!-- Cookie -->
+    <script src="/cookieconsent.min.js" data-cfasync="false"></script>
+    <script>
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#252e39"
+            },
+            "button": {
+              "background": "#14a7d0"
+            }
+          },
+          "theme": "classic",
+          "content": {
+            "message": "Hiçbir ödeme yapmadan bize katkıda bulunmak isterseniz reklam engelleyicileri sitemiz için devre dışı bırakabilirsiniz. Sitemiz size özel en uygun reklamları sunmak için Çerez(Cookie) kullanmaktadır.",
+            "dismiss": "Anladım",
+            "link": "Çerez nedir?",
+            "href": "https://support.mozilla.org/tr/kb/cerezler-web-sitelerinin-bilgisayarinizda-depoladi"
+          }
+        });
+    </script>
 </body>
 
 </html>
