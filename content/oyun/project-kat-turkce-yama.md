@@ -5,9 +5,17 @@ date = 2022-12-07T16:35:24Z
 draft = true
 etiketler = ["Project Kat", "2D", "Hikaye"]
 featuredImage = ""
-title = "Project Kat Türkçe Yama"
+title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 +++
 <!--more-->
 
-"Gerçeklerle yüzleşmeye hazır değilsin... değil mi?"
+##### _"Gerçeklerle yüzleşmeye hazır değilsin... değil mi?"_
+
+## Çeviri: %100
+
+## Kontrol: %20
+
+***
+
+## Oynayın:
