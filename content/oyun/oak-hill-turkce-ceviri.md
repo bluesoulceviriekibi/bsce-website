@@ -22,4 +22,4 @@ Windows ve MacOS için:
 
 * [Itch.io indirme sayfası](https://iriscolastudio.itch.io/oak-hill "Itch.io indirme sayfası")
 
-  (oyun ücretli değil, o kısım sadece bağış için. "no thanks" butonuna tıklarsanız ücretsiz şekilde oynayabilirsiniz...)
+  (oyun ücretli değil, o kısım sadece bağış için. "no thanks" butonuna tıklarsanız ücretsiz şekilde oynayabilirsiniz.)
