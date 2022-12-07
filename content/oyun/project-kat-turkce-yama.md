@@ -18,4 +18,12 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 ***
 
-## Oynayın:
+## Oynayın
+
+Windows, Linux veya MacOS için:
+
+* [Itch.io indirme sayfası](https://store.steampowered.com/app/2112520/her_tears_were_my_light/ "Steam indirme sayfası")
+
+Android için:
+
+* [Google Play Store indirme sayfası](https://play.google.com/store/apps/details?id=com.nomnomnami.hertearsweremylight "Google Play Store indirme sayfası")
