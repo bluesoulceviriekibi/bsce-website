@@ -18,12 +18,18 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 ***
 
+![](https://bluesoulceviriekibi.net/media/a.png)
+
+![](https://bluesoulceviriekibi.net/media/b.png)
+
+![](https://bluesoulceviriekibi.net/media/c.png)
+
+![](https://bluesoulceviriekibi.net/media/d.png)
+
+***
+
 ## Oynayın
 
 Windows, Linux veya MacOS için:
 
-* [Itch.io indirme sayfası](https://store.steampowered.com/app/2112520/her_tears_were_my_light/ "Steam indirme sayfası")
-
-Android için:
-
-* [Google Play Store indirme sayfası](https://play.google.com/store/apps/details?id=com.nomnomnami.hertearsweremylight "Google Play Store indirme sayfası")
+* [Steam indirme sayfası](https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue/ "Steam indirme sayfası")
