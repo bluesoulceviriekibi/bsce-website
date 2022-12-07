@@ -26,9 +26,7 @@ Bir dakika, o uzaklardaki ışık da ne?_
 
 Windows, Linux veya MacOS için:
 
-* [Itch.io indirme sayfası](https://nomnomnami.itch.io/her-tears-were-my-light "Itch.io indirme sayfası")
-
-  (oyun ücretli değil, o kısım sadece bağış için. "no thanks" butonuna tıklarsanız ücretsiz şekilde oynayabilirsiniz.)
+* [Itch.io indirme sayfası](https://store.steampowered.com/app/2112520/her_tears_were_my_light/ "Steam indirme sayfası")
 
 Android için:
 
