@@ -7,15 +7,15 @@ featuredImage = "https://bluesoulceviriekibi.net/media/capsule_616x353.jpg"
 title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 +++
-<!--more-->
-
 ##### _"Gerçeklerle yüzleşmeye hazır değilsin... değil mi?"_
 
-### Çeviri: hasanh, ayliz
+<!--more-->
 
-### Kontrol: kivi, [hasanh](https://hasanh.carrd.co), çikomania
+**Çeviri:** **_hasanh, ayliz_**
 
-### Teknik Destek: [omerakgoz34](https://linktr.ee/omerakgoz34), 6trx
+**Kontrol: _kivi,_** **_hasanh, çikomania_**
+
+**Teknik Destek:** **_omerakgoz34, 6trx_**
 
 ***
 
