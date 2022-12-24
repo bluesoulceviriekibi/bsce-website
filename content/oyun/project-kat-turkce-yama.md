@@ -3,7 +3,7 @@ aliases = ["/ceviri/projectkat", "/ceviri/project-kat", "/ceviri/projectkat.html
 ceviriler = ["Oyun"]
 date = 2022-12-07T16:35:24Z
 etiketler = ["Project Kat", "2D", "Hikaye"]
-featuredImage = ""
+featuredImage = "https://bluesoulceviriekibi.net/media/capsule_616x353.jpg"
 title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 +++
@@ -11,9 +11,11 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 ##### _"Gerçeklerle yüzleşmeye hazır değilsin... değil mi?"_
 
-## Çeviri: %100
+### Çeviri: hasanh, ayliz
 
-## Kontrol: %20
+### Kontrol: kivi, [hasanh](https://hasanh.carrd.co), çikomania
+
+### Teknik Destek: [omerakgoz34](https://linktr.ee/omerakgoz34), 6trx
 
 ***
 
@@ -32,3 +34,4 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 Windows, Linux veya MacOS için:
 
 * [Steam indirme sayfası](https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue/ "Steam indirme sayfası")
+* [Itch.io indirme sayfası](https://leef6010.itch.io/projectkat)
