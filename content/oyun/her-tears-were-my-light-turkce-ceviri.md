@@ -27,6 +27,7 @@ Bir dakika, o uzaklardaki ışık da ne?_
 Windows, Linux veya MacOS için:
 
 * [Itch.io indirme sayfası](https://store.steampowered.com/app/2112520/her_tears_were_my_light/ "Steam indirme sayfası")
+* [Steam indirme sayfası](https://store.steampowered.com/app/2112520/her_tears_were_my_light/)
 
 Android için:
 
