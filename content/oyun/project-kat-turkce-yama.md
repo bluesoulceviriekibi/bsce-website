@@ -11,11 +11,11 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 <!--more-->
 
-**Çeviri:** **_hasanh, ayliz_**
+**Çeviri:** [_hasanh_](https://hasanh.carrd.co)_, ayliz_
 
-**Kontrol: _kivi,_** **_hasanh, çikomania_**
+**Kontrol:** [_hasanh_](https://hasanh.carrd.co)_, kivi, çikomania_
 
-**Teknik Destek:** **_omerakgoz34, 6trx_**
+**Teknik Destek:** [_omerakgoz34_](https://linktr.ee/omerakgoz34)_, 6trx_
 
 ***
 
