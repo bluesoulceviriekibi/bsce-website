@@ -31,8 +31,8 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 ## İndirin
 
-[Google Drive](https://drive.google.com/file/d/1kmWGiV0HsQMtUrLDcOPysbJ9U0bBBn6_/view?usp=share_link)  
-[MEGA](https://mega.nz/file/R7QWST6Y#5xz5sSDucHOCNyISas-CStcQDHrc8RaY7rWXENDMr3U)
+* [Google Drive](https://drive.google.com/file/d/1kmWGiV0HsQMtUrLDcOPysbJ9U0bBBn6_/view?usp=share_link)
+* [MEGA](https://mega.nz/file/R7QWST6Y#5xz5sSDucHOCNyISas-CStcQDHrc8RaY7rWXENDMr3U)
 
 Yama dosyasını oyunun dosyalarındaki "pack" klasörüne atmanız yeterlidir!
 
