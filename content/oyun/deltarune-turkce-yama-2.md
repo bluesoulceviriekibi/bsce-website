@@ -4,7 +4,7 @@ ceviriler = ["Oyun"]
 date = 2024-01-01
 etiketler = ["Deltarune", "Windows", "Bölüm 2"]
 featuredImage = "https://yumeshivn.com/wp-content/uploads/2023/12/Screenshot_3.png"
-title = Deltarune Bölüm 2 Türkçe Yama
+title = Deltarune Bölüm 2
 aliases = ["/ceviri/deltarune-turkce-yama-iki", "/ceviri/deltarune-iki"]
 
 +++
