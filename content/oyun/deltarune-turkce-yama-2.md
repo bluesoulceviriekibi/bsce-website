@@ -1,13 +1,27 @@
-+++
+---
 
-ceviriler = ["Oyun"]
-date = 2024-01-01
-etiketler = ["Deltarune", "Windows", "Bölüm 2"]
-featuredImage = "https://yumeshivn.com/wp-content/uploads/2023/12/Screenshot_3.png"
-title = Deltarune Bölüm 2
-aliases = ["/ceviri/deltarune-turkce-yama-iki", "/ceviri/deltarune-iki"]
-
-+++
+date: 2024-01-01T03:00:00.000+03:00
+etiketler: ["Deltarune", "Windows", "Bölüm 2"]
+featuredImage: https://yumeshivn.com/wp-content/uploads/2023/12/Screenshot_3.png
+title: Deltarune Bölüm 2 Türkçe Yama
+aliases:
+- "/ceviri/deltarune-bolum2"
+- "/ceviri/deltarune2.html"
+- "/oyun/deltarune-bolum2-turkce-yama"
+ceviriler:
+- Oyun
+etiketler:
+- Deltarune
+- Toby Fox
+- 2D
+- Pixel
+- Hikaye
+- RPG
+- Windows
+- Bölüm 1
+- Bölüm 2
+---
+<!--more-->
 
 ### BlueSoul & Yumeshi Novel
 
