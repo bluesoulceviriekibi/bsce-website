@@ -26,14 +26,14 @@ etiketler:
 # BlueSoul & Yumeshi Novel
 
 
-### Çevirmenler: (Yumeshi Novel)
+#### Çevirmenler: (Yumeshi Novel)
 * fnx
 * Phymos
 * Archain
 * Deniz
 * Pigeon
 
-### Çevirmenler: (BlueSoul)
+#### Çevirmenler: (BlueSoul)
 * Ms. Mlem
 * ayliz
 * ralvo
@@ -42,7 +42,7 @@ etiketler:
 * Kivi
 * ChirreMiller
 
-### Programlama: (BlueSoul)
+#### Programlama: (BlueSoul)
 * omerakgoz34
 
 ### Türkçe Grafikler:
