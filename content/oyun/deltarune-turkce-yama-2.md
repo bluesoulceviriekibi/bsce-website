@@ -23,7 +23,8 @@ etiketler:
 ---
 <!--more-->
 
-### BlueSoul & Yumeshi Novel
+# BlueSoul & Yumeshi Novel
+
 
 ### Çevirmenler: (Yumeshi Novel)
 * fnx
