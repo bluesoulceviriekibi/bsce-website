@@ -1,5 +1,5 @@
 ---
-title: Deltarune Bölüm 1 Türkçe Yama (Bölüm 2 YOK)
+title: Deltarune Bölüm 1 Türkçe Yama
 date: 2021-09-18T03:00:00.000+03:00
 ceviriler:
 - Oyun
@@ -23,7 +23,7 @@ aliases:
 - "/oyun/deltarune-bolum1-turkce-yama"
 
 ---
-**Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. Bölüm 2 henüz çevrilmedi ve ne zaman çevrilir diye sormayın.**
+**Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. [Bölüm 2 için tıklayınız.](https://bluesoulceviriekibi.net/oyun/deltarune-turkce-yama-2/ "Deltarune Bölüm 2")**
 <!--more-->
 
 ## Deltarune Hakkında
@@ -116,7 +116,7 @@ _DELTARUNE!_
 
 ## UYARI
 
-**Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. Bölüm 2 henüz çevrilmedi ve ne zaman çevrilir diye sormayın.**
+**Yamanın şu anki v3 sürümü sadece 1. bölümü kapsamaktadır. Steam ve  Itch.io ile uyumlu değildir. [Bölüm 2 için tıklayınız.](https://bluesoulceviriekibi.net/oyun/deltarune-turkce-yama-2/ "Deltarune Bölüm 2")**
 
 Hareketli ve parlak görseller içerir.  
 Sadece [UNDERTALE](https://undertale.com) 'ın iyi sonunu ve kötü sonunu bitirmiş olanlar içindir.
