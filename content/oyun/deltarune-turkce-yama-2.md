@@ -26,30 +26,30 @@ etiketler:
 ### BlueSoul & Yumeshi Novel
 
 ### Çevirmenler: (Yumeshi Novel)
-– fnx
-– Phymos
-– Archain
-– Deniz
-– Pigeon
+* fnx
+* Phymos
+* Archain
+* Deniz
+* Pigeon
 
 ### Çevirmenler: (BlueSoul)
-– Ms. Mlem
-– ayliz
-– ralvo
-– lzird
-– fylean
-– Kivi
-– ChirreMiller
+* Ms. Mlem
+* ayliz
+* ralvo
+* lzird
+* fylean
+* Kivi
+* ChirreMiller
 
 ### Programlama: (BlueSoul)
-– omerakgoz34
+* omerakgoz34
 
 ### Türkçe Grafikler:
-– fnx
-– Phymos
-– Lauwann
-– Kwashu
-– Fwei
+* fnx
+* Phymos
+* Lauwann
+* Kwashu
+* Fwei
 
 ***
 
