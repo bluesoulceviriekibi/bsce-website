@@ -9,7 +9,7 @@ title = "Angels of Death Türkçe Yama (askıda)"
 +++
 <!--more-->
 
-<iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/JazJmOaMWVc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%;height:350px" src="https://www.youtube.com/embed/JazJmOaMWVc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" sandbox="allow-scripts" allowfullscreen></iframe>
 
 ## Herkese Selamlar
 
