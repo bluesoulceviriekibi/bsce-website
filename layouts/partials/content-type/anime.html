@@ -7,18 +7,18 @@
 
     {{ with .Params.youtube }}
     <div class="responsive-video youtube">
-        <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}?rel=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}?rel=0" frameborder="0" sandbox="allow-scripts" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     {{ end }}
     {{ with .Params.vimeo }}
     <div class="responsive-video vimeo">
-        <iframe src="https://player.vimeo.com/video/{{ . }}" frameborder="0" webkitallowfullscreen mozallowfullscreen
+        <iframe src="https://player.vimeo.com/video/{{ . }}" frameborder="0" sandbox="allow-scripts"webkitallowfullscreen mozallowfullscreen
             allowfullscreen></iframe>
     </div>
     {{ end }}
     {{ with .Params.prezi }}
     <div class="responsive-video prezi">
-        <iframe src="https://prezi.com/embed/{{ . }}/" frameborder="0" webkitallowfullscreen mozallowfullscreen
+        <iframe src="https://prezi.com/embed/{{ . }}/" frameborder="0" sandbox="allow-scripts" webkitallowfullscreen mozallowfullscreen
             allowfullscreen></iframe>
     </div>
     {{ end }}
@@ -33,7 +33,7 @@
 
     {{ with .Params.iframe }}
     <div class="responsive-video youtube">
-        <iframe src="{{ . }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe src="{{ . }}" frameborder="0" sandbox="allow-scripts" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     {{ end }}
     
