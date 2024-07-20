@@ -31,7 +31,8 @@ title = "Project Kat - Paper Lily Prologue Türkçe Yama"
 
 ## Oynayın
 
-Windows, Linux ve MacOS için:
+Türkçe yama oyuna dahil edilmiştir. Ekstra bir şey indirmenize gerek yok.
+(Windows, Linux, macOS)
 
 * [Steam indirme sayfası](https://store.steampowered.com/app/1698960/Project_Kat__Paper_Lily_Prologue/ "Steam indirme sayfası")
 * [Itch.io indirme sayfası](https://leef6010.itch.io/projectkat)
