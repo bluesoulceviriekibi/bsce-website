@@ -36,6 +36,11 @@ jobs:
 
       - name: Build Site
         run: hugo --gc --minify --ignoreCache --cleanDestinationDir -d public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
       
       - name: Update Algolia Index
         run: |
