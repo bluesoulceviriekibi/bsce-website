@@ -1,0 +1,51 @@
+name: Deployment
+
+on:
+  push:
+    branches: [ master ]
+  delete:
+    branches: [ master ]
+  create:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.92.0"
+          extended: true
+          
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade "algoliasearch>=2.0,<3.0"
+
+      - name: Build Site
+        run: hugo --gc --minify --ignoreCache --cleanDestinationDir -d public
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+      
+      - name: Update Algolia Index
+        run: |
+          chmod +x upload_aloglia_index.sh
+          ./upload_aloglia_index.sh
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
