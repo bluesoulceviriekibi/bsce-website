@@ -121,7 +121,7 @@ disqusShortname = "bluesoulceviriekibi"
     # credits line configuration
     copyrightBy = "BlueSoul Çeviri Ekibi"
     copyrightUseCurrentYear = false  # set to true to always display the current year in the copyright
-    copyrightYearOverride = "2024"
+    copyrightYearOverride = "2025"
     copyrightUrl = "/sayfa/hakkimizda#-yasal-uyarı"
     creditsText = "Tema: Bilberry"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
